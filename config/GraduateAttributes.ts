@@ -8,7 +8,7 @@ export let professionalSelfSkills = [
     levels: [
       {
         label: "1x",
-        value: 2,
+        value: 6,
         description: "2 Issues Created",
       },
       {
@@ -35,7 +35,7 @@ export let professionalSelfSkills = [
     levels: [
       {
         label: "1x",
-        value: 2,
+        value: 6,
         description: "2 Pulls Created",
       },
       {
@@ -71,7 +71,7 @@ export let professionalTeamSkills = [
     levels: [
       {
         label: "1x",
-        value: 100,
+        value: 200,
         description: "100th Community Interaction",
       },
       {
@@ -93,7 +93,7 @@ export let professionalTeamSkills = [
     levels: [
       {
         label: "1x",
-        value: 2,
+        value: 6,
         description: "2 Pulls Created",
       },
       {
@@ -120,7 +120,7 @@ export let professionalTeamSkills = [
     levels: [
       {
         label: "1x",
-        value: 100,
+        value: 200,
         description: "100 Activity Points",
       },
       {
