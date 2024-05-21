@@ -8,6 +8,7 @@ import Provider from "./provider";
 import { env } from "@/env.mjs";
 
 export const metadata: Metadata = {
+  metadataBase: new URL(env.NEXT_PUBLIC_META_URL),
   title: env.NEXT_PUBLIC_PAGE_TITLE,
   description: env.NEXT_PUBLIC_META_DESCRIPTION,
   openGraph: {
@@ -26,10 +27,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-background text-foreground">
-        <div>
+        <div className="flex min-h-screen flex-col justify-between">
           <Provider>
-            <Navbar />
-            {children}
+            <div>
+              <Navbar />
+              {children}
+            </div>
             <Footer />
           </Provider>
         </div>

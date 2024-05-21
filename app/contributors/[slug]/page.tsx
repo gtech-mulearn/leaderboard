@@ -21,7 +21,30 @@ import RelativeTime from "@/components/RelativeTime";
 import Link from "next/link";
 import { env } from "@/env.mjs";
 import { getLeaderboardData } from "@/app/api/leaderboard/functions";
+import { Metadata, ResolvingMetadata } from "next";
 
+type Params = {
+  params: { slug: string };
+};
+
+export async function generateMetadata(
+  { params }: Params,
+  parent: ResolvingMetadata,
+): Promise<Metadata> {
+  const slug = params.slug;
+  const contributor = await getContributorBySlug(slug, true);
+  const url = env.NEXT_PUBLIC_META_URL;
+
+  return {
+    title: slug,
+    description: contributor.content,
+    openGraph: {
+      title: slug,
+      description: contributor.content,
+      url: `${url}/contributors/${slug}`,
+    },
+  };
+}
 export async function generateStaticParams() {
   const slugs = await getContributorsSlugs();
   return slugs
@@ -30,10 +53,6 @@ export async function generateStaticParams() {
 }
 
 export const dynamicParams = false;
-
-type Params = {
-  params: { slug: string };
-};
 
 export default async function Page({ params }: Params) {
   const { slug } = params;
@@ -53,13 +72,8 @@ export default async function Page({ params }: Params) {
     ) + 1 || null;
 
   return (
-    <div className="min-h-screen overflow-x-hidden bg-background">
+    <div className="min-h-screen overflow-hidden bg-background">
       {/* <Header /> */}
-      <div className="bg-secondary-200/50 dark:bg-secondary-700/50 border-b border-secondary-300 pb-3 pt-2 shadow-md dark:border-secondary-700">
-        <h1 className="mx-auto max-w-6xl text-center text-sm text-secondary-600 dark:text-secondary-400 md:text-xl">
-          Personal Learning Dashboard (Beta)
-        </h1>
-      </div>
       <section className="bg-secondary-200 px-4 py-6 dark:bg-secondary-800">
         <div className=" mx-auto flex max-w-6xl flex-col gap-2 md:flex-row lg:gap-16">
           <div className="mx-auto my-auto min-w-max md:w-2/3">
@@ -223,8 +237,8 @@ export default async function Page({ params }: Params) {
         </div>
 
         <div className="px-4 md:p-0">
-          <h3 className="my-4 font-bold text-foreground">Learning Activity</h3>
-          <div className="overflow-x-auto">
+          <h3 className="my-4 font-bold text-foreground">Activity</h3>
+          <div>
             <ActivityCalendarGit calendarData={contributor.calendarData} />
           </div>
         </div>
@@ -360,7 +374,7 @@ export default async function Page({ params }: Params) {
 
         {contributor["activityData"] &&
           contributor["activityData"]["activity"] && (
-            <div className="mt-6 px-4 md:p-0">
+            <div className="mt-6 px-4 md:w-[64rem] md:p-0">
               <div className="flex flex-col gap-1">
                 <h3 className="font-bold text-foreground">Contributions</h3>
                 <span className="text-sm text-secondary-500 dark:text-secondary-400">
