@@ -1,5 +1,5 @@
-import ActiveProjects from "./ActiveProjects";
-import { ACTIVE_PROJECT_LABELS } from "./constants";
+import ActiveProjects from "@/app/projects/ActiveProjects";
+import { ACTIVE_PROJECT_LABELS } from "@/app/projects/constants";
 import { notFound } from "next/navigation";
 import { featureIsEnabled } from "@/lib/utils";
 
@@ -12,7 +12,7 @@ export default function Page() {
       <h1 className="pb-10 text-4xl">Active Projects</h1>
       <ActiveProjects
         labels={ACTIVE_PROJECT_LABELS}
-        className="flex flex-col gap-10"
+        className="flex flex-col gap-4"
       />
     </div>
   );

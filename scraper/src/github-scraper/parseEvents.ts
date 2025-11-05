@@ -8,10 +8,31 @@ import { calculateTurnaroundTime } from "./utils.js";
 import { parseISO } from "date-fns";
 import { isBlacklisted } from "./utils.js";
 import { octokit } from "./config.js";
-const processedData: ProcessData = {};
 
+const processedData: ProcessData = {};
+const defaultBranches: Record<string, string> = {};
+
+async function getDefaultBranch(owner: string, repo: string) {
+  if (defaultBranches[repo] == null) {
+    try {
+      const { data } = await octokit.request("GET /repos/{owner}/{repo}", {
+        owner,
+        repo,
+      });
+      defaultBranches[repo] = data.default_branch;
+    } catch (e) {
+      console.error(`Error fetching default branch for  ${owner}/${repo} `);
+    }
+  }
+  return defaultBranches[repo];
+}
 function appendEvent(user: string, event: Activity) {
-  console.log(`Appending event for ${user}`);
+  if (isBlacklisted(user)) {
+    return;
+  }
+  console.debug(
+    `Appending ${event.type} event for user ${user}. ${event.link}`,
+  );
   if (!processedData[user]) {
     console.log(`Creating new user data for ${user}`);
     processedData[user] = {
@@ -34,11 +55,20 @@ const emailUserCache: { [key: string]: string } = {};
 async function addCollaborations(event: PullRequestEvent, eventTime: Date) {
   const collaborators: Set<string> = new Set();
 
-  const url: string | undefined = event.payload.pull_request?.commits_url;
+  const [owner, repo] = event.repo.name.split("/");
+  const defaultBranch = await getDefaultBranch(owner, repo);
+  if (event.payload.pull_request.base.ref !== defaultBranch) {
+    return;
+  }
 
-  const response = await octokit.request("GET " + url);
-  const commits = response.data;
+  const url = event.payload.pull_request?.commits_url;
+  const { data: commits } = await octokit.request("GET " + url);
   for (const commit of commits) {
+    // Merge commits has more than 1 parent commits; skip merge commit authors from being counted as collaborators
+    if (commit.parents.length > 1) {
+      continue;
+    }
+
     let authorLogin = commit.author && commit.author.login;
     if (!authorLogin) {
       authorLogin = commit.commit.author.name;
@@ -99,11 +129,10 @@ async function addCollaborations(event: PullRequestEvent, eventTime: Date) {
   }
 
   if (collaborators.size > 1) {
-    const collaboratorArray = Array.from(collaborators); // Convert Set to Array
+    const collaboratorArray = Array.from(collaborators);
     for (const user of collaboratorArray) {
       const others = new Set(collaborators);
       const othersArray = Array.from(others);
-
       others.delete(user);
       appendEvent(user, {
         type: "pr_collaborated",
@@ -165,7 +194,16 @@ export const parseEvents = async (events: IGitHubEvent[]) => {
           event.payload.action === "closed" &&
           event.payload.pull_request?.merged
         ) {
-          const turnaroundTime = await calculateTurnaroundTime(event);
+          let turnaroundTime: number | undefined = undefined;
+          try {
+            turnaroundTime = await calculateTurnaroundTime(event);
+          } catch (e) {
+            console.error(
+              `Error calculating turnaround time for event ${event.id}: ${e}`,
+              `Likely due to PR author ${event.payload.pull_request.user.login} being deleted`,
+              event,
+            );
+          }
           appendEvent(event.payload.pull_request.user.login, {
             type: "pr_merged",
             title: `${event.repo.name}#${event.payload.pull_request.number}`,
@@ -174,17 +212,26 @@ export const parseEvents = async (events: IGitHubEvent[]) => {
             text: event.payload.pull_request.title,
             turnaround_time: turnaroundTime,
           });
-          await addCollaborations(event, eventTime);
+          try {
+            await addCollaborations(event, eventTime);
+          } catch (e) {
+            console.error(
+              `Error adding collaborations for event ${event.id}: ${e}`,
+              event,
+            );
+          }
         }
         break;
       case "PullRequestReviewEvent":
-        appendEvent(user, {
-          type: "pr_reviewed",
-          time: eventTime?.toISOString(),
-          title: `${event.repo.name}#${event.payload.pull_request.number}`,
-          link: event.payload.review.html_url,
-          text: event.payload.pull_request.title,
-        });
+        if (event.payload.pull_request.user?.login !== user) {
+          appendEvent(user, {
+            type: "pr_reviewed",
+            time: eventTime?.toISOString(),
+            title: `${event.repo.name}#${event.payload.pull_request.number}`,
+            link: event.payload.review.html_url,
+            text: event.payload.pull_request.title,
+          });
+        }
         break;
       default:
         break;

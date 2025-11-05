@@ -1,12 +1,11 @@
-/*  */
 import { Contributor } from "@/lib/types";
 import clsx from "clsx";
 import Link from "next/link";
 import { BsSlack, BsTwitterX, BsLinkedin, BsGithub } from "react-icons/bs";
 import { env } from "@/env.mjs";
-import ContributorImage from "./ContributorImage";
+import ContributorImage from "@/components/contributors/ContributorImage";
 
-export default async function InfoCard({
+export default function InfoCard({
   contributor,
   rank = null,
   isClickable = false,
@@ -14,6 +13,7 @@ export default async function InfoCard({
   contributor: Contributor;
   rank?: number | null;
   isClickable?: boolean;
+  isFirstTimeContributor?: boolean;
 }) {
   return (
     <div
@@ -38,8 +38,7 @@ export default async function InfoCard({
             <ContributorImage
               contributorGithub={contributor.github}
               rank={rank}
-              height={112}
-              width={112}
+              size="large"
             />
           </Link>
         </div>
@@ -61,9 +60,15 @@ export default async function InfoCard({
                 #{rank}
               </span>
             </Link>
-            <p className="text-sm text-secondary-400 md:text-base">
-              {contributor.title}
-            </p>
+            {contributor.isNewContributor ? (
+              <p className="inline-block rounded-full text-sm text-primary-400 md:text-base">
+                New Contributor 🎉
+              </p>
+            ) : (
+              <p className="text-sm text-secondary-400 md:text-base">
+                {contributor.title}
+              </p>
+            )}
           </div>
 
           <ul role="list" className="mt-4 flex items-center space-x-4">

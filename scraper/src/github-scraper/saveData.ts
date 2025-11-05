@@ -23,10 +23,12 @@ export const mergedData = async (
       const existing = await loadUserData(user, dataDir);
       const combinedActivities = [...userData.activity, ...existing.activity];
 
-      userData.activity = deduplicate(
-        (activity) => `${activity.type}--${activity.link}`,
-        combinedActivities,
-      );
+      userData.activity = deduplicate((activity) => {
+        if (activity.type === "pr_reviewed") {
+          return `${activity.type}--${activity.title}`;
+        }
+        return `${activity.type}--${activity.link}`;
+      }, combinedActivities);
 
       saveUserData(user, userData, dataDir, null);
     }

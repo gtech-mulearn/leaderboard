@@ -6,7 +6,7 @@ import {
   parseDateRangeSearchParam,
   parseOrgRepoFromURL,
 } from "@/lib/utils";
-import OpenGraphImage from "@/components/gh_events/OpenGraphImage";
+
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import RelativeTime from "@/components/RelativeTime";
 import DateRangePicker from "@/components/DateRangePicker";
@@ -16,10 +16,35 @@ import { IoIosChatboxes } from "react-icons/io";
 import Link from "next/link";
 import { atomWithStorage } from "jotai/utils";
 import { useAtom } from "jotai";
+import {
+  IoGitCommit,
+  IoGitMerge,
+  IoGitPullRequestSharp,
+} from "react-icons/io5";
+import { FaRegDotCircle } from "react-icons/fa";
+import { MdOutlineInsertComment, MdReviews } from "react-icons/md";
 
 const activityTypesAtom = atomWithStorage("leaderboard-activity-types", [
   ...ACTIVITY_TYPES,
 ]);
+
+const getNumberFromLink = (link: string) => {
+  const parts = link.split("/");
+  return parts[parts.length - 1];
+};
+
+const formatSlackText = (text: string) => {
+  text = text.replace(/<([^|]+)\|([^>]+)>/g, "$2");
+  text = text.replace(/<@([A-Z0-9]+)>/g, "@$1");
+  text = text.replace(/:([a-zA-Z0-9_+-]+):/g, "$1");
+  return text;
+};
+
+const FormattedTime = ({ time }: { time: string }) => (
+  <span className="text-foreground underline">
+    {format(new Date(time), "dd MMM yy")}
+  </span>
+);
 
 let commentTypes = (activityEvent: string[]) => {
   switch (activityEvent[0]) {
@@ -41,9 +66,9 @@ let renderText = (activity: Activity) => {
       return (
         <div className="min-w-0 flex-1">
           <div>
-            <div className="">
+            <div>
               <div className="font-bold text-primary-500 dark:text-primary-300">
-                <RelativeTime time={timestamp} />
+                <FormattedTime time={timestamp} />
                 <span className=" text-sm font-medium text-secondary-700 dark:text-secondary-200">
                   {" "}
                   - End of the day update from slack
@@ -52,11 +77,9 @@ let renderText = (activity: Activity) => {
             </div>
           </div>
           <div className="mt-2 rounded-lg border border-secondary-600 p-2 md:p-4">
-            <a href={activity["link"]} target="_blank">
-              <span className="cursor-pointer break-words text-sm font-medium text-foreground hover:text-primary-500">
-                {activity["text"]}
-              </span>
-            </a>
+            <span className="whitespace-pre-line break-words text-sm font-medium text-foreground">
+              {formatSlackText(activity["text"])}
+            </span>
           </div>
         </div>
       );
@@ -64,23 +87,21 @@ let renderText = (activity: Activity) => {
       return (
         <div className="min-w-0 flex-1">
           <div>
-            <p className="font-bold">
+            <div className="font-base text-sm text-primary-300">
               {"Commented on "}
               {commentTypes(activity["link"].split("/").slice(5, 6))}
               {" in  "}
-              <span className="text-primary-400 dark:text-primary-300">
+              <span className="text-primary-300">
                 {activity["link"].split("/").slice(3, 5).join("/")}
               </span>
-
-              <span className="text-foreground">
-                {" "}
-                <RelativeTime time={timestamp} />
+              <span className="ml-2 whitespace-nowrap">
+                on <FormattedTime time={timestamp} />
               </span>
-            </p>
+            </div>
           </div>
           <div className="mt-2 rounded-lg border border-secondary-600 p-2 md:p-4">
             <a href={activity["link"]} target="_blank">
-              <span className="cursor-pointer break-words text-sm font-medium text-foreground hover:text-primary-500">
+              <span className="cursor-pointer whitespace-pre-line break-words text-sm font-medium text-foreground hover:text-primary-500">
                 {activity["text"]}
               </span>
             </a>
@@ -92,8 +113,8 @@ let renderText = (activity: Activity) => {
     case "pr_reviewed":
       return (
         <div className="min-w-0 flex-1 py-1.5">
-          <div className="text-foreground">
-            <div className="font-bold">
+          <div className="text-base text-foreground">
+            <div className="font-base text-sm text-primary-300">
               <span className="capitalize">
                 {activity["type"].split("_")[1]}
               </span>
@@ -109,13 +130,22 @@ let renderText = (activity: Activity) => {
               ) : (
                 <span className="text-foreground">
                   {" "}
-                  <RelativeTime time={timestamp} />
+                  <FormattedTime time={timestamp} />
                 </span>
               )}
             </div>
             {["pr_merged", "pr_opened"].includes(activity["type"]) && (
               <div className="max-w-xl pt-4">
-                <OpenGraphImage url={activity["link"]} className="rounded-xl" />
+                <a
+                  href={activity["link"]}
+                  target="_blank"
+                  className="font-bold text-foreground hover:text-primary-500 dark:text-white dark:hover:text-primary-400"
+                >
+                  {activity["text"]}{" "}
+                  <span className="text-sm text-gray-300">
+                    #{getNumberFromLink(activity["link"])}
+                  </span>
+                </a>
               </div>
             )}
             {activity["type"] == "pr_reviewed" && (
@@ -135,21 +165,30 @@ let renderText = (activity: Activity) => {
     case "issue_closed":
       return (
         <div className="min-w-0 flex-1 py-1.5">
-          <div className="text-sm text-foreground">
-            <div className="text-base font-bold">
+          <div className="text-base text-foreground">
+            <div className="font-base text-sm text-primary-300">
               <span className="capitalize">
                 {activity["type"].split("_")[1]}
               </span>
-              <span>{" an issue on "}</span>
+              <span>{" an issue in "}</span>
               <span className="text-primary-300">
                 {activity["link"].split("/").slice(3, 5).join("/")}
               </span>
               <span className="ml-2 whitespace-nowrap">
-                <RelativeTime time={timestamp} />
+                on <FormattedTime time={timestamp} />
               </span>
             </div>
             <div className="max-w-xl pt-4">
-              <OpenGraphImage url={activity["link"]} className="rounded-xl" />
+              <a
+                href={activity["link"]}
+                target="_blank"
+                className="font-bold text-foreground hover:text-primary-500 dark:text-white dark:hover:text-primary-400"
+              >
+                {activity["text"]}{" "}
+                <span className="text-sm text-gray-300">
+                  #{getNumberFromLink(activity["link"])}
+                </span>
+              </a>
             </div>
           </div>
         </div>
@@ -157,8 +196,8 @@ let renderText = (activity: Activity) => {
     case "pr_collaborated":
       return (
         <div className="min-w-0 flex-1 py-1.5">
-          <div className="text-foreground">
-            <div className="font-bold">
+          <div className="text-base text-foreground">
+            <div className="font-base text-sm">
               <span className="capitalize">
                 {activity["type"].split("_")[1]}
               </span>
@@ -168,7 +207,16 @@ let renderText = (activity: Activity) => {
               </span>
             </div>
             <div className="max-w-xl pt-4">
-              <OpenGraphImage url={activity["link"]} className="rounded-xl" />
+              <a
+                href={activity["link"]}
+                target="_blank"
+                className="font-bold text-foreground hover:text-primary-500 dark:text-white dark:hover:text-primary-400"
+              >
+                {activity["text"]}{" "}
+                <span className="text-sm text-gray-300">
+                  #{getNumberFromLink(activity["link"])}
+                </span>
+              </a>
             </div>
           </div>
         </div>
@@ -195,7 +243,7 @@ let renderText = (activity: Activity) => {
               )}
               <span className="text-foreground">
                 {" "}
-                <RelativeTime time={activity.time} />
+                <FormattedTime time={activity.time} />
               </span>
             </p>
           </div>
@@ -233,72 +281,42 @@ let icon = (type: string) => {
   switch (type) {
     case "comment_created":
     case "eod_update":
-      return (
-        <svg
-          className="h-5 w-5 text-secondary-700"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          aria-hidden="true"
-        >
-          <path
-            fillRule="evenodd"
-            d="M18 5v8a2 2 0 01-2 2h-5l-5 4v-4H4a2 2 0 01-2-2V5a2 2 0 012-2h12a2 2 0 012 2zM7 8H5v2h2V8zm2 0h2v2H9V8zm6 0h-2v2h2V8z"
-            clipRule="evenodd"
-          />
-        </svg>
-      );
-    case "pr_opened":
-    case "pr_merged":
-      return (
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 448 512"
-          className="h-5 w-5 text-secondary-700"
-          fill="currentColor"
-          aria-hidden="true"
-        >
-          <path d="M208 239.1H294.7C307 211.7 335.2 191.1 368 191.1C412.2 191.1 448 227.8 448 271.1C448 316.2 412.2 352 368 352C335.2 352 307 332.3 294.7 303.1H208C171.1 303.1 138.7 292.1 112 272V358.7C140.3 371 160 399.2 160 432C160 476.2 124.2 512 80 512C35.82 512 0 476.2 0 432C0 399.2 19.75 371 48 358.7V153.3C19.75 140.1 0 112.8 0 80C0 35.82 35.82 0 80 0C124.2 0 160 35.82 160 80C160 112.6 140.5 140.7 112.4 153.2C117 201.9 158.1 240 208 240V239.1zM80 103.1C93.25 103.1 104 93.25 104 79.1C104 66.74 93.25 55.1 80 55.1C66.75 55.1 56 66.74 56 79.1C56 93.25 66.75 103.1 80 103.1zM80 456C93.25 456 104 445.3 104 432C104 418.7 93.25 408 80 408C66.75 408 56 418.7 56 432C56 445.3 66.75 456 80 456zM368 247.1C354.7 247.1 344 258.7 344 271.1C344 285.3 354.7 295.1 368 295.1C381.3 295.1 392 285.3 392 271.1C392 258.7 381.3 247.1 368 247.1z" />
-        </svg>
-      );
+      return <MdOutlineInsertComment className="size-5 text-secondary-700" />;
+
+    case "pr_reviewed":
+      return <MdReviews className="size-5 text-secondary-700" />;
 
     case "issue_opened":
-    case "issue_assigned":
       return (
-        <svg
-          className="h-5 w-5 text-secondary-700"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          aria-hidden="true"
-        >
-          <path
-            fillRule="evenodd"
-            d="M17.707 9.293a1 1 0 010 1.414l-7 7a1 1 0 01-1.414 0l-7-7A.997.997 0 012 10V5a3 3 0 013-3h5c.256 0 .512.098.707.293l7 7zM5 6a1 1 0 100-2 1 1 0 000 2z"
-            clipRule="evenodd"
-          />
-        </svg>
+        <FaRegDotCircle className="size-5 stroke-current text-green-600" />
       );
+
+    case "issue_assigned":
+      return <FaRegDotCircle className="size-5 stroke-current text-blue-600" />;
+
+    case "issue_closed":
+      return (
+        <FaRegDotCircle className="size-5 stroke-current text-purple-600" />
+      );
+
+    case "pr_opened":
+      return (
+        <IoGitPullRequestSharp className="size-5 stroke-current text-green-600" />
+      );
+
+    case "pr_merged":
+      return <IoGitMerge className="size-6 stroke-current text-purple-600" />;
+
+    case "pr_collaborated":
+      return <IoGitCommit className="size-5 stroke-current text-blue-600" />;
+
     case "discussion_answered":
     case "discussion_comment_created":
     case "discussion_created":
       return <IoIosChatboxes className="size-5 text-secondary-700" />;
+
     default:
-      return (
-        <svg
-          className="h-5 w-5 text-secondary-700"
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          aria-hidden="true"
-        >
-          <path
-            fillRule="evenodd"
-            d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-6-3a2 2 0 11-4 0 2 2 0 014 0zm-2 4a5 5 0 00-4.546 2.916A5.986 5.986 0 0010 16a5.986 5.986 0 004.546-2.084A5 5 0 0010 11z"
-            clipRule="evenodd"
-          />
-        </svg>
-      );
+      return <FaRegDotCircle className="size-5 text-secondary-700" />;
   }
 };
 

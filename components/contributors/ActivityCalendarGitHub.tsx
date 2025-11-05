@@ -2,8 +2,9 @@
 
 import { useEffect, useState } from "react";
 import ActivityCalendar from "react-activity-calendar";
-import ActivityModal from "./ActivityModal";
+import ActivityModal from "@/components/contributors/ActivityModal";
 import { useTheme } from "next-themes";
+import { format } from "date-fns";
 
 export default function ActivityCalendarGit({
   calendarData,
@@ -30,14 +31,14 @@ export default function ActivityCalendarGit({
     date.setDate(date.getDate() + 1);
     while (date.getFullYear() === currentYear) {
       dates.push({
-        date: new Date(date).toISOString().split("T")[0],
+        date: format(date, "yyyy-MM-dd"),
         count: 0,
         level: 0,
       });
       date.setDate(date.getDate() + 1);
     }
     dates.push({
-      date: new Date(date).toISOString().split("T")[0],
+      date: format(date, "yyyy-MM-dd"),
       count: 0,
       level: 0,
     });
@@ -77,7 +78,7 @@ export default function ActivityCalendarGit({
   return (
     <div className="gap-3 sm:flex">
       {isBrowser && (
-        <div className="rounded-lg bg-secondary-100 px-6 py-8 text-center text-foreground hover:cursor-pointer dark:bg-secondary-800 sm:px-10 xl:text-left">
+        <div className="w-max overflow-x-auto rounded-lg bg-secondary-100 px-6 py-8 text-center text-foreground hover:cursor-pointer dark:bg-secondary-800 sm:px-10 xl:text-left">
           {year === 0 ? (
             <ActivityCalendar
               colorScheme={theme === "dark" ? "dark" : "light"}

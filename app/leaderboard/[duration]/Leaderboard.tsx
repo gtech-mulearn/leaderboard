@@ -1,8 +1,8 @@
 "use client";
 
 import LeaderboardCard from "@/components/contributors/LeaderboardCard";
-import { TbZoomQuestion } from "react-icons/tb";
-import TopContributor from "../../../components/contributors/TopContributor";
+import TopContributor from "@/components/contributors/TopContributor";
+import { TbGitMerge, TbZoomQuestion } from "react-icons/tb";
 import {
   calcDateRange,
   getWeekNumber,
@@ -14,11 +14,14 @@ import { useState } from "react";
 import Search from "@/components/filters/Search";
 import { MdFilterList, MdFilterListOff } from "react-icons/md";
 import { BsPersonFill } from "react-icons/bs";
-import { Select } from "@/components/Select";
+import { Select, SelectOption } from "@/components/Select";
 import { FILTER_BY_ROLE_OPTIONS, SORT_BY_OPTIONS } from "@/lib/const";
 import { HiSortAscending, HiSortDescending } from "react-icons/hi";
 import { Popover } from "@headlessui/react";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
+import { BiGitPullRequest } from "react-icons/bi";
+import { GoIssueOpened, GoIssueClosed } from "react-icons/go";
 
 const filterBySearchTerm = (searchTermLC: string) => {
   return (item: LeaderboardAPIResponse[number]) =>
@@ -42,26 +45,52 @@ type Props = {
 };
 
 export default function Leaderboard(props: Props) {
-  const [start, end] = calcDateRange(props.duration)!;
-  const [search, setSearch] = useState("");
   const [showFilter, setShowFilter] = useState(false);
-  const [roles, setRoles] = useState(ROLE_OPTIONS);
-  const [ordering, setOrdering] = useState<(typeof ORDERING_OPTIONS)[number]>({
-    value: "points",
-    text: "Points",
-  });
-  const [isReversed, setIsReversed] = useState(false);
+  const [start, end] = calcDateRange(props.duration)!;
+  const searchParams = useSearchParams();
+
+  const search = searchParams.get("search") || "";
+  const roles = searchParams.get("roles")?.split(",") || [];
+
+  const ordering = ORDERING_OPTIONS.find(
+    (option) => option.value === searchParams.get("ordering"),
+  ) || { value: "points", text: "Points" };
+
+  const isReversed = searchParams.get("isReversed") === "true";
 
   let resultSet = props.data;
 
   if (roles.length) {
-    const selected = roles.map(({ value }) => value);
-    resultSet = resultSet.filter((a) => selected.includes(a.user.role));
+    resultSet = resultSet.filter((a) => roles.includes(a.user.role));
   }
 
-  if (isReversed) {
-    resultSet = resultSet.toReversed();
+  if (ordering.value || isReversed) {
+    const key =
+      ordering.value as keyof LeaderboardAPIResponse[number]["highlights"];
+    resultSet = resultSet.sort((a, b) => {
+      const delta = b.highlights[key] - a.highlights[key];
+      return isReversed ? -delta : delta;
+    });
   }
+
+  const updateSearchParams = (
+    key: string,
+    value: string | boolean | string[],
+  ) => {
+    const updatedParams = new URLSearchParams(searchParams.toString());
+
+    if (Array.isArray(value)) {
+      if (value.length) {
+        updatedParams.set(key, value.join(","));
+      } else {
+        updatedParams.delete(key);
+      }
+    } else {
+      updatedParams.set(key, value.toString());
+    }
+
+    window.history.pushState(null, "", `?${updatedParams.toString()}`);
+  };
 
   const OtherFilters = () => {
     return (
@@ -83,7 +112,7 @@ export default function Leaderboard(props: Props) {
                       {props.duration.replace("-", " ")}
                     </span>
                   </Popover.Button>
-                  <Popover.Panel className="absolute z-10 mt-2 w-full rounded-lg border border-primary-400 bg-background shadow-lg shadow-primary-500 sm:min-w-[23rem] ">
+                  <Popover.Panel className="absolute z-10 mt-2 w-full rounded-lg border border-primary-400 bg-background shadow-lg shadow-primary-500 sm:min-w-[23rem]">
                     <div className="grid grid-cols-1 gap-2 p-4 sm:grid-cols-2">
                       {LeaderboardFilterDurations.map((duration) => (
                         <Link
@@ -117,8 +146,15 @@ export default function Leaderboard(props: Props) {
             <Select
               multiple
               options={ROLE_OPTIONS}
-              value={roles}
-              onChange={(value) => setRoles(value as typeof roles)}
+              value={ROLE_OPTIONS.filter((option) =>
+                roles.includes(option.value),
+              )}
+              onChange={(value: SelectOption | SelectOption[]) =>
+                updateSearchParams(
+                  "roles",
+                  (Array.isArray(value) ? value : [value]).map((v) => v.value),
+                )
+              }
               showSelectionsAs="text"
             />
           </span>
@@ -127,7 +163,7 @@ export default function Leaderboard(props: Props) {
         <div className="md:min-w-72">
           <span className="relative inline-flex w-full rounded-md shadow-sm ">
             <span
-              onClick={() => setIsReversed(!isReversed)}
+              onClick={() => updateSearchParams("isReversed", !isReversed)}
               className="relative inline-flex cursor-pointer items-center rounded-l-md border border-secondary-600 px-2 py-2 dark:border-secondary-300"
             >
               {!isReversed ? (
@@ -139,7 +175,12 @@ export default function Leaderboard(props: Props) {
             <Select
               options={ORDERING_OPTIONS}
               value={ordering}
-              onChange={(value) => setOrdering(value as typeof ordering)}
+              onChange={(value: SelectOption | SelectOption[]) =>
+                updateSearchParams(
+                  "ordering",
+                  Array.isArray(value) ? value[0].value : value.value,
+                )
+              }
             />
           </span>
         </div>
@@ -156,7 +197,9 @@ export default function Leaderboard(props: Props) {
             <div className="flex flex-row gap-2">
               <Search
                 defaultValue={search}
-                handleOnChange={(e) => setSearch(e.target.value)}
+                handleOnChange={(e) =>
+                  updateSearchParams("search", e.target.value)
+                }
                 className="w-full"
               />
               <button onClick={() => setShowFilter(!showFilter)}>
@@ -168,7 +211,7 @@ export default function Leaderboard(props: Props) {
               </button>
             </div>
             <div
-              className={`${showFilter ? "mt-4 max-h-[50vh]" : "max-h-0"} flex flex-col gap-4 overflow-hidden transition-all duration-500 sm:hidden`}
+              className={`${showFilter ? "mt-4 max-h-[50vh] " : "max-h-0 overflow-hidden"} flex flex-col gap-4  transition-all duration-500 sm:hidden`}
             >
               <OtherFilters />
             </div>
@@ -176,10 +219,77 @@ export default function Leaderboard(props: Props) {
           <div className="hidden flex-col gap-4 sm:flex md:flex-row">
             <Search
               defaultValue={search}
-              handleOnChange={(e) => setSearch(e.target.value)}
+              handleOnChange={(e) =>
+                updateSearchParams("search", e.target.value)
+              }
               className="w-full"
             />
             <OtherFilters />
+          </div>
+        </div>
+
+        {/* Stats Summary */}
+        <div className="mx-4 mt-4 rounded-lg border border-primary-500 p-4 md:mx-0">
+          <div className="grid grid-cols-2 gap-4 md:grid-cols-4">
+            <div className="flex items-center space-x-2 rounded-lg border border-secondary-600 p-3 dark:border-secondary-300">
+              <GoIssueOpened className="text-2xl text-green-500" />
+              <div>
+                <p className="text-sm text-secondary-500 dark:text-secondary-300">
+                  Issues Opened
+                </p>
+                <p className="text-xl font-semibold">
+                  {resultSet.reduce(
+                    (sum, user) => sum + user.highlights.issue_opened,
+                    0,
+                  )}
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center space-x-2 rounded-lg border border-secondary-600 p-3 dark:border-secondary-300">
+              <GoIssueClosed className="text-2xl text-purple-500" />
+              <div>
+                <p className="text-sm text-secondary-500 dark:text-secondary-300">
+                  Issues Closed
+                </p>
+                <p className="text-xl font-semibold">
+                  {resultSet.reduce(
+                    (sum, user) => sum + user.highlights.issue_closed,
+                    0,
+                  )}
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center space-x-2 rounded-lg border border-secondary-600 p-3 dark:border-secondary-300">
+              <BiGitPullRequest className="text-2xl text-blue-500" />
+              <div>
+                <p className="text-sm text-secondary-500 dark:text-secondary-300">
+                  PRs Opened
+                </p>
+                <p className="text-xl font-semibold">
+                  {resultSet.reduce(
+                    (sum, user) => sum + user.highlights.pr_opened,
+                    0,
+                  )}
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center space-x-2 rounded-lg border border-secondary-600 p-3 dark:border-secondary-300">
+              <TbGitMerge className="text-2xl text-orange-500" />
+              <div>
+                <p className="text-sm text-secondary-500 dark:text-secondary-300">
+                  PRs Merged
+                </p>
+                <p className="text-xl font-semibold">
+                  {resultSet.reduce(
+                    (sum, user) => sum + user.highlights.pr_merged,
+                    0,
+                  )}
+                </p>
+              </div>
+            </div>
           </div>
         </div>
 
@@ -245,7 +355,7 @@ export default function Leaderboard(props: Props) {
                         {props.duration === "last-week" && "of the week"}
                       </h2>
                       <p className="text-xl text-secondary-500 dark:text-secondary-300">
-                        Our top contributers across different metrics
+                        Our top contributors across different metrics
                       </p>
                     </div>
                     <ul

@@ -5,7 +5,12 @@ const hashed = (url: string) => {
   return Buffer.from(url + new Date().toDateString()).toString("base64");
 };
 
-const OpenGraphImage = (props: { url: string; className?: string }) => {
+const OpenGraphImage = (props: { url?: string; className?: string }) => {
+  if (!props.url) {
+    console.warn("⚠️ OpenGraphImage: No URL provided.");
+    return null;
+  }
+
   const src = props.url.replace(
     "https://github.com/",
     `https://opengraph.githubassets.com/${hashed(props.url)}/`,

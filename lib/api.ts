@@ -1,20 +1,20 @@
 import { join } from "path";
 import matter from "gray-matter";
 import { Activity, ActivityData, Contributor, Highlights } from "./types";
-import { padZero } from "./utils";
 import { readFile, readdir } from "fs/promises";
 import { existsSync } from "fs";
 import { getGithubDiscussions } from "@/lib/discussion";
+import { compareAsc, differenceInDays, format, isAfter, sub } from "date-fns";
 
 const root = join(process.cwd(), "data-repo/contributors");
 const slackRoot = join(process.cwd(), "data-repo/data/slack");
 const githubRoot = join(process.cwd(), "data-repo/data/github");
 
 export const points = {
-  comment_created: 1,
+  comment_created: 0,
   issue_assigned: 1,
-  pr_reviewed: 4,
-  issue_opened: 4,
+  pr_reviewed: 2,
+  issue_opened: 3,
   eod_update: 2,
   pr_opened: 1,
   pr_merged: 7,
@@ -26,8 +26,8 @@ export const points = {
 };
 // Comments will get a single point
 // Picking up an issue would get a point
-// Reviewing a PR would get 4 points
-// Finding a bug would add up to 4 points
+// Reviewing a PR would get 2 points
+// Finding a bug would add up to 3 points
 // Opening a PR would give a single point and merging it would give you the other 7 points, making 8 per PR
 // Updating the EOD would get 2 points per day and additional 20 for regular daily updates plus 10 for just missing one
 
@@ -60,19 +60,49 @@ async function getSlackMessages(slackId: string) {
     } catch (e) {
       console.log(e);
     }
-    return Object.values(fileContents).reduce(
+
+    // First, map all messages to Activity objects
+    const allActivities = Object.values(fileContents).reduce(
       (acc: Activity[], messages: any) => {
         return acc.concat(
-          messages.map((message: any) => ({
-            type: "eod_update",
-            time: new Date(message.ts * 1000).toISOString(),
-            link: "",
-            text: message.text,
-          })),
+          messages
+            .filter((message: any) => message.text.trim().length > 5)
+            .map((message: any) => ({
+              type: "eod_update" as const,
+              title: "EOD Update", // Adding required title field
+              time: new Date(message.ts * 1000).toISOString(),
+              link: "",
+              text: message.text,
+            })),
         );
       },
       [],
     );
+
+    // Group activities by date (YYYY-MM-DD)
+    const groupedByDate: Record<string, Activity[]> = {};
+
+    for (const activity of allActivities) {
+      const date = format(activity.time, "yyyy-MM-dd");
+      if (!groupedByDate[date]) {
+        groupedByDate[date] = [];
+      }
+      groupedByDate[date].push(activity);
+    }
+
+    // Create a single activity per date with joined text
+    return Object.entries(groupedByDate).map(([date, activities]) => {
+      // Sort activities by time to maintain chronological order
+      activities.sort((a, b) => a.time.localeCompare(b.time));
+
+      return {
+        type: "eod_update" as const,
+        title: `EOD Updates for ${date}`,
+        time: `${date}T00:00:00.000Z`, // Set to start of the day
+        link: "",
+        text: activities.map((a) => a.text).join("\n\n"),
+      } as Activity;
+    });
   } else {
     return [] as Activity[];
   }
@@ -147,6 +177,8 @@ export async function getContributorBySlug(file: string, detail = false) {
           acc.issue_assigned + (activity.type === "issue_assigned" ? 1 : 0),
         issue_opened:
           acc.issue_opened + (activity.type === "issue_opened" ? 1 : 0),
+        issue_closed:
+          acc.issue_closed + (activity.type === "issue_closed" ? 1 : 0),
         discussion_created:
           acc.discussion_created +
           (activity.type === "discussion_created" ? 2 : 0),
@@ -169,6 +201,7 @@ export async function getContributorBySlug(file: string, detail = false) {
       pr_reviewed: 0,
       issue_assigned: 0,
       issue_opened: 0,
+      issue_closed: 0,
       discussion_created: 0,
       discussion_answered: 0,
       discussion_comment_created: 0,
@@ -176,6 +209,20 @@ export async function getContributorBySlug(file: string, detail = false) {
   );
 
   const calendarData = getCalendarData(weightedActivity.activity);
+
+  const isNewContributor = (() => {
+    const { activity } = activityData;
+
+    const aWeekAgo = sub(new Date(), { days: 7 });
+
+    const firstActivity = activity
+      .filter((act) => act.type === "pr_merged")
+      .sort((a, b) => compareAsc(a.time, b.time))[0];
+
+    if (!firstActivity) return false;
+
+    return isAfter(firstActivity.time, aWeekAgo);
+  })();
 
   const summarize = (start: Date, end: Date) => {
     return calendarData
@@ -191,6 +238,7 @@ export async function getContributorBySlug(file: string, detail = false) {
     slug: formatSlug(file),
     path: fullPath,
     content: content,
+    isNewContributor,
     activityData: {
       ...activityData,
       activity: weightedActivity.activity,
@@ -209,6 +257,7 @@ export async function getContributorBySlug(file: string, detail = false) {
       pr_collaborated: weightedActivity.pr_collaborated,
       issue_assigned: weightedActivity.issue_assigned,
       issue_opened: weightedActivity.issue_opened,
+      issue_closed: weightedActivity.issue_closed,
       discussion_created: weightedActivity.discussion_created,
       discussion_answered: weightedActivity.discussion_answered,
       discussion_comment_created: weightedActivity.discussion_comment_created,
@@ -236,7 +285,7 @@ export async function getContributors() {
 function getCalendarData(activity: Activity[]) {
   const calendarData = activity.reduce(
     (acc, activity) => {
-      const date = new Date(activity.time).toISOString().split("T")[0];
+      const date = format(activity.time, "yyyy-MM-dd");
       if (!acc[date]) {
         acc[date] = {
           count: 0,
@@ -257,16 +306,21 @@ function getCalendarData(activity: Activity[]) {
     },
     {} as Record<string, any>,
   );
-  return [...Array(365)].map((_, i) => {
+
+  const earliestDate = activity.reduce((acc, activity) => {
+    return Math.min(acc, new Date(activity.time).getTime());
+  }, new Date().getTime());
+
+  const daysSinceNow = differenceInDays(new Date(), new Date(earliestDate));
+
+  return [...Array(daysSinceNow + 1)].map((_, i) => {
     // Current Date - i
-    const iReverse = 365 - i;
+    const iReverse = daysSinceNow - i;
     const date = new Date(
       new Date().getTime() - iReverse * 24 * 60 * 60 * 1000,
     );
     // yyyy-mm-dd
-    const dateString = `${date.getFullYear()}-${padZero(
-      date.getMonth() + 1,
-    )}-${padZero(date.getDate())}`;
+    const dateString = format(date, "yyyy-MM-dd");
     const returnable = {
       // date in format YYYY-MM-DD
       ...calendarData[dateString],
@@ -288,6 +342,7 @@ const HIGHLIGHT_KEYS = [
   "pr_collaborated",
   "issue_assigned",
   "issue_opened",
+  "issue_closed",
   "discussion_created",
   "discussion_answered",
   "discussion_comment_created",
@@ -313,6 +368,7 @@ const HighlightsReducer = (acc: Highlights, day: Highlights) => {
     pr_collaborated: acc.pr_collaborated + (day.pr_collaborated ?? 0),
     issue_assigned: acc.issue_assigned + (day.issue_assigned ?? 0),
     issue_opened: acc.issue_opened + (day.issue_opened ?? 0),
+    issue_closed: acc.issue_closed + (day.issue_closed ?? 0),
     discussion_created: acc.discussion_created + (day.discussion_created ?? 0),
     discussion_answered:
       acc.discussion_answered + (day.discussion_answered ?? 0),
@@ -331,6 +387,7 @@ const HighlightsInitialValue = {
   pr_collaborated: 0,
   issue_assigned: 0,
   issue_opened: 0,
+  issue_closed: 0,
   discussion_created: 0,
   discussion_answered: 0,
   discussion_comment_created: 0,
