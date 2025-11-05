@@ -1,0 +1,49 @@
+{
+  "last_updated": "2022-09-27T19:00:41Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#9",
+      "time": "2022-09-27T19:00:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/9",
+      "text": "Added new teams landing and list pages."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#9",
+      "time": "2022-09-27T19:04:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/9",
+      "text": "Added new teams landing and list pages."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#10",
+      "time": "2022-09-27T20:30:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/10",
+      "text": "Merge master into dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#10",
+      "time": "2022-09-27T20:34:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/10",
+      "text": "Merge master into dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#11",
+      "time": "2022-09-27T20:50:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/11",
+      "text": "Added teams and merged dev branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#11",
+      "time": "2022-09-27T20:51:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/11",
+      "text": "Added teams and merged dev branch"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

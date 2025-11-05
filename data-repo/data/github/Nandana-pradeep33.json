@@ -1,0 +1,113 @@
+{
+  "last_updated": "2024-07-23T17:11:29+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1598",
+      "time": "2024-07-23T17:11:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1598",
+      "text": " fix():Replaced Magazine link in Navbar with new one"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1597",
+      "time": "2024-07-21T15:51:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1597",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1596",
+      "time": "2024-07-21T10:07:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1596",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1595",
+      "time": "2024-07-21T10:04:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1595",
+      "text": "Change in Button Functionality",
+      "turnaround_time": 2082
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1595",
+      "time": "2024-07-21T09:29:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1595",
+      "text": "Change in Button Functionality"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1585",
+      "time": "2024-07-20T16:37:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1585",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "viraka",
+        "karivarkey"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1594",
+      "time": "2024-07-20T16:06:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1594",
+      "text": "fix():Fixed a problem with button functionality."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1593",
+      "time": "2024-07-20T15:46:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1593",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1592",
+      "time": "2024-07-20T15:39:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1592",
+      "text": "Art of Teaching 3.0",
+      "turnaround_time": 679
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1592",
+      "time": "2024-07-20T15:28:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1592",
+      "text": "Art of Teaching 3.0"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#40",
+      "time": "2023-06-19T19:40:48Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/40",
+      "text": "Nandana Added Nandana Store"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#40",
+      "time": "2023-06-20T18:23:03Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/40",
+      "text": "Nandana Added Nandana Store"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1598",
+      "title": " fix():Replaced Magazine link in Navbar with new one",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

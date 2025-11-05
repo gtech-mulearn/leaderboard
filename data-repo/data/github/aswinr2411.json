@@ -1,0 +1,58 @@
+{
+  "last_updated": "2024-07-01T18:14:54+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1099",
+      "time": "2024-07-01T18:14:54+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1099",
+      "text": "Create aswinr-2@mulearn.md",
+      "turnaround_time": 4480
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1104",
+      "time": "2024-07-01T18:14:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1104",
+      "text": "Create aswinr-2@mulearn.md",
+      "turnaround_time": 4030
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1104",
+      "time": "2024-07-01T17:11:45+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1104#issuecomment-2200652948",
+      "text": "vghnj"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1104",
+      "time": "2024-07-01T17:10:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1104#issuecomment-2200651793",
+      "text": "Nothing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1104",
+      "time": "2024-07-01T17:07:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1104",
+      "text": "Create aswinr-2@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1099",
+      "time": "2024-07-01T17:02:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1099#issuecomment-2200639082",
+      "text": "-"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1099",
+      "time": "2024-07-01T17:00:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1099",
+      "text": "Create aswinr-2@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

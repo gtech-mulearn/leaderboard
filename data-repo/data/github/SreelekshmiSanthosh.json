@@ -1,0 +1,50 @@
+{
+  "last_updated": "2024-05-31T15:20:03+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#426",
+      "time": "2024-05-31T15:20:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/426",
+      "text": "Create sreelekshmis@mulearn.md",
+      "turnaround_time": 583
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#426",
+      "time": "2024-05-31T15:10:20+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/426",
+      "text": "Create sreelekshmis@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#421",
+      "time": "2024-05-30T16:14:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/421",
+      "text": "Update and rename TEMPLATE.md to sreelekshmis@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#194",
+      "time": "2022-05-15T11:39:48Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/194",
+      "text": "Assignment 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#199",
+      "time": "2022-05-15T12:20:02Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/199",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#199",
+      "time": "2022-06-19T05:02:56Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/199",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

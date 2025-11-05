@@ -1,0 +1,37 @@
+{
+  "last_updated": "2024-07-12T10:40:11+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1160",
+      "time": "2024-07-12T10:40:11+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1160",
+      "text": "Update fidhaelaveettil@mulearn.md",
+      "turnaround_time": 71213
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1160",
+      "time": "2024-07-03T14:53:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1160",
+      "text": "Update fidhaelaveettil@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#764",
+      "time": "2024-06-28T14:45:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/764",
+      "text": "fidhaelaveettil@mulearn",
+      "turnaround_time": 632
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#764",
+      "time": "2024-06-28T14:35:26+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/764",
+      "text": "fidhaelaveettil@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

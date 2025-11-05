@@ -1,0 +1,259 @@
+{
+  "last_updated": "2023-10-15T16:14:03Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#214",
+      "time": "2023-10-15T16:14:03Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/214",
+      "text": "Create arunkumard@mulearn.md (updating profile)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#214",
+      "time": "2023-10-15T17:31:47Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/214",
+      "text": "Create arunkumard@mulearn.md (updating profile)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#883",
+      "time": "2023-10-20T18:10:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/883",
+      "text": "fix(case):Fixed case to show default message if no socilas are selected"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#883",
+      "time": "2023-10-21T16:17:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/883",
+      "text": "fix(case):Fixed case to show default message if no socilas are selected"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#926",
+      "time": "2023-10-29T17:55:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/926",
+      "text": "fix(LCfind): Fixed the issue of unwanted org:null being called."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#926",
+      "time": "2023-10-29T18:08:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/926",
+      "text": "fix(LCfind): Fixed the issue of unwanted org:null being called."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#940",
+      "time": "2023-11-01T19:02:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/940",
+      "text": "feat(sidenavbar): added Organisation Transfer to sidenavbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#940",
+      "time": "2023-11-02T12:41:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/940",
+      "text": "feat(sidenavbar): added Organisation Transfer to sidenavbar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#944",
+      "time": "2023-11-02T14:56:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/944",
+      "text": "feat(organizationTransfer): Add two input box"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#944",
+      "time": "2023-11-03T15:57:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/944",
+      "text": "feat(organizationTransfer): Add two input box"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#948",
+      "time": "2023-11-04T04:08:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/948",
+      "text": "fix(codestorm):Removed the wrong github project link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#948",
+      "time": "2023-11-04T12:07:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/948",
+      "text": "fix(codestorm):Removed the wrong github project link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#953",
+      "time": "2023-11-04T19:58:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/953",
+      "text": "fix(communityPage): Fixed the referal Id issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#953",
+      "time": "2023-11-06T13:53:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/953",
+      "text": "fix(communityPage): Fixed the referal Id issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#956",
+      "time": "2023-11-06T19:03:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/956",
+      "text": "fix(onboardingApis.ts):fixed district dropdown in onboarding page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#956",
+      "time": "2023-11-08T12:56:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/956",
+      "text": "fix(onboardingApis.ts):fixed district dropdown in onboarding page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#965",
+      "time": "2023-11-13T15:14:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/965",
+      "text": "fix(userform): Removed requirement validation on non required fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#965",
+      "time": "2023-11-14T07:21:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/965",
+      "text": "fix(userform): Removed requirement validation on non required fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#971",
+      "time": "2023-11-15T14:51:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/971",
+      "text": "fix(socials): Social Media Icons not visible in profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#971",
+      "time": "2023-11-17T10:21:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/971",
+      "text": "fix(socials): Social Media Icons not visible in profile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#980",
+      "time": "2023-11-26T11:50:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/980",
+      "text": "feat(THeaders): made code section in Theader sortable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#980",
+      "time": "2023-11-26T12:58:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/980",
+      "text": "feat(THeaders): made code section in Theader sortable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#983",
+      "time": "2023-11-26T16:04:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/983",
+      "text": "fix(organization): fixed issue in affiliation "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#983",
+      "time": "2023-11-27T12:46:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/983",
+      "text": "fix(organization): fixed issue in affiliation "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#987",
+      "time": "2023-11-27T18:02:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/987",
+      "text": "fix(Searchbar): Removed Api calls when input value changes in search bar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#987",
+      "time": "2023-11-29T00:13:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/987",
+      "text": "fix(Searchbar): Removed Api calls when input value changes in search bar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#998",
+      "time": "2023-11-29T16:46:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/998",
+      "text": "fix(karmaSymbol):changed color of karma symbol from black to white"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#998",
+      "time": "2023-11-29T16:47:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/998",
+      "text": "fix(karmaSymbol):changed color of karma symbol from black to white"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1022",
+      "time": "2023-12-03T20:13:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1022",
+      "text": "feat(KKEM): Added Hackathon data table,updated use wise count table with new data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1022",
+      "time": "2023-12-03T20:14:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1022",
+      "text": "feat(KKEM): Added Hackathon data table,updated use wise count table with new data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1024",
+      "time": "2023-12-04T18:28:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1024",
+      "text": "feat(KKEM):Added dashboard components to hackathon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1024",
+      "time": "2023-12-05T10:46:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1024",
+      "text": "feat(KKEM):Added dashboard components to hackathon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1047",
+      "time": "2023-12-14T15:32:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1047",
+      "text": "feat(errorlogs):Add table component and display error log data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1047",
+      "time": "2023-12-14T18:02:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1047",
+      "text": "feat(errorlogs):Add table component and display error log data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#55",
+      "time": "2023-10-31T13:50:24Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/55",
+      "text": "fix(navbar):Updated the logo of mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#55",
+      "time": "2023-11-02T12:43:36Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/55",
+      "text": "fix(navbar):Updated the logo of mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,110 @@
+{
+  "last_updated": "2024-05-15T16:26:24+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:26:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server",
+      "collaborated_with": [
+        "viraka",
+        "Mishalabdullah",
+        "Jenin82",
+        "irfanpa005"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1094",
+      "time": "2024-04-20T13:40:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1094",
+      "text": "merge dev to dev-server",
+      "collaborated_with": [
+        "Jenin82",
+        "irfanpa005"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1091",
+      "time": "2024-04-20T13:36:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1091",
+      "text": "feat: Add 'Copy to Clipboard' functionality to the profile page",
+      "turnaround_time": 25681
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#37",
+      "time": "2024-04-13T10:23:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/37",
+      "text": "mohammedshabin@mulearn",
+      "turnaround_time": 16563
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1090",
+      "time": "2024-04-13T06:47:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1090",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Jovit-Mathew236",
+        "viraka",
+        "notS0LD13R",
+        "AswinAsok",
+        "MZaFaRM"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1091",
+      "time": "2024-04-13T06:28:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1091",
+      "text": "feat: Add 'Copy to Clipboard' functionality to the profile page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#37",
+      "time": "2024-04-13T05:47:52+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/37",
+      "text": "mohammedshabin@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#283",
+      "time": "2023-10-20T11:25:59Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/283",
+      "text": "top-100"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#284",
+      "time": "2023-10-20T11:34:01Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/284",
+      "text": "top-100"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#284",
+      "time": "2023-10-21T04:47:12Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/284",
+      "text": "top-100"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1060",
+      "time": "2023-12-23T10:11:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1060",
+      "text": "fix (Account) :  updated heading"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1060",
+      "time": "2023-12-28T06:31:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1060",
+      "text": "fix (Account) :  updated heading"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

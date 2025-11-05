@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-10T08:01:27+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#543",
+      "time": "2024-04-10T08:01:27+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/543",
+      "text": "Feature Addition: Book Creation and Listing Enhancements",
+      "turnaround_time": 51089
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#543",
+      "time": "2024-04-09T17:49:59+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/543",
+      "text": "Feature Addition: Book Creation and Listing Enhancements"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#285",
+      "time": "2023-10-20T15:14:26Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/285",
+      "text": "Create akshayarajesh@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#285",
+      "time": "2023-10-20T15:18:05Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/285",
+      "text": "Create akshayarajesh@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

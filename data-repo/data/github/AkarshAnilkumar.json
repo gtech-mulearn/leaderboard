@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-10-13T17:27:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#199",
+      "time": "2023-10-13T17:27:59Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/199",
+      "text": "create akarshas@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#199",
+      "time": "2023-10-13T18:16:38Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/199",
+      "text": "create akarshas@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#518",
+      "time": "2023-11-17T11:15:27Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/518",
+      "text": "Second Commit to Top 100 coders"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#524",
+      "time": "2023-11-17T11:16:45Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/524",
+      "text": "Second commit to Top 100 coders"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#524",
+      "time": "2023-11-23T14:20:16Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/524",
+      "text": "Second commit to Top 100 coders"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

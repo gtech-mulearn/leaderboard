@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-12-05T07:52:44Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#80",
+      "time": "2023-12-05T07:52:44Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/80",
+      "text": "Amaljith added dahab supermarket to store list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#81",
+      "time": "2023-12-05T08:07:09Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/81",
+      "text": "git commit -m \"dahab hypermarket to store list\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#82",
+      "time": "2023-12-05T15:03:08Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/82",
+      "text": "git commit -m \"Add  DAHAB HYPERMARKET to store list\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

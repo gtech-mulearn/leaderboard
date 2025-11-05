@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-06-22T06:46:31+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#624",
+      "time": "2024-06-22T06:46:31+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/624",
+      "text": "Book app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#405",
+      "time": "2024-05-25T08:31:42+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/405",
+      "text": "Update and rename TEMPLATE.md to muhammedshafeek@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/624",
+      "title": "Book app",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

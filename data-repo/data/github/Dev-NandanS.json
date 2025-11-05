@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-09-30T14:50:44Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#1",
+      "time": "2023-09-30T14:50:44Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/1",
+      "text": "Update index.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#2",
+      "time": "2023-09-30T14:53:56Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/2",
+      "text": "Update index.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#384",
+      "time": "2023-10-03T21:52:02Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/384",
+      "text": "Added create_book.txt and list_all_books.txt files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#384",
+      "time": "2023-10-05T12:29:59Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/384",
+      "text": "Added create_book.txt and list_all_books.txt files"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

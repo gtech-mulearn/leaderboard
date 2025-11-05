@@ -1,0 +1,28 @@
+{
+  "last_updated": "2022-06-17T19:50:13Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#351",
+      "time": "2022-06-17T19:50:13Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/351",
+      "text": "TFP GITHUB TASK"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#360",
+      "time": "2022-06-19T02:59:41Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/360",
+      "text": "Assignment Resubmission"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#360",
+      "time": "2022-06-19T05:17:22Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/360",
+      "text": "Assignment Resubmission"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

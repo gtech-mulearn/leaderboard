@@ -1,0 +1,119 @@
+{
+  "last_updated": "2023-04-16T08:05:54Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#180",
+      "time": "2023-04-16T08:05:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/180",
+      "text": "dev:added-twitter-and-github-to-teamcards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#180",
+      "time": "2023-04-16T08:13:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/180",
+      "text": "dev:added-twitter-and-github-to-teamcards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#181",
+      "time": "2023-04-21T13:44:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/181",
+      "text": "dev:converted-redirections-to-sheets"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#181",
+      "time": "2023-04-21T13:46:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/181",
+      "text": "dev:converted-redirections-to-sheets"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#191",
+      "time": "2023-04-27T16:59:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/191",
+      "text": "dev:copyright-updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#191",
+      "time": "2023-04-28T07:04:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/191",
+      "text": "dev:copyright-updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#192",
+      "time": "2023-04-29T06:29:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/192",
+      "text": "dev:copyright-updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#192",
+      "time": "2023-04-29T15:14:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/192",
+      "text": "dev:copyright-updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#91",
+      "time": "2023-04-16T15:14:59Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/91",
+      "text": "dev:ig-data-updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#91",
+      "time": "2023-04-19T03:46:10Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/91",
+      "text": "dev:ig-data-updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#92",
+      "time": "2023-04-20T08:40:49Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/92",
+      "text": "ig-data-updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#92",
+      "time": "2023-04-20T12:49:07Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/92",
+      "text": "ig-data-updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#94",
+      "time": "2023-04-29T17:16:47Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/94",
+      "text": "dev:ig-data-updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#94",
+      "time": "2023-05-14T16:06:01Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/94",
+      "text": "dev:ig-data-updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#98",
+      "time": "2023-05-13T22:40:56Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/98",
+      "text": "ig-data-updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#98",
+      "time": "2023-05-14T16:06:17Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/98",
+      "text": "ig-data-updated"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

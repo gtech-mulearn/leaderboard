@@ -1,0 +1,64 @@
+{
+  "last_updated": "2024-05-19T06:41:02+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/WikiSyllabus#45",
+      "time": "2024-05-19T06:41:02+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/45",
+      "text": "Added src/WikiSyllabus/KTU/2019_Scheme/S6/CSE/CST306/4_1dynamic_programming.md",
+      "turnaround_time": 56476
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#45",
+      "time": "2024-05-17T14:59:47+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/45",
+      "text": "Added src/WikiSyllabus/KTU/2019_Scheme/S6/CSE/CST306/4_1dynamic_programming.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#430",
+      "time": "2023-11-04T10:05:38Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/430",
+      "text": "Create hathulkrishnan@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#430",
+      "time": "2023-11-04T14:02:58Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/430",
+      "text": "Create hathulkrishnan@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#14",
+      "time": "2023-06-02T16:53:14Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/14",
+      "text": "H Athulkrishnan: Added JR Medicare"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#14",
+      "time": "2023-06-04T07:28:40Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/14",
+      "text": "H Athulkrishnan: Added JR Medicare"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#15",
+      "time": "2023-06-02T17:11:43Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/15",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#15",
+      "time": "2023-06-04T07:29:04Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/15",
+      "text": "Add files via upload"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

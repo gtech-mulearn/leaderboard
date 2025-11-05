@@ -1,0 +1,140 @@
+{
+  "last_updated": "2023-08-19T15:43:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#661",
+      "time": "2023-08-19T15:43:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/661",
+      "text": "updated thread rotation of event invitation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#661",
+      "time": "2023-08-21T23:24:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/661",
+      "text": "updated thread rotation of event invitation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#709",
+      "time": "2023-09-01T10:21:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/709",
+      "text": "onboarding forms updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#709",
+      "time": "2023-09-03T17:57:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/709",
+      "text": "onboarding forms updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#745",
+      "time": "2023-09-04T18:24:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/745",
+      "text": "minor changes in profile page and campus details page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#745",
+      "time": "2023-09-04T19:21:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/745",
+      "text": "minor changes in profile page and campus details page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#780",
+      "time": "2023-09-10T16:40:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/780",
+      "text": "updated alignment issues in campusdetails page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#780",
+      "time": "2023-09-12T15:53:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/780",
+      "text": "updated alignment issues in campusdetails page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#787",
+      "time": "2023-09-12T18:36:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/787",
+      "text": "updated alignment issues in learningCircle page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#808",
+      "time": "2023-09-17T04:26:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/808",
+      "text": "Updated alignment issues in members list of learning circle page "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#808",
+      "time": "2023-09-17T06:38:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/808",
+      "text": "Updated alignment issues in members list of learning circle page "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#866",
+      "time": "2023-10-08T13:55:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/866",
+      "text": "pathway"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#866",
+      "time": "2023-10-08T14:24:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/866",
+      "text": "pathway"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#981",
+      "time": "2023-11-26T15:50:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/981",
+      "text": "feat(change-password):Lang-translation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#981",
+      "time": "2023-11-26T16:00:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/981",
+      "text": "feat(change-password):Lang-translation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1019",
+      "time": "2023-12-03T11:29:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1019",
+      "text": "feat(CampusDetails):Lang translation Co-authored by: Diya Sundeep @dxyaa"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1019",
+      "time": "2023-12-03T12:36:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1019",
+      "text": "feat(CampusDetails):Lang translation Co-authored by: Diya Sundeep @dxyaa"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1023",
+      "time": "2023-12-03T21:13:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1023",
+      "text": "feat(LanguageTranslation):Language-translation-in-LCPage-and-minor-ch…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1023",
+      "time": "2023-12-04T13:26:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1023",
+      "text": "feat(LanguageTranslation):Language-translation-in-LCPage-and-minor-ch…"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

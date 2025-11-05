@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-05-01T21:09:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/tech-myrmidons#11",
+      "time": "2023-05-01T21:09:39Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/11",
+      "text": "Feat: Add category section to AI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/tech-myrmidons#11",
+      "time": "2023-05-02T05:10:54Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/11",
+      "text": "Feat: Add category section to AI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/tech-myrmidons#13",
+      "time": "2023-05-04T06:47:12Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/13",
+      "text": "Feat: Add Scrollup and Hamburgur & styling fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/tech-myrmidons#13",
+      "time": "2023-05-07T12:36:02Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/13",
+      "text": "Feat: Add Scrollup and Hamburgur & styling fixes"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

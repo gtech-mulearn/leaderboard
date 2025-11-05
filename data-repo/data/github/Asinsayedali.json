@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-13T11:21:40+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#6",
+      "time": "2024-04-13T11:21:40+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/6",
+      "text": "Update HANDS ON IMPLEMENTATION MODULE Part-2.md",
+      "turnaround_time": 7687
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#6",
+      "time": "2023-12-23T09:13:32Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/6",
+      "text": "Update HANDS ON IMPLEMENTATION MODULE Part-2.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#9",
+      "time": "2023-05-31T16:27:58Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/9",
+      "text": "Added New Store"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#9",
+      "time": "2023-05-31T16:46:15Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/9",
+      "text": "Added New Store"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

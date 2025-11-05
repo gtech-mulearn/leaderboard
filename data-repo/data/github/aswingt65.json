@@ -1,0 +1,64 @@
+{
+  "last_updated": "2024-04-23T13:48:27+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#186",
+      "time": "2024-04-23T13:48:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/186",
+      "text": "aswingeorgethomas@mulearn.md",
+      "turnaround_time": 1568
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#186",
+      "time": "2024-04-23T13:22:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/186",
+      "text": "aswingeorgethomas@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#76",
+      "time": "2023-10-03T15:56:28Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/76",
+      "text": "Create aswingeorgethomas@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#76",
+      "time": "2023-10-03T16:00:40Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/76",
+      "text": "Create aswingeorgethomas@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/tech-myrmidons#6",
+      "time": "2023-01-28T07:20:02Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/6",
+      "text": "add year 2023"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/tech-myrmidons#7",
+      "time": "2023-01-28T07:31:50Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/7",
+      "text": "Update 2022.json"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/tech-myrmidons#8",
+      "time": "2023-01-28T07:45:57Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/8",
+      "text": "Update 2022.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/tech-myrmidons#8",
+      "time": "2023-05-23T16:22:51Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/8",
+      "text": "Update 2022.json"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

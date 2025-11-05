@@ -1,0 +1,37 @@
+{
+  "last_updated": "2024-07-18T13:46:39+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#656",
+      "time": "2024-07-18T13:46:39+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/656",
+      "text": "Develop sreelakshmi_s_add_book",
+      "turnaround_time": 23813
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#656",
+      "time": "2024-07-18T07:09:46+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/656",
+      "text": "Develop sreelakshmi_s_add_book"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#642",
+      "time": "2024-06-25T15:05:58+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/642",
+      "text": "Create sreelakshmis@mulearn.md",
+      "turnaround_time": 31651
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#642",
+      "time": "2024-06-25T06:18:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/642",
+      "text": "Create sreelakshmis@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

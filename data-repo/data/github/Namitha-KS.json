@@ -1,0 +1,42 @@
+{
+  "last_updated": "2024-06-10T14:25:59+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#72",
+      "time": "2024-06-10T14:25:59+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/72",
+      "text": "initial import of hut 300 for ktu 2019\u00a0scheme"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/WikiSyllabus#71",
+      "time": "2024-06-08T18:12:32+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/71",
+      "text": "S6 HUT300 IEFT Notes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#469",
+      "time": "2023-11-13T13:18:18Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/469",
+      "text": "namithas-1@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#469",
+      "time": "2023-11-13T13:21:42Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/469",
+      "text": "namithas-1@mulearn"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/72",
+      "title": "initial import of hut 300 for ktu 2019\u00a0scheme",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

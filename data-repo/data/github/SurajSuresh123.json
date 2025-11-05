@@ -1,0 +1,112 @@
+{
+  "last_updated": "2023-11-06T16:09:53Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1534",
+      "time": "2023-11-06T16:09:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1534",
+      "text": "optimize the location in dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1534",
+      "time": "2023-11-06T19:11:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1534",
+      "text": "optimize the location in dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1546",
+      "time": "2023-11-08T15:14:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1546",
+      "text": "optimize the location dashboard with select_related"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1546",
+      "time": "2023-11-08T15:44:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1546",
+      "text": "optimize the location dashboard with select_related"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1559",
+      "time": "2023-11-14T18:04:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1559",
+      "text": "[OPTIM, FEAT] location optims & college new col"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1559",
+      "time": "2023-11-14T18:05:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1559",
+      "text": "[OPTIM, FEAT] location optims & college new col"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1560",
+      "time": "2023-11-14T18:25:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1560",
+      "text": "[OPTIMS] location optims"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1560",
+      "time": "2023-11-14T18:42:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1560",
+      "text": "[OPTIMS] location optims"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1561",
+      "time": "2023-11-15T16:17:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1561",
+      "text": "[FIX] location serializers"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1561",
+      "time": "2023-11-15T16:18:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1561",
+      "text": "[FIX] location serializers"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1570",
+      "time": "2023-11-18T18:51:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1570",
+      "text": "[OPTIMS,FEAT] college optims & modify college serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1570",
+      "time": "2023-11-19T15:37:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1570",
+      "text": "[OPTIMS,FEAT] college optims & modify college serializer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1615",
+      "time": "2023-11-26T20:54:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1615",
+      "text": "[FIX] college api lead_id bug"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1615",
+      "time": "2023-11-26T21:00:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1615",
+      "text": "[FIX] college api lead_id bug"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1785",
+      "time": "2023-12-10T15:18:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1785",
+      "text": "[MERGE ] resolve conflict"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

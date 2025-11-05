@@ -1,0 +1,59 @@
+{
+  "last_updated": "2024-06-29T07:03:16+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#788",
+      "time": "2024-06-29T07:03:16+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/788",
+      "text": "Update akhilababu-1@mulearn.md",
+      "turnaround_time": 2389
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#788",
+      "time": "2024-06-29T06:23:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/788",
+      "text": "Update akhilababu-1@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#522",
+      "time": "2024-06-13T09:21:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/522",
+      "text": "Create akhilababu-1@mulearn.md",
+      "turnaround_time": 46
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#522",
+      "time": "2024-06-13T09:21:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/522",
+      "text": "Create akhilababu-1@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#521",
+      "time": "2024-06-13T09:07:18+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/521",
+      "text": "Create akhilababu-1@mulearn.md",
+      "turnaround_time": 271
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#521",
+      "time": "2024-06-13T09:02:48+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/521",
+      "text": "Create akhilababu-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#520",
+      "time": "2024-06-13T08:49:45+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/520",
+      "text": "Create akhilababu-1@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

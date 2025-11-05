@@ -1,0 +1,58 @@
+{
+  "last_updated": "2024-05-11T06:31:00+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#338",
+      "time": "2024-05-11T06:31:00+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/338",
+      "text": "Update mohammedamanma@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#245",
+      "time": "2024-04-26T18:23:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/245",
+      "text": "Update and rename mohammedamanma@mulearn to mohammedamanma@mulearn.md",
+      "turnaround_time": 6358
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#245",
+      "time": "2024-04-26T16:37:52+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/245",
+      "text": "Update and rename mohammedamanma@mulearn to mohammedamanma@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#166",
+      "time": "2024-04-21T14:02:07+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/166",
+      "text": "Rename mohammedamanma@mulearn to mohammedamanma@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#163",
+      "time": "2024-04-21T07:43:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/163",
+      "text": "mohammedamanma@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#150",
+      "time": "2024-04-20T13:14:54+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/150",
+      "text": "mohammedamanma@mulearn",
+      "turnaround_time": 1076
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#150",
+      "time": "2024-04-20T12:56:58+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/150",
+      "text": "Mohdamanma patch 1"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

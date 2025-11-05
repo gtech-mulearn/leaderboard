@@ -1,0 +1,37 @@
+{
+  "last_updated": "2024-04-22T17:51:07+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#178",
+      "time": "2024-04-22T17:51:07+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/178",
+      "text": "Rename jerrinmathewgeorge-1@mulearn.md to profiles/jerrinmathewgeorge\u2026",
+      "turnaround_time": 8739
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#178",
+      "time": "2024-04-22T15:25:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/178",
+      "text": "Rename jerrinmathewgeorge-1@mulearn.md to profiles/jerrinmathewgeorge\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#176",
+      "time": "2024-04-22T15:02:11+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/176",
+      "text": "Jerrin Mathew George Profile Addition",
+      "turnaround_time": 1263
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#176",
+      "time": "2024-04-22T14:41:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/176",
+      "text": "Jerrin Mathew George Profile Addition"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

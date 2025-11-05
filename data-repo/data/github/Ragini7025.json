@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-06-14T15:34:27+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#540",
+      "time": "2024-06-14T15:34:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/540",
+      "text": "Create ragini@mulearn.md",
+      "turnaround_time": 941
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#541",
+      "time": "2024-06-14T15:19:13+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/541",
+      "text": "Ragini7025 patch 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#540",
+      "time": "2024-06-14T15:18:46+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/540",
+      "text": "Create ragini@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#539",
+      "time": "2024-06-14T14:46:30+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/539",
+      "text": "Create ragini@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

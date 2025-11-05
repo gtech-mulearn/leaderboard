@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-11-17T08:54:11Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#500",
+      "time": "2023-11-17T08:54:11Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/500",
+      "text": "mohammedanfas@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#459",
+      "time": "2023-12-21T05:31:15Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/459",
+      "text": "Added list_all_books.txt file for the listing feature after changing branches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#459",
+      "time": "2023-12-21T09:46:05Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/459",
+      "text": "Added list_all_books.txt file for the listing feature after changing branches"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

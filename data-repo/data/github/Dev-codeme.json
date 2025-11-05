@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-04-12T16:35:35+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#548",
+      "time": "2024-04-12T16:35:35+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/548",
+      "text": "Merge feature branch into develop for additional book listing featureDevelop",
+      "turnaround_time": 74515
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#548",
+      "time": "2024-04-11T19:53:40+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/548",
+      "text": "Merge feature branch into develop for additional book listing featureDevelop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

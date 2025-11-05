@@ -1,0 +1,84 @@
+{
+  "last_updated": "2023-10-05T09:18:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#120",
+      "time": "2023-10-05T09:18:00Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/120",
+      "text": "feat: CREATED Profile suryans@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#120",
+      "time": "2023-10-05T09:31:52Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/120",
+      "text": "feat: CREATED Profile suryans@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#503",
+      "time": "2023-11-17T10:41:57Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/503",
+      "text": "Update suryans@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#503",
+      "time": "2024-02-01T22:00:13Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/503",
+      "text": "Update suryans@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#549",
+      "time": "2023-07-26T15:34:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/549",
+      "text": "feat: New API for Notifications "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#549",
+      "time": "2023-07-30T06:01:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/549",
+      "text": "feat: New API for Notifications "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#753",
+      "time": "2023-08-19T15:14:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/753",
+      "text": "fix: bug fix for IG"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#753",
+      "time": "2023-08-20T11:02:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/753",
+      "text": "fix: bug fix for IG"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1393",
+      "time": "2023-10-22T09:58:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1393",
+      "text": "feat: ADDED support for LC member invitation via muid"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1393",
+      "time": "2023-10-22T10:10:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1393",
+      "text": "feat: ADDED support for LC member invitation via muid"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top100-OpenAi-Challenge#43",
+      "time": "2023-11-18T08:47:02Z",
+      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/43",
+      "text": "Initial commit for Synopysor"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

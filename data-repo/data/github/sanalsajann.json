@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-07-03T14:30:29+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#648",
+      "time": "2024-07-03T14:30:29+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/648",
+      "text": "Sanal Sajan Book App",
+      "turnaround_time": 82914
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-02T11:48:09+00:00",
+      "title": "gtech-mulearn/Github-Enablment-Task#648",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/648#pullrequestreview-2153568576",
+      "text": "Sanal Sajan Book App"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

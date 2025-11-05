@@ -1,0 +1,74 @@
+{
+  "last_updated": "2024-06-26T14:50:16+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#671",
+      "time": "2024-06-26T14:50:16+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/671",
+      "text": "akshaykrishnaa-1@mulearn.md",
+      "turnaround_time": 2984
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#680",
+      "time": "2024-06-26T14:45:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/680",
+      "text": "Create akshaykrishnaa-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#676",
+      "time": "2024-06-26T14:32:23+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/676",
+      "text": "Create akshaykrishnaa-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#674",
+      "time": "2024-06-26T14:12:56+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/674",
+      "text": "akshaykrishnaa-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#671",
+      "time": "2024-06-26T14:00:33+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/671",
+      "text": "akshaykrishnaa-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#404",
+      "time": "2023-10-30T17:50:13Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/404",
+      "text": "akshaykrishnaa-1@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#404",
+      "time": "2023-10-30T17:54:37Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/404",
+      "text": "akshaykrishnaa-1@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/676",
+      "title": "Create akshaykrishnaa-1@mulearn.md",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    },
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/674",
+      "title": "akshaykrishnaa-1@mulearn.md",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

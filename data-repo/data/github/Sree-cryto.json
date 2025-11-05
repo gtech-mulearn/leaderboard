@@ -1,0 +1,28 @@
+{
+  "last_updated": "2022-05-16T14:59:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#285",
+      "time": "2022-05-16T14:59:33Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/285",
+      "text": "New branch (assignment3)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#321",
+      "time": "2022-05-18T12:59:31Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/321",
+      "text": "updated assignment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#321",
+      "time": "2022-06-19T05:14:23Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/321",
+      "text": "updated assignment"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

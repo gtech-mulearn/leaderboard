@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-14T12:33:08+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#574",
+      "time": "2024-04-14T12:33:08+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/574",
+      "text": "Develop",
+      "turnaround_time": 33401
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#574",
+      "time": "2024-04-14T00:53:32+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/574#issuecomment-2053827416",
+      "text": "> @Jerald-Joyson only the two contents first and third is required in list_all_books file\r\n\r\nOK "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#574",
+      "time": "2024-04-13T03:16:28+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/574",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#572",
+      "time": "2024-04-12T08:15:01+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/572",
+      "text": "New request from Jerald Joyson"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

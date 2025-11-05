@@ -1,0 +1,28 @@
+{
+  "last_updated": "2022-05-15T10:43:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#189",
+      "time": "2022-05-15T10:43:04Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/189",
+      "text": "Dinu_K_Reji-pull-request"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#196",
+      "time": "2022-05-15T12:05:50Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/196",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#196",
+      "time": "2022-06-19T05:02:23Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/196",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

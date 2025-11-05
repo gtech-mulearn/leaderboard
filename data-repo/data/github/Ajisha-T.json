@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-07-03T14:45:50+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1159",
+      "time": "2024-07-03T14:45:50+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1159",
+      "text": "Update and rename TEMPLATE.md to profiles/ajishat@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1158",
+      "time": "2024-07-03T14:38:17+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1158",
+      "text": "Update and rename TEMPLATE.md to profiles/ajishat@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1159",
+      "title": "Update and rename TEMPLATE.md to profiles/ajishat@mulearn.md",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

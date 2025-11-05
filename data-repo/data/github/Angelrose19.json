@@ -1,0 +1,43 @@
+{
+  "last_updated": "2024-06-24T12:25:28+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#618",
+      "time": "2024-06-24T12:25:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/618",
+      "text": "angelrosetj@mulearn",
+      "turnaround_time": 75120
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#618",
+      "time": "2024-06-23T15:33:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/618",
+      "text": "angelrosetj@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#617",
+      "time": "2024-06-23T15:21:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/617",
+      "text": "Angel Rose"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#25",
+      "time": "2023-06-10T14:53:54Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/25",
+      "text": "Add paramount restaurants"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#25",
+      "time": "2023-06-11T16:14:00Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/25",
+      "text": "Add paramount restaurants"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

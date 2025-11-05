@@ -1,0 +1,111 @@
+{
+  "last_updated": "2024-05-30T16:54:46+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1554",
+      "time": "2024-05-30T16:54:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1554",
+      "text": "Prod",
+      "collaborated_with": [
+        "arjuncvinod",
+        "viraka",
+        "awindsr",
+        "GeorgeET15",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1109",
+      "time": "2024-05-15T12:21:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
+      "text": "Old dev",
+      "collaborated_with": [
+        "awindsr",
+        "Jenin82",
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1099",
+      "time": "2024-04-25T10:03:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1099",
+      "text": "patch(): Implemented the feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1098",
+      "time": "2024-04-25T10:00:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1098",
+      "text": "Menu changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#3",
+      "time": "2024-04-03T08:06:26+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/3",
+      "text": "Create EkalavyanS.md",
+      "turnaround_time": 459
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#3",
+      "time": "2024-04-03T07:58:47+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/3",
+      "text": "Create EkalavyanS.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#342",
+      "time": "2023-10-26T11:17:59Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/342",
+      "text": "Create ekalavyans@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#343",
+      "time": "2023-10-26T11:30:24Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/343",
+      "text": "Create ekalavyans@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#343",
+      "time": "2023-10-26T11:31:07Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/343",
+      "text": "Create ekalavyans@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#520",
+      "time": "2023-11-17T11:15:51Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/520",
+      "text": "Top 100 finalist"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#520",
+      "time": "2024-02-01T22:01:59Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/520",
+      "text": "Top 100 finalist"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#3",
+      "time": "2024-04-03T07:58:45Z",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/3",
+      "text": "Create EkalavyanS.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#3",
+      "time": "2024-04-03T08:06:24Z",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/3",
+      "text": "Create EkalavyanS.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

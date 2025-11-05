@@ -1,0 +1,42 @@
+{
+  "last_updated": "2022-05-11T16:05:16Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#10",
+      "time": "2022-05-11T16:05:16Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/10",
+      "text": "pull request  for assignment 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#15",
+      "time": "2022-05-11T17:21:01Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/15",
+      "text": "added feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#140",
+      "time": "2022-05-14T13:25:26Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/140",
+      "text": "Developed a feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#142",
+      "time": "2022-05-14T13:42:33Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/142",
+      "text": "added a function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#142",
+      "time": "2022-06-18T19:59:21Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/142",
+      "text": "added a function"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

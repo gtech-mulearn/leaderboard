@@ -1,0 +1,41 @@
+{
+  "last_updated": "2024-07-02T14:47:44+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1150",
+      "time": "2024-07-02T14:47:44+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1150",
+      "text": "Create nithaeldho@mulearn.md",
+      "turnaround_time": 58
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1150",
+      "time": "2024-07-02T14:46:46+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1150",
+      "text": "Create nithaeldho@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1137",
+      "time": "2024-07-01T18:30:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1137",
+      "text": "nithaeldho@mulearn"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1137",
+      "title": "nithaeldho@mulearn",
+      "stale_for": 0,
+      "labels": [
+        "Invalid request",
+        "help wanted",
+        "Changes Requested",
+        "invalid"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

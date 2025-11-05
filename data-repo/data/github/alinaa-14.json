@@ -1,0 +1,58 @@
+{
+  "last_updated": "2024-05-18T13:34:19+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#368",
+      "time": "2024-05-18T13:34:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/368",
+      "text": "Create alinapinheiro@mulearn.md",
+      "turnaround_time": 268
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#368",
+      "time": "2024-05-18T13:29:51+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/368",
+      "text": "Create alinapinheiro@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#366",
+      "time": "2024-05-18T11:52:38+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/366",
+      "text": "Create alinapinheiro@mulearn.md",
+      "turnaround_time": 96
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#366",
+      "time": "2024-05-18T11:51:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/366",
+      "text": "Create alinapinheiro@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#365",
+      "time": "2024-05-18T11:29:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/365",
+      "text": "Create alinapinheiro@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#362",
+      "time": "2024-05-18T08:10:42+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/362",
+      "text": "Create alinapinheiro@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#361",
+      "time": "2024-05-18T07:51:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/361",
+      "text": "Create alinapinheiro@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

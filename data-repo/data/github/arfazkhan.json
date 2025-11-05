@@ -1,0 +1,93 @@
+{
+  "last_updated": "2024-05-19T14:41:43+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#382",
+      "time": "2024-05-19T14:41:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/382",
+      "text": "Update arfazkhan@mulearn.md",
+      "turnaround_time": 4594
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#382",
+      "time": "2024-05-19T13:25:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/382",
+      "text": "Update arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#357",
+      "time": "2024-05-17T10:34:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/357",
+      "text": "create arfazkhan@mulearn.md",
+      "turnaround_time": 61986
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#357",
+      "time": "2024-05-16T17:21:48+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/357",
+      "text": "create arfazkhan@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#354",
+      "time": "2024-05-16T16:27:21+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/354#issuecomment-2115683887",
+      "text": "updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#354",
+      "time": "2024-05-15T21:13:52+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/354",
+      "text": "add arfazkhan@mularn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#134",
+      "time": "2023-10-05T20:19:26Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/134",
+      "text": "arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#134",
+      "time": "2023-10-05T20:25:52Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/134",
+      "text": "arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#562",
+      "time": "2023-11-17T12:12:47Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/562",
+      "text": "Update arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#562",
+      "time": "2023-11-23T19:46:16Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/562",
+      "text": "Update arfazkhan@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top100-OpenAi-Challenge#30",
+      "time": "2023-11-16T18:22:15Z",
+      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/30",
+      "text": "feat(setup) add basic setup"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/30",
+      "title": "feat(setup) add basic setup",
+      "stale_for": 183,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

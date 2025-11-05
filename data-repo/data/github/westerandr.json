@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-10-13T07:31:56Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#28",
+      "time": "2022-10-13T07:31:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/28",
+      "text": "Add Hover to Footer Links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#28",
+      "time": "2022-10-13T09:55:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/28",
+      "text": "Add Hover to Footer Links"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

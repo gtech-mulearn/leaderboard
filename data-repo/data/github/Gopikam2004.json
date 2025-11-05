@@ -1,0 +1,28 @@
+{
+  "last_updated": "2022-05-15T18:58:39Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#268",
+      "time": "2022-05-15T18:58:39Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/268",
+      "text": "Added tfp assignment 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#268",
+      "time": "2022-06-19T05:13:24Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/268",
+      "text": "Added tfp assignment 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#91",
+      "time": "2023-12-15T09:20:41Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/91",
+      "text": "Couture Corner"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

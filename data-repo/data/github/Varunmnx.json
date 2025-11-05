@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-10-06T06:46:12Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#142",
+      "time": "2023-10-06T06:46:12Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/142",
+      "text": "created readme.md file for varunnarayanan@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#164",
+      "time": "2023-10-07T19:07:03Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/164",
+      "text": "udpated readme file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#164",
+      "time": "2023-10-07T19:11:30Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/164",
+      "text": "udpated readme file"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

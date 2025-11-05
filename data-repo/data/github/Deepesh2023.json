@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-10-06T10:53:17Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#385",
+      "time": "2023-10-06T10:53:17Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/385",
+      "text": "added and modified text files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#444",
+      "time": "2023-12-03T06:30:35Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/444",
+      "text": "Deepesh_sg_book_app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#444",
+      "time": "2023-12-03T10:28:33Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/444",
+      "text": "Deepesh_sg_book_app"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

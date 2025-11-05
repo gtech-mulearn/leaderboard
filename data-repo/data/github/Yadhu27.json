@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-06-11T16:18:28+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#505",
+      "time": "2024-06-11T16:18:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/505",
+      "text": "Create yadhukrishnak@mulearn.md",
+      "turnaround_time": 10541
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#505",
+      "time": "2024-06-11T13:22:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/505",
+      "text": "Add files via upload"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

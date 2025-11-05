@@ -1,0 +1,49 @@
+{
+  "last_updated": "2023-05-06T15:52:18Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#95",
+      "time": "2023-05-06T15:52:18Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/95",
+      "text": "added KSE challenges"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#95",
+      "time": "2023-05-07T12:37:43Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/95",
+      "text": "added KSE challenges"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#96",
+      "time": "2023-05-10T09:18:18Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/96",
+      "text": "updated kse section"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#96",
+      "time": "2023-05-11T10:28:16Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/96",
+      "text": "updated kse section"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#100",
+      "time": "2023-05-14T11:16:24Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/100",
+      "text": "update kse structure and added new data files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#100",
+      "time": "2023-05-14T16:06:55Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/100",
+      "text": "update kse structure and added new data files"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

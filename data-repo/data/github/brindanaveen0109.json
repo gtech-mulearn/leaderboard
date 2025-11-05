@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-05-12T10:42:24+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#602",
+      "time": "2024-05-12T10:42:24+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/602",
+      "text": "Develop "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#238",
+      "time": "2024-04-26T06:19:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/238",
+      "text": "Create brindanaveen@mulearn.md",
+      "turnaround_time": 944
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#238",
+      "time": "2024-04-26T06:03:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/238",
+      "text": "Create brindanaveen@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/602",
+      "title": "Develop ",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

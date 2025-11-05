@@ -1,0 +1,244 @@
+{
+  "last_updated": "2024-07-14T15:08:45+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2178",
+      "time": "2024-07-14T15:08:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2178",
+      "text": "Refactor launchpad_views and serializers"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2177",
+      "time": "2024-07-14T06:53:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2177",
+      "text": "Dev server",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2176",
+      "time": "2024-07-14T06:34:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2176",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2175",
+      "time": "2024-07-14T06:33:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2175",
+      "text": "Refactor UserLogAPI to filter karma activity log based on launchpad_log parameter",
+      "turnaround_time": 2049
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2175",
+      "time": "2024-07-14T05:59:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2175",
+      "text": "Refactor UserLogAPI to filter karma activity log based on launchpad_log parameter"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2165",
+      "time": "2024-07-13T06:49:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2165",
+      "text": "Dev server",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2164",
+      "time": "2024-07-13T06:30:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2164",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2162",
+      "time": "2024-07-13T05:59:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2162",
+      "text": "Refactored Launchpad User profile Serializer",
+      "turnaround_time": 32188
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2158",
+      "time": "2024-07-12T17:48:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2158",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2157",
+      "time": "2024-07-12T17:45:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2157",
+      "text": "Added db_column param in launchpad model ",
+      "turnaround_time": 461
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2157",
+      "time": "2024-07-12T17:37:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2157",
+      "text": "Added db_column param in launchpad model "
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2156",
+      "time": "2024-07-11T09:03:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2156",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2155",
+      "time": "2024-07-11T08:55:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2155",
+      "text": "Fix Launchpad list api",
+      "turnaround_time": 2024
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2155",
+      "time": "2024-07-11T08:21:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2155",
+      "text": "Fix Launchpad list api"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2152",
+      "time": "2024-07-10T06:30:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2152",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2151",
+      "time": "2024-07-10T06:29:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2151",
+      "text": "Launchpad List Api",
+      "turnaround_time": 2108
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2151",
+      "time": "2024-07-10T05:54:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2151",
+      "text": "Launchpad List Api"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2150",
+      "time": "2024-07-07T05:04:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2150",
+      "text": "Dev server",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "AlfrinP"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2146",
+      "time": "2024-07-06T14:33:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2146",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2145",
+      "time": "2024-07-06T14:32:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2145",
+      "text": "Refactor organisation transfer API",
+      "turnaround_time": 34
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2145",
+      "time": "2024-07-06T14:31:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2145",
+      "text": "Refactor organisation transfer API"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1983",
+      "time": "2024-05-30T16:44:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1983",
+      "text": "Merge dev to production",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1966",
+      "time": "2024-05-28T16:55:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1966",
+      "text": "Merge dev to dev-server",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1961",
+      "time": "2024-05-23T14:27:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1961",
+      "text": "Project CRUD API Endpoints Implementation",
+      "turnaround_time": 10633
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1961",
+      "time": "2024-05-18T11:29:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1961",
+      "text": "Project CRUD API Endpoints Implementation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#426",
+      "time": "2023-11-14T16:23:39Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/426",
+      "text": "Assignment Submission"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#426",
+      "time": "2023-11-19T17:10:43Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/426",
+      "text": "Assignment Submission"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2178",
+      "title": "Refactor launchpad_views and serializers",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

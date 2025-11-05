@@ -1,0 +1,50 @@
+{
+  "last_updated": "2024-04-16T14:06:55+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#93",
+      "time": "2024-04-16T14:06:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/93",
+      "text": "Create yadhukrishnanp@mulearn.md",
+      "turnaround_time": 30457
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#93",
+      "time": "2024-04-16T05:39:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/93",
+      "text": "Create yadhukrishnanp@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#56",
+      "time": "2023-11-12T05:52:00Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/56",
+      "text": "Add Digigramam to store list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#57",
+      "time": "2023-11-12T06:15:56Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/57",
+      "text": "Add digi gramam"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#68",
+      "time": "2023-11-30T23:59:44Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/68",
+      "text": "Add Digigramam  to store list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#68",
+      "time": "2023-12-01T16:28:18Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/68",
+      "text": "Add Digigramam  to store list"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

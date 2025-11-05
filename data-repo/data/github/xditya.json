@@ -1,0 +1,64 @@
+{
+  "last_updated": "2024-04-26T16:34:44+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#244",
+      "time": "2024-04-26T16:34:44+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/244",
+      "text": "add adityas-1@mulearn.md",
+      "turnaround_time": 3644
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#244",
+      "time": "2024-04-26T15:34:00+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/244",
+      "text": "Create adityas-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#240",
+      "time": "2023-10-17T14:37:35Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/240",
+      "text": "feat: add adityas-1@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#240",
+      "time": "2023-10-17T15:05:22Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/240",
+      "text": "feat: add adityas-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#546",
+      "time": "2023-11-17T11:40:39Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/546",
+      "text": "update details for Top100 Finals"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#546",
+      "time": "2023-11-23T13:14:12Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/546",
+      "text": "update details for Top100 Finals"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#449",
+      "time": "2023-12-17T14:54:43Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/449",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#449",
+      "time": "2023-12-17T16:01:22Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/449",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

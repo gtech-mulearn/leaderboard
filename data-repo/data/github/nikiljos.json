@@ -1,0 +1,49 @@
+{
+  "last_updated": "2022-05-11T13:03:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#1",
+      "time": "2022-05-11T13:03:25Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/1",
+      "text": "Assignment Submission | Nikhil Jose"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#1",
+      "time": "2022-06-18T19:43:25Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/1",
+      "text": "Assignment Submission | Nikhil Jose"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#361",
+      "time": "2022-06-19T04:55:29Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/361",
+      "text": "Revert Merge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#361",
+      "time": "2022-06-19T04:55:38Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/361",
+      "text": "Revert Merge"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/foundation#1",
+      "time": "2022-07-22T18:10:40Z",
+      "link": "https://github.com/gtech-mulearn/foundation/pull/1",
+      "text": "New Badge Metadata and Minor Refactor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/foundation#1",
+      "time": "2022-07-22T18:12:27Z",
+      "link": "https://github.com/gtech-mulearn/foundation/pull/1",
+      "text": "New Badge Metadata and Minor Refactor"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

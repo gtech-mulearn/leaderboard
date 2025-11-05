@@ -1,0 +1,49 @@
+{
+  "last_updated": "2024-05-21T13:55:09+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-21T13:55:09+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2122697690",
+      "text": "https://www.figma.com/design/mqLEVGygDn4WBflsbRQZzc/Untitled?node-id=1%3A2&t=5jVK6iXcUgurvukp-1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#74",
+      "time": "2023-10-03T14:40:38Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/74",
+      "text": "althafhussainmu@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#75",
+      "time": "2023-10-03T14:55:26Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/75",
+      "text": "althafhussainmu@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#75",
+      "time": "2023-10-03T18:54:36Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/75",
+      "text": "althafhussainmu@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#156",
+      "time": "2022-05-14T16:27:01Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/156",
+      "text": "Assignment 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#156",
+      "time": "2022-06-18T20:03:10Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/156",
+      "text": "Assignment 3"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

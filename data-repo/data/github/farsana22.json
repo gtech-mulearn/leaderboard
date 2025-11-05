@@ -1,0 +1,49 @@
+{
+  "last_updated": "2023-10-21T05:17:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#884",
+      "time": "2023-10-21T05:17:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/884",
+      "text": "view all removed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#884",
+      "time": "2023-10-21T16:17:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/884",
+      "text": "view all removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#939",
+      "time": "2023-11-01T15:37:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/939",
+      "text": "fix(LearningCircle.module):responsive design added to interest group…"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#939",
+      "time": "2023-11-01T15:40:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/939",
+      "text": "fix(LearningCircle.module):responsive design added to interest group…"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#968",
+      "time": "2023-11-14T14:18:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/968",
+      "text": "new feat (LC): Team list view added in LC"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#968",
+      "time": "2023-11-14T15:00:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/968",
+      "text": "new feat (LC): Team list view added in LC"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

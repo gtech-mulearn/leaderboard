@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-06-27T09:51:18+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#697",
+      "time": "2024-06-27T09:51:18+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/697",
+      "text": "created ajmalop.mulearn.md",
+      "turnaround_time": 1923
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#697",
+      "time": "2024-06-27T09:19:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/697",
+      "text": "created ajmalop.mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

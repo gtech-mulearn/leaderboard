@@ -1,0 +1,119 @@
+{
+  "last_updated": "2022-05-12T18:19:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#35",
+      "time": "2022-05-12T18:19:25Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/35",
+      "text": "TFP-Assignment 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#35",
+      "time": "2022-06-18T19:47:16Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/35",
+      "text": "TFP-Assignment 3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#99",
+      "time": "2023-05-06T20:33:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/99",
+      "text": "Org-Management->Create, List, Org-Info"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#99",
+      "time": "2023-05-08T09:24:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/99",
+      "text": "Org-Management->Create, List, Org-Info"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#155",
+      "time": "2023-05-21T17:20:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/155",
+      "text": "Org API updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#155",
+      "time": "2023-05-21T17:58:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/155",
+      "text": "Org API updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#163",
+      "time": "2023-05-22T18:10:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/163",
+      "text": "Org API Update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#163",
+      "time": "2023-05-22T19:15:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/163",
+      "text": "Org API Update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#214",
+      "time": "2023-05-29T16:02:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/214",
+      "text": "Location API update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#214",
+      "time": "2023-05-29T18:36:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/214",
+      "text": "Location API update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#218",
+      "time": "2023-05-31T18:07:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/218",
+      "text": "Location API GET Request Update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#218",
+      "time": "2023-05-31T18:47:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/218",
+      "text": "Location API GET Request Update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#241",
+      "time": "2023-06-10T17:29:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/241",
+      "text": "Minor Update for Location API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#328",
+      "time": "2023-06-22T17:37:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/328",
+      "text": "Org API update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#328",
+      "time": "2023-06-22T17:38:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/328",
+      "text": "Org API update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#505",
+      "time": "2023-07-22T19:18:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/505",
+      "text": "Device Management"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

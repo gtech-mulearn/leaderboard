@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-02-04T19:07:29Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#474",
+      "time": "2024-02-04T19:07:29Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/474",
+      "text": "Added feature to list_all_books.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#474",
+      "time": "2024-02-05T13:38:41Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/474",
+      "text": "Added feature to list_all_books.txt"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

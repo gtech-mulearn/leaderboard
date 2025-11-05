@@ -1,0 +1,43 @@
+{
+  "last_updated": "2024-06-04T10:16:49+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#435",
+      "time": "2024-06-04T10:16:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/435",
+      "text": "arjunv-7@mulearn",
+      "turnaround_time": 2479
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#435",
+      "time": "2024-06-04T09:35:31+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/435",
+      "text": "arjunv-7@mulearn"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#431",
+      "time": "2024-06-04T09:32:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/431#issuecomment-2147059411",
+      "text": "Here i have moved my profile.md file to the profile folder from main and uploaded the the template to the main . "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#431",
+      "time": "2024-06-03T08:38:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/431",
+      "text": "arjunv-7@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#424",
+      "time": "2024-05-31T13:08:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/424",
+      "text": "arjunv-7@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

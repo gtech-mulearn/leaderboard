@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-07-12T04:50:07+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#651",
+      "time": "2024-07-12T04:50:07+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/651",
+      "text": "sample book app pr",
+      "turnaround_time": 34228
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#651",
+      "time": "2024-07-11T19:19:40+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/651",
+      "text": "sample book app pr"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

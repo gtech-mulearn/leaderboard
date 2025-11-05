@@ -1,0 +1,59 @@
+{
+  "last_updated": "2024-06-30T17:16:42+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#947",
+      "time": "2024-06-30T17:16:42+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/947",
+      "text": "Update MuhammedSajal@mulearn.md",
+      "turnaround_time": 3059
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#947",
+      "time": "2024-06-30T16:27:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/947#issuecomment-2198613701",
+      "text": "Just changed writing error."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#947",
+      "time": "2024-06-30T16:25:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/947",
+      "text": "Update MuhammedSajal@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#943",
+      "time": "2024-06-30T16:21:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/943",
+      "text": "Update MuhammedSajal@mulearn.md",
+      "turnaround_time": 421
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#943",
+      "time": "2024-06-30T16:14:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/943",
+      "text": "Update MuhammedSajal@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#935",
+      "time": "2024-06-30T15:43:44+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/935",
+      "text": "Create MuhammedSajal@mulearn.md",
+      "turnaround_time": 176
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#935",
+      "time": "2024-06-30T15:40:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/935",
+      "text": "Create MuhammedSajal@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

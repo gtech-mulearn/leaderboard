@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-10-03T15:42:52Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#5",
+      "time": "2023-10-03T15:42:52Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/5",
+      "text": "Update index.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#6",
+      "time": "2023-10-03T15:50:32Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/6",
+      "text": "Update index.html"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

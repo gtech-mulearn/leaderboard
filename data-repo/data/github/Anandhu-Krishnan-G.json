@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-10-15T15:11:59Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#213",
+      "time": "2023-10-15T15:11:59Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/213",
+      "text": "Create anandhukrishnang@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#213",
+      "time": "2023-10-15T15:14:35Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/213",
+      "text": "Create anandhukrishnang@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#302",
+      "time": "2022-05-16T17:15:35Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/302",
+      "text": "Assignment submission"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#302",
+      "time": "2022-06-19T05:13:57Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/302",
+      "text": "Assignment submission"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

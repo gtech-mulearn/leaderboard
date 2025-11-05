@@ -1,0 +1,228 @@
+{
+  "last_updated": "2024-07-13T11:30:23+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1590",
+      "time": "2024-07-13T11:30:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1590",
+      "text": "dev",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1586",
+      "time": "2024-07-13T11:28:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1586",
+      "text": "chore(Donation): removed unwanted words",
+      "turnaround_time": 13049
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1586",
+      "time": "2024-07-10T07:50:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1586",
+      "text": "chore(Donation): removed unwanted words"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1573",
+      "time": "2024-07-05T17:13:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1573",
+      "text": "DevServer",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1581",
+      "time": "2024-07-05T17:09:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1581",
+      "text": "fix(Donation): pdf icon changed",
+      "turnaround_time": 4680
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1581",
+      "time": "2024-07-05T15:51:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1581",
+      "text": "fix(Donation): pdf icon changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#795",
+      "time": "2024-06-29T08:00:16+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/795",
+      "text": "alanfrancissanthosh-1@mulearn",
+      "turnaround_time": 1571
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#795",
+      "time": "2024-06-29T07:34:06+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/795",
+      "text": "create the profile md file"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1572",
+      "time": "2024-06-28T06:54:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1572",
+      "text": "devserver",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1571",
+      "time": "2024-06-28T06:02:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1571",
+      "text": "fix(TrivialIdeas): mobile view font size",
+      "turnaround_time": 80887
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1571",
+      "time": "2024-06-24T07:34:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1571",
+      "text": "fix(TrivialIdeas): mobile view font size"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1570",
+      "time": "2024-06-21T16:11:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1570",
+      "text": "devserver",
+      "collaborated_with": [
+        "arjuncvinod",
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1568",
+      "time": "2024-06-21T16:09:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1568",
+      "text": "feat(Trivialideas): Added new pages for Trivial\u00a0Ideas",
+      "turnaround_time": 17307
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1568",
+      "time": "2024-06-21T11:21:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1568",
+      "text": "feat(Trivialideas): Added new pages for Trivial\u00a0Ideas"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1457",
+      "time": "2024-05-26T18:19:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1457#issuecomment-2132307959",
+      "text": "I can work on this issue"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1440",
+      "time": "2024-05-26T17:39:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1440#issuecomment-2132295897",
+      "text": "content loading issue on isr and smt has been fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1551",
+      "time": "2024-05-26T17:36:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1551",
+      "text": "Old dev"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1440",
+      "time": "2024-05-26T14:21:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1440#issuecomment-2132240439",
+      "text": "can some now tell which branch is this url"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1440",
+      "time": "2024-05-25T10:33:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1440#issuecomment-2131196476",
+      "text": "i can work on this issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#8",
+      "time": "2024-05-12T06:12:52+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/8",
+      "text": "role changed to intern",
+      "turnaround_time": 66654
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/leaderboard-data#8",
+      "time": "2024-05-12T06:12:52+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/8",
+      "text": "role changed to intern",
+      "collaborated_with": [
+        "vishakh-abhayan"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#8",
+      "time": "2024-05-11T11:41:58+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/8",
+      "text": "role changed to intern"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#509",
+      "time": "2024-03-27T20:54:16+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/509",
+      "text": "Learned basics of github",
+      "turnaround_time": 13118
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#509",
+      "time": "2024-03-27T17:15:38+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/509",
+      "text": "Learned basics of github"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#509",
+      "time": "2024-03-27T20:54:16+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/509",
+      "text": "Learned basics of github",
+      "turnaround_time": 13118
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#509",
+      "time": "2024-03-27T17:15:38+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/509",
+      "text": "Learned basics of github"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#509",
+      "time": "2024-03-27T20:54:16+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/509",
+      "text": "Learned basics of github",
+      "turnaround_time": 13118
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#509",
+      "time": "2024-03-27T17:15:38+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/509",
+      "text": "Learned basics of github"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

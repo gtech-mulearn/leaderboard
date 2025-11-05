@@ -1,0 +1,50 @@
+{
+  "last_updated": "2024-06-13T15:20:23+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#530",
+      "time": "2024-06-13T15:20:23+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/530#issuecomment-2165988559",
+      "text": "update readme file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#530",
+      "time": "2024-06-13T15:19:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/530",
+      "text": "Aswinv"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#509",
+      "time": "2024-06-12T06:15:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/509#issuecomment-2162186862",
+      "text": "last year project added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#509",
+      "time": "2024-06-12T06:14:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/509",
+      "text": "Update aswinv-3@mulearn.md with main project"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#363",
+      "time": "2024-05-18T11:48:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/363",
+      "text": "aswinv-3@mulearn",
+      "turnaround_time": 1281
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#363",
+      "time": "2024-05-18T11:27:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/363",
+      "text": "aswinv-3@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

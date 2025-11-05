@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-23T06:20:45+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#180",
+      "time": "2024-04-23T06:20:45+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/180",
+      "text": "Add abygeorge@mulearn.md file",
+      "turnaround_time": 6553
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#180",
+      "time": "2024-04-23T04:31:33+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/180",
+      "text": "Add abygeorge@mulearn.md file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#42",
+      "time": "2023-06-20T11:57:32Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/42",
+      "text": "Aby added Orange events website"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#42",
+      "time": "2023-06-20T18:16:42Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/42",
+      "text": "Aby added Orange events website"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

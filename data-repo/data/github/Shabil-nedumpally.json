@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-11-19T05:25:20Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#431",
+      "time": "2023-11-19T05:25:20Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/431",
+      "text": "✔"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#432",
+      "time": "2023-11-19T07:02:11Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/432",
+      "text": "first commit on main branch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#432",
+      "time": "2023-11-19T17:12:12Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/432",
+      "text": "first commit on main branch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#433",
+      "time": "2023-11-19T07:20:04Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/433",
+      "text": "assignment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#433",
+      "time": "2023-11-19T17:12:10Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/433",
+      "text": "assignment"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

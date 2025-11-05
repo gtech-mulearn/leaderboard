@@ -1,0 +1,249 @@
+{
+  "last_updated": "2024-06-06T11:41:46+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1564",
+      "time": "2024-06-06T11:41:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1564",
+      "text": "prod",
+      "collaborated_with": [
+        "viraka",
+        "karivarkey"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1561",
+      "time": "2024-06-04T06:22:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1561",
+      "text": "dev-server",
+      "collaborated_with": [
+        "viraka",
+        "karivarkey"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1555",
+      "time": "2024-06-04T06:05:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1555",
+      "text": "feat(DonationSuccess): success page added",
+      "turnaround_time": 85107
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1555",
+      "time": "2024-05-31T06:26:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1555",
+      "text": "feat(DonationSuccess): success page added"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1554",
+      "time": "2024-05-30T16:54:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1554",
+      "text": "Prod",
+      "collaborated_with": [
+        "arjuncvinod",
+        "viraka",
+        "awindsr",
+        "EkalavyanS",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1553",
+      "time": "2024-05-30T16:05:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1553",
+      "text": "Prod",
+      "collaborated_with": [
+        "arjuncvinod",
+        "AFarHitman7",
+        "viraka",
+        "karivarkey",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-21T11:07:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2122383529",
+      "text": "Hey, can I work on this?\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1531",
+      "time": "2024-05-21T05:46:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1531",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1523",
+      "time": "2024-05-20T13:23:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1523#issuecomment-2120454984",
+      "text": "Ohh, okayyy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1524",
+      "time": "2024-05-20T07:59:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1524",
+      "text": "fix(page-navigation): urls were updated",
+      "turnaround_time": 5140
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1523",
+      "time": "2024-05-20T07:02:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1523#issuecomment-2119804813",
+      "text": "Hi, @vidhya-vjkumar I'm trying to fix the issue, I've made some changes but I'm not able to find task page to create task and check whether it's working. Can you please check it out \"https://github.com/GeorgeET15/mulearn/tree/dev\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1524",
+      "time": "2024-05-20T06:34:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1524",
+      "text": "fix(page-navigation): urls were updated"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1473",
+      "time": "2024-05-20T05:21:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1473#issuecomment-2119689232",
+      "text": "Hey, can I work on this issue\r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1475",
+      "time": "2024-05-20T05:19:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1475#issuecomment-2119687548",
+      "text": "The cursor changes on hover"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1479",
+      "time": "2024-05-19T17:43:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1479#issuecomment-2119310872",
+      "text": "I had solved this issue"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1455",
+      "time": "2024-05-19T16:57:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1455",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka",
+        "arjuncvinod",
+        "awindsr",
+        "Jenin82"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1519",
+      "time": "2024-05-19T16:56:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1519",
+      "text": "Dev",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1518",
+      "time": "2024-05-19T16:40:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1518",
+      "text": "fix(donation): integrated UI and logic",
+      "turnaround_time": 16
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1518",
+      "time": "2024-05-19T16:40:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1518",
+      "text": "fix(donation): integrated UI and logic"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1514",
+      "time": "2024-05-19T12:34:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1514",
+      "text": "fix: fixed infinite API calls",
+      "turnaround_time": 6655
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1514",
+      "time": "2024-05-19T10:43:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1514",
+      "text": "fix: prevent infinite API calls on Mulearn Home Page"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1436",
+      "time": "2024-05-19T08:28:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1436#issuecomment-2119150869",
+      "text": "Hi, can I work on this issue."
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1479",
+      "time": "2024-05-19T04:02:22+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1479#issuecomment-2119090327",
+      "text": "Can I work on this issue\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1484",
+      "time": "2024-05-18T00:17:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1484",
+      "text": "Fixed (Mulearn Home Page - Infinite API calls)"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-17T05:00:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443#issuecomment-2116629254",
+      "text": "I'm still trying to find a way to solve this"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-17T04:59:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443#issuecomment-2116628667",
+      "text": "Reading cookie in cross-site context will be blocked. This is causing the infinite api calls while trying to embed yt videos."
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-15T09:30:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443#issuecomment-2112025365",
+      "text": "Can I work on this issue?"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#10",
+      "time": "2024-05-11T11:55:40+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/10",
+      "text": "added to readme.md file",
+      "turnaround_time": 514
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#10",
+      "time": "2024-05-11T11:47:07+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/10",
+      "text": "added to readme.md file"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

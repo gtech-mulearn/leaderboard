@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-05-13T17:02:15Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#79",
+      "time": "2022-05-13T17:02:15Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/79",
+      "text": "Feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#82",
+      "time": "2022-05-13T17:09:01Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/82",
+      "text": "merge branch \"feature\" to \"develop\""
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#147",
+      "time": "2022-05-14T14:38:20Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/147",
+      "text": "ASSIGNMENT III - JUNAID ABDULLA MK"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#147",
+      "time": "2022-06-18T20:00:11Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/147",
+      "text": "ASSIGNMENT III - JUNAID ABDULLA MK"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,189 @@
+{
+  "last_updated": "2023-06-25T16:36:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#347",
+      "time": "2023-06-25T16:36:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/347",
+      "text": "Updated user-profile API backend."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#347",
+      "time": "2023-06-25T16:45:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/347",
+      "text": "Updated user-profile API backend."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#348",
+      "time": "2023-06-25T17:11:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/348",
+      "text": "Updated user-profile API backend(updated karma,...)."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#348",
+      "time": "2023-06-26T10:45:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/348",
+      "text": "Updated user-profile API backend(updated karma,...)."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#352",
+      "time": "2023-06-27T15:48:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/352",
+      "text": "Updated All API end-points camelCase to snake_case."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#391",
+      "time": "2023-07-01T18:15:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/391",
+      "text": "Updated API end-points camelCase to snake_case"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#391",
+      "time": "2023-07-02T07:50:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/391",
+      "text": "Updated API end-points camelCase to snake_case"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#755",
+      "time": "2023-08-21T15:47:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/755",
+      "text": "Added API to add Social accounts."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#759",
+      "time": "2023-08-22T14:04:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/759",
+      "text": "Added Socials API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#759",
+      "time": "2023-08-22T17:01:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/759",
+      "text": "Added Socials API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#771",
+      "time": "2023-08-23T14:27:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/771",
+      "text": "Fixed Errors in Socials API."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#771",
+      "time": "2023-08-25T07:00:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/771",
+      "text": "Fixed Errors in Socials API."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#798",
+      "time": "2023-08-27T12:41:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/798",
+      "text": "Added update method in Socials API."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#798",
+      "time": "2023-08-27T12:44:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/798",
+      "text": "Added update method in Socials API."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#808",
+      "time": "2023-08-28T15:04:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/808",
+      "text": "Added get method to Socials API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#808",
+      "time": "2023-08-28T15:49:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/808",
+      "text": "Added get method to Socials API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#887",
+      "time": "2023-09-02T14:37:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/887",
+      "text": "Made some changes to Socials API."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#887",
+      "time": "2023-09-02T14:40:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/887",
+      "text": "Made some changes to Socials API."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#904",
+      "time": "2023-09-03T17:49:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/904",
+      "text": "Fixed the issue in entering empty string."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#904",
+      "time": "2023-09-03T17:52:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/904",
+      "text": "Fixed the issue in entering empty string."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#910",
+      "time": "2023-09-04T14:45:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/910",
+      "text": "Fixed the issue in SocialsAPI( null value )"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#910",
+      "time": "2023-09-04T14:47:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/910",
+      "text": "Fixed the issue in SocialsAPI( null value )"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#916",
+      "time": "2023-09-04T17:34:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/916",
+      "text": "Added DepartmentAPI(CURD)."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#916",
+      "time": "2023-09-09T07:31:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/916",
+      "text": "Added DepartmentAPI(CURD)."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#982",
+      "time": "2023-09-13T04:59:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/982",
+      "text": "Fixed DepartmentAPI(CURD)."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#982",
+      "time": "2023-09-13T09:03:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/982",
+      "text": "Fixed DepartmentAPI(CURD)."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

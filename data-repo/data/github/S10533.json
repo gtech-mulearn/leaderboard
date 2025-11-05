@@ -1,0 +1,44 @@
+{
+  "last_updated": "2024-04-18T06:13:37+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#102",
+      "time": "2024-04-18T06:13:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/102",
+      "text": "Rename jobinjose-4.md to jobinjose-4@mulearn.md",
+      "turnaround_time": 82836
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#102",
+      "time": "2024-04-18T04:41:45+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/102#issuecomment-2062981460",
+      "text": "@JUDU-13 pls check the updated info"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#102",
+      "time": "2024-04-17T07:13:02+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/102",
+      "text": "Rename jobinjose-4.md to jobinjose-4@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#97",
+      "time": "2024-04-17T05:31:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/97",
+      "text": "jobinjose-4@mulearn.md",
+      "turnaround_time": 39863
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#97",
+      "time": "2024-04-16T18:26:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/97",
+      "text": "jobinjose-4@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,50 @@
+{
+  "last_updated": "2024-04-15T08:37:04+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#71",
+      "time": "2024-04-15T08:37:04+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/71",
+      "text": "Create adarsh.j@mulearn.md",
+      "turnaround_time": 780
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#71",
+      "time": "2024-04-15T08:24:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/71",
+      "text": "Create adarsh.j@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#15",
+      "time": "2024-04-14T03:20:30+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/15#issuecomment-2053880896",
+      "text": "is it ok or not"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#15",
+      "time": "2024-04-12T05:49:14+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/15#issuecomment-2051025364",
+      "text": "I restore template.md and create .md file on /profile folder"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#15",
+      "time": "2024-04-12T05:45:23+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/15#issuecomment-2051021736",
+      "text": "Ok\r\n\r\nOn Fri, 12 Apr, 2024, 11:13 Vishakh Abhayan, ***@***.***>\r\nwrote:\r\n\r\n> ***@***.**** requested changes on this pull request.\r\n>\r\n> Don't need to delete that TEMPLATE.md file, plesase create that .md file\r\n> on /proflies folder\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/15#pullrequestreview-1995911858>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/ASU7VT6P2TE56UTKRTAN4HTY45X75AVCNFSM6AAAAABGDPNYF6VHI2DSMVQWIX3LMV43YUDVNRWFEZLROVSXG5CSMV3GSZLXHMYTSOJVHEYTCOBVHA>\r\n> .\r\n> You are receiving this because you authored the thread.Message ID:\r\n> ***@***.***>\r\n>\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#15",
+      "time": "2024-04-12T05:16:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/15",
+      "text": "adarsh.j@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

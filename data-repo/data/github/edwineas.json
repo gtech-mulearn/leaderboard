@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-06-26T05:37:20+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#650",
+      "time": "2024-06-26T05:37:20+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/650",
+      "text": "Create edwinalexshaji@mulearn.md",
+      "turnaround_time": 34
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#650",
+      "time": "2024-06-26T05:36:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/650",
+      "text": "Create edwinalexshaji@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#151",
+      "time": "2023-10-06T18:06:07Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/151",
+      "text": "edwinalexshaji@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#151",
+      "time": "2023-10-06T18:18:06Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/151",
+      "text": "edwinalexshaji@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,29 @@
+{
+  "last_updated": "2024-06-29T12:53:08+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#804",
+      "time": "2024-06-29T12:53:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/804",
+      "text": "Create bibishasusanmathew@mulearn.md",
+      "turnaround_time": 13928
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#804",
+      "time": "2024-06-29T09:03:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/804#issuecomment-2198055454",
+      "text": "task 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#804",
+      "time": "2024-06-29T09:01:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/804",
+      "text": "Create bibishasusanmathew@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

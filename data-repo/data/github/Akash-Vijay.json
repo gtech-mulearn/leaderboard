@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-04-13T21:22:58+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#56",
+      "time": "2024-04-13T21:22:58+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/56",
+      "text": "[added] profile akashvijay@mulearn.md",
+      "turnaround_time": 11048
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#56",
+      "time": "2024-04-13T18:18:51+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/56",
+      "text": "[added] profile akashvijay@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-06-04T14:34:11+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#443",
+      "time": "2024-06-04T14:34:11+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/443",
+      "text": "josepaul-2@mulearn",
+      "turnaround_time": 3913
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#443",
+      "time": "2024-06-04T13:28:59+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/443",
+      "text": "josepaul-2@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

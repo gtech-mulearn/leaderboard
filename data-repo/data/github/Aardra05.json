@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-04-06T18:04:30+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#26",
+      "time": "2024-04-06T18:04:30+00:00",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/26",
+      "text": "uindex.html"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/26",
+      "title": "uindex.html",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

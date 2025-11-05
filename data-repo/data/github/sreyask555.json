@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-11-06T12:38:34Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#442",
+      "time": "2023-11-06T12:38:34Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/442",
+      "text": "sreyass-2@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#442",
+      "time": "2023-11-06T15:04:55Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/442",
+      "text": "sreyass-2@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#90",
+      "time": "2022-05-13T17:36:52Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/90",
+      "text": "Initial pull request created."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#90",
+      "time": "2022-06-18T19:54:00Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/90",
+      "text": "Initial pull request created."
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

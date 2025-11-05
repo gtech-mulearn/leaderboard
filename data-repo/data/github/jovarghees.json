@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-11-15T09:10:35Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#489",
+      "time": "2023-11-15T09:10:35Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/489",
+      "text": "selfIntroToTop100Coder"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#408",
+      "time": "2023-10-28T17:53:36Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/408",
+      "text": "Mulearn - Git hub assignment "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#408",
+      "time": "2023-10-31T11:33:18Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/408",
+      "text": "Mulearn - Git hub assignment "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

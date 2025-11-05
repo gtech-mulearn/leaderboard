@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-12T05:48:32+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#13",
+      "time": "2024-04-12T05:48:32+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/13",
+      "text": "Add profile aneefs@mulearn.md",
+      "turnaround_time": 3244
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#13",
+      "time": "2024-04-12T04:54:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/13",
+      "text": "Add profile aneefs@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#14",
+      "time": "2022-05-11T17:19:18Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/14",
+      "text": "Create a Book App"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#14",
+      "time": "2022-06-18T19:45:35Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/14",
+      "text": "Create a Book App"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

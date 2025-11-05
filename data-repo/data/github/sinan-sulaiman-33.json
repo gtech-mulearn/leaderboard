@@ -1,0 +1,42 @@
+{
+  "last_updated": "2024-05-26T18:16:52+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#66",
+      "time": "2024-05-26T18:16:52+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/66",
+      "text": "Adding content to Wiki Syllabus"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#23",
+      "time": "2023-10-01T14:00:37Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/23",
+      "text": "First edit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#24",
+      "time": "2023-10-01T14:24:17Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/24",
+      "text": "Create sinansulaiman@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#29",
+      "time": "2023-10-01T15:31:50Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/29",
+      "text": "Completed Portfolio - sinansulaiman@mulearn"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/66",
+      "title": "Adding content to Wiki Syllabus",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

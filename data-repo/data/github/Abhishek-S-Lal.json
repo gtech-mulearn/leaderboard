@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-10-12T12:38:28Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#188",
+      "time": "2023-10-12T12:38:28Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/188",
+      "text": "abhishekslal@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#188",
+      "time": "2023-10-12T15:54:09Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/188",
+      "text": "abhishekslal@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#558",
+      "time": "2023-11-17T12:01:02Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/558",
+      "text": "Update abhishekslal@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#558",
+      "time": "2023-11-23T19:46:25Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/558",
+      "text": "Update abhishekslal@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top100-OpenAi-Challenge#44",
+      "time": "2023-11-18T09:00:46Z",
+      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/44",
+      "text": "Chat with video - code repo submission"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,49 @@
+{
+  "last_updated": "2023-10-04T14:03:52Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#102",
+      "time": "2023-10-04T14:03:52Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/102",
+      "text": "Create rohitramdas@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#102",
+      "time": "2023-10-04T16:31:14Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/102",
+      "text": "Create rohitramdas@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#542",
+      "time": "2023-11-17T11:35:53Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/542",
+      "text": "profile update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#557",
+      "time": "2023-11-17T11:56:52Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/557",
+      "text": "pr request for profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#557",
+      "time": "2023-11-23T13:12:23Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/557",
+      "text": "pr request for profile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top100-OpenAi-Challenge#42",
+      "time": "2023-11-18T07:51:10Z",
+      "link": "https://github.com/gtech-mulearn/Top100-OpenAi-Challenge/pull/42",
+      "text": "pr for project"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

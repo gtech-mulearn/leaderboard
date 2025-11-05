@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-10-10T16:18:13Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#183",
+      "time": "2023-10-10T16:18:13Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/183",
+      "text": "yahyasulaim@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#183",
+      "time": "2023-10-10T18:00:26Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/183",
+      "text": "yahyasulaim@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#108",
+      "time": "2022-05-13T18:59:20Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/108",
+      "text": "book add and list features"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#108",
+      "time": "2022-06-19T04:54:47Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/108",
+      "text": "book add and list features"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

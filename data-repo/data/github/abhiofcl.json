@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-04-21T07:41:10+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#158",
+      "time": "2024-04-21T07:41:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/158",
+      "text": "added md file for abhishekv-1@mulearn",
+      "turnaround_time": 46638
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#158",
+      "time": "2024-04-20T18:43:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/158",
+      "text": "added md file for abhishekv-1@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

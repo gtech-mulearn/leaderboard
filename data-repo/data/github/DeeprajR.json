@@ -1,0 +1,63 @@
+{
+  "last_updated": "2023-04-02T11:09:33Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#170",
+      "time": "2023-04-02T11:09:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/170",
+      "text": "Removed /mascot and added /mascot-submission"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#170",
+      "time": "2023-04-02T11:09:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/170",
+      "text": "Removed /mascot and added /mascot-submission"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#175",
+      "time": "2023-04-08T11:16:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/175",
+      "text": "Update redirect.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#175",
+      "time": "2023-04-08T11:24:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/175",
+      "text": "Update redirect.json"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#176",
+      "time": "2023-04-09T07:03:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/176",
+      "text": "added campus orientation guides drive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#176",
+      "time": "2023-04-09T07:03:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/176",
+      "text": "added campus orientation guides drive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#177",
+      "time": "2023-04-09T08:08:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/177",
+      "text": "basic survey added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#177",
+      "time": "2023-04-09T08:08:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/177",
+      "text": "basic survey added"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

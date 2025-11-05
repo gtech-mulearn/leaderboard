@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-09-28T07:52:19Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#13",
+      "time": "2022-09-28T07:52:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/13",
+      "text": "update on ui issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#15",
+      "time": "2022-09-28T09:29:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/15",
+      "text": "Fix theme"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

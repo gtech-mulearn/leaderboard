@@ -1,0 +1,49 @@
+{
+  "last_updated": "2023-09-13T16:46:30Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#993",
+      "time": "2023-09-13T16:46:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/993",
+      "text": "download log files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#993",
+      "time": "2023-09-13T17:48:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/993",
+      "text": "download log files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1148",
+      "time": "2023-09-29T19:11:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1148",
+      "text": "Log clear and view added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1148",
+      "time": "2023-09-29T19:13:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1148",
+      "text": "Log clear and view added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mushortner#2",
+      "time": "2023-09-20T13:32:15Z",
+      "link": "https://github.com/gtech-mulearn/mushortner/pull/2",
+      "text": "location information added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mushortner#2",
+      "time": "2023-09-21T07:41:35Z",
+      "link": "https://github.com/gtech-mulearn/mushortner/pull/2",
+      "text": "location information added"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2023-10-21T11:02:02Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#292",
+      "time": "2023-10-21T11:02:02Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/292",
+      "text": "add archavr@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#335",
+      "time": "2023-10-26T08:47:02Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/335",
+      "text": "#292 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#335",
+      "time": "2023-10-26T09:52:51Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/335",
+      "text": "#292 "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

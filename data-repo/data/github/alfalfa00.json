@@ -1,0 +1,42 @@
+{
+  "last_updated": "2024-04-08T18:15:26+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#538",
+      "time": "2024-04-08T18:15:26+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/538",
+      "text": "My first PR"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#531",
+      "time": "2024-04-07T15:53:11+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/531",
+      "text": "Develop PR"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#519",
+      "time": "2024-04-03T11:46:46+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/519#issuecomment-2034364025",
+      "text": "what did you mean by syncing the repo...?\r\n\r\n\r\n\r\nOn Tue, 2 Apr 2024 at 18:29, Kochouseph John ***@***.***>\r\nwrote:\r\n\r\n> Sync the repo and redo the task\r\n>\r\n> \u2014\r\n> Reply to this email directly, view it on GitHub\r\n> <https://github.com/gtech-mulearn/Github-Enablment-Task/pull/519#issuecomment-2031978117>,\r\n> or unsubscribe\r\n> <https://github.com/notifications/unsubscribe-auth/A7CENCH3FVFQUPG5MLOIA23Y3KTTJAVCNFSM6AAAAABFRN6YFGVHI2DSMVQWIX3LMV43OSLTON2WKQ3PNVWWK3TUHMZDAMZRHE3TQMJRG4>\r\n> .\r\n> You are receiving this because you authored the thread.Message ID:\r\n> ***@***.***>\r\n>\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#519",
+      "time": "2024-04-01T10:58:59+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/519",
+      "text": "Changes made to the book details application."
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/538",
+      "title": "My first PR",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

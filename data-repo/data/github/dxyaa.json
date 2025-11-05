@@ -1,0 +1,175 @@
+{
+  "last_updated": "2023-10-28T18:46:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#386",
+      "time": "2023-10-28T18:46:25Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/386",
+      "text": "Create diyasundeep@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#386",
+      "time": "2023-10-28T21:34:13Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/386",
+      "text": "Create diyasundeep@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#886",
+      "time": "2023-10-21T10:09:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/886",
+      "text": "added icon to link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#886",
+      "time": "2023-10-21T16:16:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/886",
+      "text": "added icon to link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#925",
+      "time": "2023-10-29T17:27:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/925",
+      "text": "feat(LearningCircle):onClick implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#925",
+      "time": "2023-10-30T12:36:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/925",
+      "text": "feat(LearningCircle):onClick implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#933",
+      "time": "2023-10-31T14:21:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/933",
+      "text": "feat(AccountCreation): background colour fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#933",
+      "time": "2023-10-31T14:59:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/933",
+      "text": "feat(AccountCreation): background colour fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#943",
+      "time": "2023-11-02T14:43:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/943",
+      "text": "feat(LearningCircle): fixed error while creation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#943",
+      "time": "2023-11-03T15:58:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/943",
+      "text": "feat(LearningCircle): fixed error while creation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#952",
+      "time": "2023-11-04T17:24:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/952",
+      "text": "feat(hacktoberfest): fetch data error removed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#952",
+      "time": "2023-11-06T13:50:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/952",
+      "text": "feat(hacktoberfest): fetch data error removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#974",
+      "time": "2023-11-22T16:14:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/974",
+      "text": "feat(apiGateways): 500 error handled"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#974",
+      "time": "2023-11-23T14:21:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/974",
+      "text": "feat(apiGateways): 500 error handled"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#997",
+      "time": "2023-11-29T16:02:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/997",
+      "text": "feat(LanguageSwicther):fontsizes implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#997",
+      "time": "2023-11-30T12:20:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/997",
+      "text": "feat(LanguageSwicther):fontsizes implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1021",
+      "time": "2023-12-03T18:43:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1021",
+      "text": "feat(LanguageSwitcher): SideBar & 3 pages updated."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1021",
+      "time": "2023-12-03T18:53:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1021",
+      "text": "feat(LanguageSwitcher): SideBar & 3 pages updated."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1038",
+      "time": "2023-12-10T15:34:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1038",
+      "text": "feat(Lang Trans): mal.json updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1038",
+      "time": "2023-12-11T13:47:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1038",
+      "text": "feat(Lang Trans): mal.json updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1044",
+      "time": "2023-12-13T15:55:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1044",
+      "text": "feat(profileV2):Lang Translation done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1044",
+      "time": "2023-12-13T17:30:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1044",
+      "text": "feat(profileV2):Lang Translation done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1050",
+      "time": "2023-12-18T16:52:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1050",
+      "text": "feat(LangTrans): profile V2 updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1050",
+      "time": "2023-12-18T17:03:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1050",
+      "text": "feat(LangTrans): profile V2 updated"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

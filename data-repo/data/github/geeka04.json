@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-03-21T10:26:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#501",
+      "time": "2024-03-21T10:26:43Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/501",
+      "text": "First PR book shop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#502",
+      "time": "2024-03-21T15:02:56Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/502",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#502",
+      "time": "2024-03-21T15:29:30Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/502",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

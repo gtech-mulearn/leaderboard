@@ -1,0 +1,182 @@
+{
+  "last_updated": "2024-06-06T05:59:28+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearnbackend#2006",
+      "time": "2024-06-06T05:59:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2006#issuecomment-2151470456",
+      "text": "@aswanthabam  do write description along with screenshots and video of the working setup."
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:26:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server",
+      "collaborated_with": [
+        "SHABIN-K",
+        "viraka",
+        "Jenin82",
+        "irfanpa005"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:26:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Kochouseph26John",
+        "gtechmulearn",
+        "Jenin82",
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1426",
+      "time": "2024-05-12T03:44:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1426",
+      "text": "dev merge",
+      "collaborated_with": [
+        "Jenin82",
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1945",
+      "time": "2024-05-11T19:14:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1945",
+      "text": "updated requirements",
+      "collaborated_with": [
+        "gtechmulearn"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1944",
+      "time": "2024-05-11T19:14:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1944",
+      "text": "updated requiments.txt file",
+      "turnaround_time": 23
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1944",
+      "time": "2024-05-11T19:13:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1944",
+      "text": "updated requiments.txt file"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1943",
+      "time": "2024-05-11T18:07:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1943",
+      "text": "Added razorpay sdk",
+      "collaborated_with": [
+        "gtechmulearn"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1942",
+      "time": "2024-05-11T18:06:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1942",
+      "text": "added razor pay sdk",
+      "turnaround_time": 34
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1942",
+      "time": "2024-05-11T18:06:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1942",
+      "text": "added razor pay sdk"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1941",
+      "time": "2024-05-11T17:55:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1941",
+      "text": "debugging campusstudentineachlevel  class",
+      "collaborated_with": [
+        "gtechmulearn"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1940",
+      "time": "2024-05-11T17:52:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1940",
+      "text": "checks for error in campusstudenineach level",
+      "turnaround_time": 61
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1940",
+      "time": "2024-05-11T17:51:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1940",
+      "text": "checks for error in campusstudenineach level"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#165",
+      "time": "2023-10-08T04:24:47Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/165",
+      "text": "Create mishal@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#165",
+      "time": "2023-10-08T04:53:14Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/165",
+      "text": "Create mishal@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#929",
+      "time": "2023-10-30T07:30:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/929",
+      "text": "New Mulearn Logo with Gtech Initiative text"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#929",
+      "time": "2023-10-30T12:33:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/929",
+      "text": "New Mulearn Logo with Gtech Initiative text"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1500",
+      "time": "2023-11-02T04:30:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1500",
+      "text": "Creating User Share Profile Qrcode API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1500",
+      "time": "2023-11-10T16:50:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1500",
+      "text": "Creating User Share Profile Qrcode API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1603",
+      "time": "2023-11-24T10:14:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1603",
+      "text": "Removed hardcoded image path to Environment Variables"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1603",
+      "time": "2023-11-24T17:08:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1603",
+      "text": "Removed hardcoded image path to Environment Variables"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

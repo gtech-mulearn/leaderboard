@@ -1,0 +1,50 @@
+{
+  "last_updated": "2024-06-06T13:00:10+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#459",
+      "time": "2024-06-06T13:00:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459",
+      "text": "Create krishnapm@mulearn.md",
+      "turnaround_time": 13830
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#459",
+      "time": "2024-06-06T09:38:00+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459#issuecomment-2151844894",
+      "text": "Hi @maintainer https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459\r\n\r\nAll requested changes have been made and all checks have passed. The PR has also been approved by the reviewers. Could you please merge this PR when you have a moment?\r\n\r\nThank you!"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#459",
+      "time": "2024-06-06T09:35:18+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459#issuecomment-2151839932",
+      "text": "Hi @maintainer https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459\r\n\r\nJust a gentle reminder that this PR is still awaiting workflow approval in https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459. Could you please take a look when you have a moment?\r\n\r\nThank you!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#459",
+      "time": "2024-06-06T09:09:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/459",
+      "text": "Create krishnapm@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#456",
+      "time": "2024-06-06T08:34:29+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/456",
+      "text": "create krishnapm@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#449",
+      "time": "2024-06-05T06:51:12+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/449",
+      "text": "krishnapm@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

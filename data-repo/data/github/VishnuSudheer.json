@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-07-02T05:37:59+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1135",
+      "time": "2024-07-02T05:37:59+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1135",
+      "text": "Create vishnusudheer@mulearn.md",
+      "turnaround_time": 40409
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1135",
+      "time": "2024-07-01T18:24:31+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1135",
+      "text": "Create vishnusudheer@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Softnotions-internship#4",
+      "time": "2024-03-04T10:58:21Z",
+      "link": "https://github.com/gtech-mulearn/Softnotions-internship/pull/4",
+      "text": "Basic CRUD Web Application"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Softnotions-internship/pull/4",
+      "title": "Basic CRUD Web Application",
+      "stale_for": 120,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

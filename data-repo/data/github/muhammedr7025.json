@@ -1,0 +1,77 @@
+{
+  "last_updated": "2023-05-10T13:02:26Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#97",
+      "time": "2023-05-10T13:02:26Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/97",
+      "text": "flutter,android and iot ig updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#97",
+      "time": "2023-05-10T13:05:02Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/97",
+      "text": "flutter,android and iot ig updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#110",
+      "time": "2023-06-04T20:55:23Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/110",
+      "text": "iot coruse changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#110",
+      "time": "2023-06-04T21:13:38Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/110",
+      "text": "iot coruse changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#111",
+      "time": "2023-06-04T21:24:09Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/111",
+      "text": "iot courses changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#111",
+      "time": "2023-06-06T08:12:03Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/111",
+      "text": "iot courses changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1549",
+      "time": "2023-11-09T12:10:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1549",
+      "text": "task type crud"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1558",
+      "time": "2023-11-14T06:20:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1558",
+      "text": "Task type crud api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1562",
+      "time": "2023-11-15T17:33:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1562",
+      "text": "Task type crud"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1562",
+      "time": "2023-11-15T17:34:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1562",
+      "text": "Task type crud"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

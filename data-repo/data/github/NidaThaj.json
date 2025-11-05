@@ -1,0 +1,37 @@
+{
+  "last_updated": "2024-06-28T10:21:58+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#737",
+      "time": "2024-06-28T10:21:58+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/737",
+      "text": "Update fathimanidathajtp@mulearn.md",
+      "turnaround_time": 11330
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#737",
+      "time": "2024-06-28T07:13:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/737",
+      "text": "Update fathimanidathajtp@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#734",
+      "time": "2024-06-28T07:04:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/734",
+      "text": "Create fathimanidathajtp@mulearn.md",
+      "turnaround_time": 78
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#734",
+      "time": "2024-06-28T07:03:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/734",
+      "text": "Create fathimanidathajtp@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

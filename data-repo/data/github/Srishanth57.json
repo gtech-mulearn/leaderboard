@@ -1,0 +1,44 @@
+{
+  "last_updated": "2024-07-01T17:15:21+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1109",
+      "time": "2024-07-01T17:15:21+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1109",
+      "text": "Update srishanths@mulearn.md",
+      "turnaround_time": 88
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1109",
+      "time": "2024-07-01T17:13:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1109",
+      "text": "Update srishanths@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1106",
+      "time": "2024-07-01T17:09:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1106",
+      "text": "Added my profile ",
+      "turnaround_time": 60
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1106",
+      "time": "2024-07-01T17:08:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1106",
+      "text": "Added my profile "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#17",
+      "time": "2024-02-19T17:25:28Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/17",
+      "text": "Feature1"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

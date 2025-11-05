@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-06-06T07:46:27+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#448",
+      "time": "2024-06-06T07:46:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/448",
+      "text": "Create ashimariyamthomas@mulearn.md",
+      "turnaround_time": 9839
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-05T05:49:54+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#448",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/448#pullrequestreview-2098087107",
+      "text": "Create ashimariyamthomas@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#448",
+      "time": "2024-06-05T05:35:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/448#issuecomment-2148895093",
+      "text": "Hi @maintainer #448\r\n\r\nJust a gentle reminder that this PR is still awaiting workflow approval in #448. Could you please take a look when you have a moment?\r\n\r\nThank you!\r\n"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#448",
+      "time": "2024-06-05T05:02:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/448",
+      "text": "Create ashimariyamthomas@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

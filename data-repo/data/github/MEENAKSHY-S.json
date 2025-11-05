@@ -1,0 +1,61 @@
+{
+  "last_updated": "2024-06-03T09:09:46+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#429",
+      "time": "2024-06-03T09:09:46+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/429",
+      "text": "Create meenakshys-2@mulearn.md",
+      "turnaround_time": 11959
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#429",
+      "time": "2024-06-02T05:50:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/429",
+      "text": "Create meenakshys-2@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#610",
+      "time": "2024-06-01T16:58:37+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/610",
+      "text": "meenakshys",
+      "turnaround_time": 40430
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/Github-Enablment-Task#610",
+      "time": "2024-06-01T16:58:37+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/610",
+      "text": "meenakshys",
+      "collaborated_with": [
+        "vishakh-abhayan"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#610",
+      "time": "2024-06-01T05:44:47+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/610",
+      "text": "meenakshys"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Github-Enablment-Task#608",
+      "time": "2024-05-29T17:44:39+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/608#issuecomment-2137949113",
+      "text": "Github Enablment Task done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#608",
+      "time": "2024-05-29T17:34:07+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/608",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

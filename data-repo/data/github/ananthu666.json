@@ -1,0 +1,63 @@
+{
+  "last_updated": "2023-12-13T11:41:14Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1814",
+      "time": "2023-12-13T11:41:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1814",
+      "text": "LC levels and details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1814",
+      "time": "2023-12-13T17:14:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1814",
+      "text": "LC levels and details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1843",
+      "time": "2023-12-21T15:12:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1843",
+      "text": "listing the lcs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1843",
+      "time": "2023-12-21T17:12:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1843",
+      "text": "listing the lcs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1872",
+      "time": "2023-12-28T03:31:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1872",
+      "text": "public lc list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1872",
+      "time": "2023-12-28T03:40:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1872",
+      "text": "public lc list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1880",
+      "time": "2023-12-28T16:05:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1880",
+      "text": "lc public params edits"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1880",
+      "time": "2023-12-29T06:14:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1880",
+      "text": "lc public params edits"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

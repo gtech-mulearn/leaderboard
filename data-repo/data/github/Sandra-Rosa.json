@@ -1,0 +1,56 @@
+{
+  "last_updated": "2022-11-01T07:27:51Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#61",
+      "time": "2022-11-01T07:27:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/61",
+      "text": "Converted two images to webp"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#63",
+      "time": "2022-11-02T14:33:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/63",
+      "text": "Development"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#8",
+      "time": "2022-10-15T16:49:52Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/8",
+      "text": "Added some changes in styling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#10",
+      "time": "2022-10-16T17:12:34Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/10",
+      "text": "Steps are added in challenges page of interest group"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#10",
+      "time": "2022-10-22T10:13:00Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/10",
+      "text": "Steps are added in challenges page of interest group"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/tech-myrmidons#2",
+      "time": "2022-10-23T07:28:33Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/2",
+      "text": "Added Navbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/tech-myrmidons#2",
+      "time": "2022-10-23T07:38:06Z",
+      "link": "https://github.com/gtech-mulearn/tech-myrmidons/pull/2",
+      "text": "Added Navbar"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

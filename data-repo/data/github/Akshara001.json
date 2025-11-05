@@ -1,0 +1,58 @@
+{
+  "last_updated": "2024-04-22T02:54:12+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#165",
+      "time": "2024-04-22T02:54:12+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/165",
+      "text": "Create aksharathrivi.c@mulearn.md",
+      "turnaround_time": 62183
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#165",
+      "time": "2024-04-21T09:37:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/165",
+      "text": "Create aksharathrivi.c@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#148",
+      "time": "2024-04-20T13:10:39+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/148",
+      "text": "Create aksharathrivi.c-mulearn",
+      "turnaround_time": 5292
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#148",
+      "time": "2024-04-20T11:47:39+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/148#issuecomment-2067649377",
+      "text": "Task 1: Craft Your Digital Identity & Introduce Yourself!"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#148",
+      "time": "2024-04-20T11:42:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/148",
+      "text": "Create aksharathrivi.c-mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#458",
+      "time": "2023-12-19T08:29:57Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/458",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#458",
+      "time": "2023-12-19T14:18:16Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/458",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

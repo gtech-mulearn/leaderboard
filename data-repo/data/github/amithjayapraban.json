@@ -1,0 +1,91 @@
+{
+  "last_updated": "2023-06-23T17:44:25Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#348",
+      "time": "2023-06-23T17:44:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/348",
+      "text": "Corrected letter casing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#348",
+      "time": "2023-06-23T19:22:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/348",
+      "text": "Corrected letter casing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#374",
+      "time": "2023-06-29T15:30:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/374",
+      "text": "feat: Added ruri"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#374",
+      "time": "2023-06-30T04:11:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/374",
+      "text": "feat: Added ruri"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#400",
+      "time": "2023-07-04T12:09:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/400",
+      "text": "docs(readme): Updated README file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#400",
+      "time": "2023-07-06T01:56:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/400",
+      "text": "docs(readme): Updated README file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#441",
+      "time": "2023-07-16T05:04:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/441",
+      "text": "fix(modal)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#441",
+      "time": "2023-07-17T10:30:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/441",
+      "text": "fix(modal)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#471",
+      "time": "2023-07-19T20:06:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/471",
+      "text": "fix(scroll-bar) "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#471",
+      "time": "2023-07-21T07:31:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/471",
+      "text": "fix(scroll-bar) "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#486",
+      "time": "2023-07-21T13:34:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/486",
+      "text": "feat(scrollbar):Added horizontal scroll bar for table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#486",
+      "time": "2023-07-21T13:38:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/486",
+      "text": "feat(scrollbar):Added horizontal scroll bar for table"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-04-25T05:52:25+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#220",
+      "time": "2024-04-25T05:52:25+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/220",
+      "text": "Create ananthulal@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#46",
+      "time": "2023-09-15T14:07:30Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/46",
+      "text": "Manju Fancy"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#46",
+      "time": "2023-09-27T15:30:17Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/46",
+      "text": "Manju Fancy"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

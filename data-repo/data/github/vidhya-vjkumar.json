@@ -1,0 +1,1379 @@
+{
+  "last_updated": "2024-05-21T08:30:36+00:00",
+  "activity": [
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1526",
+      "time": "2024-05-21T08:30:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1526",
+      "text": "mu-dev- Task Management - Tasks - Task deletion doesn't reduce the karma points availed for it"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1536",
+      "time": "2024-05-20T14:11:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1536",
+      "text": "mu-dev- Task Management - Events - 400 - Description blank issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1535",
+      "time": "2024-05-20T13:53:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1535",
+      "text": "mu-dev- Task Management - Tasks - Negative usage count"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1534",
+      "time": "2024-05-20T13:45:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1534",
+      "text": "mu-dev- Task Management - csv file download issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1533",
+      "time": "2024-05-20T13:42:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1533",
+      "text": "mu-dev- Task Management - Tasks - Sorting issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1528",
+      "time": "2024-05-20T07:29:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1528",
+      "text": "mu-dev- Task Management - Task type sort and edit issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1527",
+      "time": "2024-05-20T07:15:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1527",
+      "text": "mu-dev- Task Management - Events - Sorting issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1526",
+      "time": "2024-05-20T07:11:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1526",
+      "text": "mu-dev- Task Management - Tasks - Task deletion doesn't reduce the karma points availed for it"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1525",
+      "time": "2024-05-20T06:49:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1525",
+      "text": "mu-dev - Task Management - Tasks- Task editing issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1523",
+      "time": "2024-05-20T06:07:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1523",
+      "text": "mu-dev -Task Management - Tasks - Tasks table isn't updated immediately"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1490",
+      "time": "2024-05-18T08:34:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1490#issuecomment-2118699037",
+      "text": "Level didn't go down from level 3 to level 2 due to the existing issue #1489 . "
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1490",
+      "time": "2024-05-18T08:34:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1490",
+      "text": "mu-dev-level doesn't decrease"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1498",
+      "time": "2024-05-18T07:37:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1498",
+      "text": "mu-dev-college name overlapped"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1495",
+      "time": "2024-05-18T07:06:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1495",
+      "text": "mu-dev-update profile name issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1491",
+      "time": "2024-05-18T06:46:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1491",
+      "text": "mu-dev- profile sharing - message isn't showing"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1490",
+      "time": "2024-05-18T06:25:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1490",
+      "text": "mu-dev-level doesn't decrease"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1489",
+      "time": "2024-05-18T06:21:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1489",
+      "text": "mu-dev-karma history shows deleted tasks"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1488",
+      "time": "2024-05-18T06:08:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1488",
+      "text": "mu-dev-discord flag issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1486",
+      "time": "2024-05-18T05:46:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1486",
+      "text": "mu-dev-karma assigned without discord"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1485",
+      "time": "2024-05-18T05:38:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1485",
+      "text": "mu-dev-phone number issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1483",
+      "time": "2024-05-17T20:25:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1483",
+      "text": "mu-dev-500-login page"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1482",
+      "time": "2024-05-17T19:59:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1482",
+      "text": "mu-dev-update profile issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1481",
+      "time": "2024-05-17T19:32:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1481",
+      "text": "mu-dev-400-Gender choice invalid"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1476",
+      "time": "2024-05-16T07:05:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1476",
+      "text": "Challenges Page - IoT 101"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1475",
+      "time": "2024-05-16T06:58:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1475",
+      "text": "Challenges page - Bring Every Business Online - Hand cursor"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1474",
+      "time": "2024-05-16T06:53:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1474",
+      "text": "Challenges Page - Spelling and spacing issues"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1472",
+      "time": "2024-05-16T06:05:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1472",
+      "text": "Challenges Page - Typing challenge - Alignment issue"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1471",
+      "time": "2024-05-16T05:53:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1471",
+      "text": "Challenges Page - No example messages"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1470",
+      "time": "2024-05-16T05:33:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1470",
+      "text": "Challenges Page - Error in Districts and Interests API calls"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearn#1468",
+      "time": "2024-05-16T05:26:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1468",
+      "text": "Challenges Page - Introduction to Markdown"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1423",
+      "time": "2024-05-13T19:04:22+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1423#issuecomment-2108598122",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1422",
+      "time": "2024-05-13T19:04:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1422#issuecomment-2108597545",
+      "text": "Duplicate issue. Issue no.: #1340"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1421",
+      "time": "2024-05-13T19:03:48+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1421#issuecomment-2108597047",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1420",
+      "time": "2024-05-13T19:03:38+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1420#issuecomment-2108596713",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1418",
+      "time": "2024-05-13T19:03:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1418#issuecomment-2108596050",
+      "text": "Duplicate issue. Issue no.: #1340"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1415",
+      "time": "2024-05-13T19:02:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1415#issuecomment-2108595069",
+      "text": "Duplicate issue. Issue no.: #1146"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1413",
+      "time": "2024-05-13T19:02:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1413#issuecomment-2108594534",
+      "text": "Duplicate issue. Issue no.: #1129"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1412",
+      "time": "2024-05-13T19:02:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1412#issuecomment-2108594099",
+      "text": "Duplicate issue. Issue no.: #1398"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1410",
+      "time": "2024-05-13T19:01:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1410#issuecomment-2108593211",
+      "text": "Duplicate issue. Issue no.: #1368"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1409",
+      "time": "2024-05-13T19:01:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1409#issuecomment-2108592640",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1406",
+      "time": "2024-05-13T19:01:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1406#issuecomment-2108591967",
+      "text": "Duplicate issue. Issue no.: #1129"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1407",
+      "time": "2024-05-13T19:00:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1407#issuecomment-2108591573",
+      "text": "Duplicate issue. Issue no.: #1130"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1405",
+      "time": "2024-05-13T19:00:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1405#issuecomment-2108591192",
+      "text": "Duplicate issue. Issue no.: #1128"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1404",
+      "time": "2024-05-13T18:59:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1404#issuecomment-2108588933",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1403",
+      "time": "2024-05-13T18:59:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1403#issuecomment-2108588524",
+      "text": "Duplicate issue. Issue no.: #1151"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1402",
+      "time": "2024-05-13T18:58:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1402#issuecomment-2108586988",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1401",
+      "time": "2024-05-13T18:58:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1401#issuecomment-2108586078",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1400",
+      "time": "2024-05-13T18:58:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1400#issuecomment-2108585639",
+      "text": "Duplicate issue. Issue no.: #1226"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1399",
+      "time": "2024-05-13T18:57:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1399#issuecomment-2108583331",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1397",
+      "time": "2024-05-13T18:56:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1397#issuecomment-2108582373",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1396",
+      "time": "2024-05-13T18:56:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1396#issuecomment-2108582018",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1395",
+      "time": "2024-05-13T18:56:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1395#issuecomment-2108581599",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1394",
+      "time": "2024-05-13T18:55:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1394#issuecomment-2108581093",
+      "text": "Duplicate issue. Issue no.: #1146"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1393",
+      "time": "2024-05-13T18:55:22+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1393#issuecomment-2108579897",
+      "text": "Duplicate issue. Issue no.: #1130"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1392",
+      "time": "2024-05-13T18:55:09+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1392#issuecomment-2108579554",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1391",
+      "time": "2024-05-13T18:54:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1391#issuecomment-2108578320",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1390",
+      "time": "2024-05-13T18:54:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1390#issuecomment-2108577977",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1389",
+      "time": "2024-05-13T18:54:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1389#issuecomment-2108577618",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1388",
+      "time": "2024-05-13T18:53:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1388#issuecomment-2108576991",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1387",
+      "time": "2024-05-13T18:53:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1387#issuecomment-2108576659",
+      "text": "Duplicate issue. Issue no.: #1129"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1386",
+      "time": "2024-05-13T18:53:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1386#issuecomment-2108576318",
+      "text": "Duplicate issue. Issue no.: #1128"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1385",
+      "time": "2024-05-13T18:53:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1385#issuecomment-2108575966",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1384",
+      "time": "2024-05-13T18:53:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1384#issuecomment-2108575506",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1383",
+      "time": "2024-05-13T18:52:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1383#issuecomment-2108575046",
+      "text": "Duplicate issue. Issue no.: #1175"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1382",
+      "time": "2024-05-13T18:52:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1382#issuecomment-2108574471",
+      "text": "Duplicate issue. Issue no.: #1269"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1381",
+      "time": "2024-05-13T18:52:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1381#issuecomment-2108573892",
+      "text": "Duplicate issue. Issue no.: #1278"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1380",
+      "time": "2024-05-13T18:51:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1380#issuecomment-2108573310",
+      "text": "Duplicate issue. Issue no.: #1279"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1379",
+      "time": "2024-05-13T18:51:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1379#issuecomment-2108572749",
+      "text": "Duplicate issue. Issue no.: #1281"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1378",
+      "time": "2024-05-13T18:51:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1378#issuecomment-2108572285",
+      "text": "Duplicate issue. Issue no.: #1152"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1377",
+      "time": "2024-05-13T18:51:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1377#issuecomment-2108571810",
+      "text": "Duplicate issue. Issue no.: #1283"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1376",
+      "time": "2024-05-13T18:50:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1376#issuecomment-2108571207",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1375",
+      "time": "2024-05-13T18:50:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1375#issuecomment-2108570413",
+      "text": "Duplicate issue. Issue no.: #1178"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1374",
+      "time": "2024-05-13T18:49:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1374#issuecomment-2108569949",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1373",
+      "time": "2024-05-13T18:49:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1373#issuecomment-2108569600",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1371",
+      "time": "2024-05-13T18:49:21+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1371#issuecomment-2108569004",
+      "text": "Duplicate issue. Issue no.: #1178"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1370",
+      "time": "2024-05-13T18:49:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1370#issuecomment-2108568622",
+      "text": "Duplicate issue. Issue no.: #1119"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1369",
+      "time": "2024-05-13T18:48:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1369#issuecomment-2108568329",
+      "text": "Duplicate issue. Issue no.: #1416"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1367",
+      "time": "2024-05-13T18:48:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1367#issuecomment-2108567675",
+      "text": "Duplicate issue. Issue no.: #1416"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1366",
+      "time": "2024-05-13T18:48:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1366#issuecomment-2108567289",
+      "text": "Duplicate issue. Issue no.: #1293"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1365",
+      "time": "2024-05-13T18:48:00+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1365#issuecomment-2108566795",
+      "text": "Duplicate issue. Issue no.: #1113"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1364",
+      "time": "2024-05-13T18:47:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1364#issuecomment-2108566542",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1363",
+      "time": "2024-05-13T18:47:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1363#issuecomment-2108566109",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1362",
+      "time": "2024-05-13T18:47:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1362#issuecomment-2108565699",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1361",
+      "time": "2024-05-13T18:46:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1361#issuecomment-2108565151",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1360",
+      "time": "2024-05-13T18:46:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1360#issuecomment-2108564846",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1359",
+      "time": "2024-05-13T18:46:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1359#issuecomment-2108564180",
+      "text": "Duplicate issue. Issue no.: #1152"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1358",
+      "time": "2024-05-13T18:45:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1358#issuecomment-2108563133",
+      "text": "Duplicate issue. Issue no.: #1368"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1356",
+      "time": "2024-05-13T18:45:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1356#issuecomment-2108561760",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1355",
+      "time": "2024-05-13T18:44:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1355#issuecomment-2108561226",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1354",
+      "time": "2024-05-13T18:44:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1354#issuecomment-2108560775",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1353",
+      "time": "2024-05-13T18:44:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1353#issuecomment-2108560312",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1352",
+      "time": "2024-05-13T18:43:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1352#issuecomment-2108559533",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1351",
+      "time": "2024-05-13T18:43:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1351#issuecomment-2108558935",
+      "text": "Duplicate issue. Issue no.: #1128"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1350",
+      "time": "2024-05-13T18:43:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1350#issuecomment-2108558528",
+      "text": "Duplicate issue. Issue no.: #1130"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1349",
+      "time": "2024-05-13T18:43:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1349#issuecomment-2108558159",
+      "text": "Duplicate issue. Issue no.: #1129"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1348",
+      "time": "2024-05-13T18:42:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1348#issuecomment-2108557285",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1347",
+      "time": "2024-05-13T18:42:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1347#issuecomment-2108556689",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1346",
+      "time": "2024-05-13T18:42:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1346#issuecomment-2108556221",
+      "text": "Duplicate issue. Issue no.: #1152"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1344",
+      "time": "2024-05-13T18:41:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1344#issuecomment-2108555493",
+      "text": "Duplicate issue. Issue no.: #1119"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1343",
+      "time": "2024-05-13T18:41:22+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1343#issuecomment-2108555141",
+      "text": "Duplicate issue. Issue no.: #1113"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1342",
+      "time": "2024-05-13T18:41:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1342#issuecomment-2108554679",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1341",
+      "time": "2024-05-13T18:40:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1341#issuecomment-2108554060",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1339",
+      "time": "2024-05-13T18:40:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1339#issuecomment-2108553312",
+      "text": "Duplicate issue. Issue no.: #1146"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1338",
+      "time": "2024-05-13T18:39:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1338#issuecomment-2108552243",
+      "text": "Duplicate issue. Issue no.: #1130"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1337",
+      "time": "2024-05-13T18:39:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1337#issuecomment-2108551835",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1336",
+      "time": "2024-05-13T18:39:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1336#issuecomment-2108550906",
+      "text": "Duplicate issue. Issue no.: #1129"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1335",
+      "time": "2024-05-13T18:38:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1335#issuecomment-2108550433",
+      "text": "Duplicate issue. Issue no.: #1128"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1334",
+      "time": "2024-05-13T18:38:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1334#issuecomment-2108550100",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1333",
+      "time": "2024-05-13T18:38:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1333#issuecomment-2108549755",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1332",
+      "time": "2024-05-13T18:38:15+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1332#issuecomment-2108549347",
+      "text": "Duplicate issue. Issue no.: #1175"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1331",
+      "time": "2024-05-13T18:37:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1331#issuecomment-2108548676",
+      "text": "Duplicate issue. Issue no.: #1269"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1330",
+      "time": "2024-05-13T18:37:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1330#issuecomment-2108548148",
+      "text": "Duplicate issue. Issue no.: #1270"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1329",
+      "time": "2024-05-13T18:37:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1329#issuecomment-2108547543",
+      "text": "Duplicate issue. Issue no.: #1277"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1328",
+      "time": "2024-05-13T18:36:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1328#issuecomment-2108547050",
+      "text": "Duplicate issue. Issue no.: #1278"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1327",
+      "time": "2024-05-13T18:36:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1327#issuecomment-2108546388",
+      "text": "Duplicate issue. Issue no.: #1279"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1326",
+      "time": "2024-05-13T18:35:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1326#issuecomment-2108544674",
+      "text": "Duplicate issue. Issue no.: #1281"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1325",
+      "time": "2024-05-13T18:35:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1325#issuecomment-2108543828",
+      "text": "Duplicate issue. Issue no.: #1130"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1324",
+      "time": "2024-05-13T18:34:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1324#issuecomment-2108543421",
+      "text": "Duplicate issue. Issue no.: #1129"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1323",
+      "time": "2024-05-13T18:34:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1323#issuecomment-2108542992",
+      "text": "Duplicate issue. Issue no.: #1128"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1322",
+      "time": "2024-05-13T18:34:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1322#issuecomment-2108542378",
+      "text": "Duplicate issue. Issue no.: #1283"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1321",
+      "time": "2024-05-13T18:33:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1321#issuecomment-2108541686",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1320",
+      "time": "2024-05-13T18:33:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1320#issuecomment-2108541173",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1319",
+      "time": "2024-05-13T18:33:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1319#issuecomment-2108540367",
+      "text": "Duplicate issue. Issue no.: #1178"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1318",
+      "time": "2024-05-13T18:32:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1318#issuecomment-2108539686",
+      "text": "Duplicate issue. Issue no.: #1119"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1317",
+      "time": "2024-05-13T18:32:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1317#issuecomment-2108539206",
+      "text": "Duplicate issue. Issue no.: #1416"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1316",
+      "time": "2024-05-13T18:32:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1316#issuecomment-2108538675",
+      "text": "Duplicate issue. Issue no.: #1416"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1315",
+      "time": "2024-05-13T18:32:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1315#issuecomment-2108538255",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1314",
+      "time": "2024-05-13T18:31:50+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1314#issuecomment-2108537839",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1313",
+      "time": "2024-05-13T18:31:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1313#issuecomment-2108537502",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1312",
+      "time": "2024-05-13T18:31:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1312#issuecomment-2108536859",
+      "text": "Duplicate issue. Issue no.: #1398"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1311",
+      "time": "2024-05-13T18:30:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1311#issuecomment-2108536356",
+      "text": "Duplicate issue. Issue no.: #1398"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1310",
+      "time": "2024-05-13T18:30:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1310#issuecomment-2108535816",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1309",
+      "time": "2024-05-13T18:30:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1309#issuecomment-2108535023",
+      "text": "Duplicate issue. Issue no.: #1146"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1308",
+      "time": "2024-05-13T18:29:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1308#issuecomment-2108534415",
+      "text": "Duplicate issue. Issue no.: #1130"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1307",
+      "time": "2024-05-13T18:29:36+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1307#issuecomment-2108534031",
+      "text": "Duplicate issue. Issue no.: #1129"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1306",
+      "time": "2024-05-13T18:29:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1306#issuecomment-2108533650",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1305",
+      "time": "2024-05-13T18:29:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1305#issuecomment-2108533266",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1304",
+      "time": "2024-05-13T18:29:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1304#issuecomment-2108532943",
+      "text": "Duplicate issue. Issue no.: #1128"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1303",
+      "time": "2024-05-13T18:28:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1303#issuecomment-2108532387",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1302",
+      "time": "2024-05-13T18:28:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1302#issuecomment-2108532098",
+      "text": "Duplicate issue. Issue no.: #1368"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1301",
+      "time": "2024-05-13T18:28:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1301#issuecomment-2108531251",
+      "text": "Duplicate issue. Issue no.: #1293"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1300",
+      "time": "2024-05-13T18:27:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1300#issuecomment-2108530547",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1299",
+      "time": "2024-05-13T18:27:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1299#issuecomment-2108530142",
+      "text": "Duplicate issue. Issue no.: #1113"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1298",
+      "time": "2024-05-13T18:27:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1298#issuecomment-2108529797",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1297",
+      "time": "2024-05-13T18:26:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1297#issuecomment-2108529145",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1296",
+      "time": "2024-05-13T18:26:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1296#issuecomment-2108528387",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1295",
+      "time": "2024-05-13T18:26:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1295#issuecomment-2108527909",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1294",
+      "time": "2024-05-13T18:26:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1294#issuecomment-2108527623",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1292",
+      "time": "2024-05-13T18:25:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1292#issuecomment-2108526089",
+      "text": "Duplicate issue. Issue no.: #1152"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1291",
+      "time": "2024-05-13T18:24:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1291#issuecomment-2108525704",
+      "text": "Duplicate issue. Issue no.: #1368"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1289",
+      "time": "2024-05-13T18:23:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1289#issuecomment-2108523431",
+      "text": "Duplicate issue. Issue no.: #1119"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1287",
+      "time": "2024-05-13T18:23:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1287#issuecomment-2108522497",
+      "text": "Duplicate issue. Issue no.: #1178"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1286",
+      "time": "2024-05-13T18:22:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1286#issuecomment-2108521868",
+      "text": "Duplicate issue. Issue no.: #1419"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1285",
+      "time": "2024-05-13T18:22:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1285#issuecomment-2108521090",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1284",
+      "time": "2024-05-13T18:19:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1284#issuecomment-2108515471",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1282",
+      "time": "2024-05-13T18:19:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1282#issuecomment-2108515018",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1276",
+      "time": "2024-05-13T18:18:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1276#issuecomment-2108513400",
+      "text": "Duplicate issue. Issue no.: #1146"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1275",
+      "time": "2024-05-13T18:10:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1275#issuecomment-2108497121",
+      "text": "Duplicate issue. Issue no.: #1146"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1274",
+      "time": "2024-05-13T18:10:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1274#issuecomment-2108496480",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1273",
+      "time": "2024-05-13T18:10:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1273#issuecomment-2108495716",
+      "text": "Duplicate issue. Issue no.: #1152"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1272",
+      "time": "2024-05-13T18:10:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1272#issuecomment-2108494871",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1271",
+      "time": "2024-05-13T18:09:51+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1271#issuecomment-2108493894",
+      "text": "Duplicate issue. Issue no.: #1127"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1267",
+      "time": "2024-05-13T18:08:44+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1267#issuecomment-2108489992",
+      "text": "Duplicate issue. Issue no.: #1175"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1266",
+      "time": "2024-05-13T18:08:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1266#issuecomment-2108488327",
+      "text": "Duplicate issue. Issue no.: #1416"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1265",
+      "time": "2024-05-13T18:08:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1265#issuecomment-2108487564",
+      "text": "Duplicate issue. Issue no.: #1416"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1264",
+      "time": "2024-05-13T18:07:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1264#issuecomment-2108486401",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1263",
+      "time": "2024-05-13T18:07:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1263#issuecomment-2108484253",
+      "text": "Duplicate issue. Issue no.: #1414Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1262",
+      "time": "2024-05-13T18:06:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1262#issuecomment-2108483493",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1261",
+      "time": "2024-05-13T18:06:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1261#issuecomment-2108482252",
+      "text": "Duplicate issue. Issue no.: #1230"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1260",
+      "time": "2024-05-13T18:06:17+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1260#issuecomment-2108481293",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1259",
+      "time": "2024-05-13T18:06:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1259#issuecomment-2108480518",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1258",
+      "time": "2024-05-13T18:05:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1258#issuecomment-2108479675",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1257",
+      "time": "2024-05-13T18:05:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1257#issuecomment-2108478652",
+      "text": "Duplicate issue. Issue no.: #1226"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1256",
+      "time": "2024-05-13T18:05:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1256#issuecomment-2108477575",
+      "text": "Duplicate issue. Issue no.: #1226"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1255",
+      "time": "2024-05-13T18:04:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1255#issuecomment-2108476645",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1254",
+      "time": "2024-05-13T18:04:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1254#issuecomment-2108475579",
+      "text": "Duplicate issue. Issue no.: #1398"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1253",
+      "time": "2024-05-13T18:04:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1253#issuecomment-2108474853",
+      "text": "Duplicate issue. Issue no.: #1398"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1252",
+      "time": "2024-05-13T18:04:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1252#issuecomment-2108474184",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1251",
+      "time": "2024-05-13T18:03:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1251#issuecomment-2108473388",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1250",
+      "time": "2024-05-13T18:03:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1250#issuecomment-2108472502",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1249",
+      "time": "2024-05-13T18:03:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1249#issuecomment-2108471869",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1248",
+      "time": "2024-05-13T18:03:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1248#issuecomment-2108470968",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1247",
+      "time": "2024-05-13T18:03:03+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1247#issuecomment-2108470294",
+      "text": "Duplicate issue. Issue no.: #1408"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1246",
+      "time": "2024-05-13T18:02:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1246#issuecomment-2108468599",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1245",
+      "time": "2024-05-13T18:02:22+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1245#issuecomment-2108467751",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1244",
+      "time": "2024-05-13T18:02:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1244#issuecomment-2108467091",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1243",
+      "time": "2024-05-13T18:02:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1243#issuecomment-2108466510",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1242",
+      "time": "2024-05-13T18:01:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1242#issuecomment-2108465867",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1241",
+      "time": "2024-05-13T18:01:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1241#issuecomment-2108464164",
+      "text": "Duplicate issue. Issue no.: #1152"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1240",
+      "time": "2024-05-13T18:01:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1240#issuecomment-2108463520",
+      "text": "Duplicate issue. Issue no.: #1414"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1239",
+      "time": "2024-05-13T18:01:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1239#issuecomment-2108462838",
+      "text": "Duplicate issue. Issue no.: #1113"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1238",
+      "time": "2024-05-13T18:00:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1238#issuecomment-2108461874",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1237",
+      "time": "2024-05-13T18:00:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1237#issuecomment-2108461006",
+      "text": "Duplicate issue. Issue no.: #1148"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1236",
+      "time": "2024-05-13T18:00:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1236#issuecomment-2108459942",
+      "text": "Duplicate issue. Issue no.: #1113"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#20",
+      "time": "2023-10-01T11:20:00Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/20",
+      "text": "Create vidhyavijayakumar@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#20",
+      "time": "2023-10-01T14:29:31Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/20",
+      "text": "Create vidhyavijayakumar@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

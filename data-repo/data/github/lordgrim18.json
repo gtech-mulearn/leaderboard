@@ -1,0 +1,504 @@
+{
+  "last_updated": "2023-07-15T13:43:31Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#431",
+      "time": "2023-07-15T13:43:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/431",
+      "text": "added referral system"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#431",
+      "time": "2023-07-16T15:08:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/431",
+      "text": "added referral system"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#448",
+      "time": "2023-07-17T19:21:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/448",
+      "text": "added invite system"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#448",
+      "time": "2023-07-18T01:21:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/448",
+      "text": "added invite system"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#488",
+      "time": "2023-07-21T19:52:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/488",
+      "text": "Completed backend of searching and sorting of Management under Admins"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#488",
+      "time": "2023-07-22T06:13:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/488",
+      "text": "Completed backend of searching and sorting of Management under Admins"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#542",
+      "time": "2023-07-25T18:18:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/542",
+      "text": "Weekly Karma of a campus"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#542",
+      "time": "2023-07-26T11:38:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/542",
+      "text": "Weekly Karma of a campus"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#721",
+      "time": "2023-08-16T16:58:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/721",
+      "text": "First iteration of Karma Voucher"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#760",
+      "time": "2023-08-22T14:15:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/760",
+      "text": "karma_voucher"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#760",
+      "time": "2023-08-22T16:10:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/760",
+      "text": "karma_voucher"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#814",
+      "time": "2023-08-29T08:48:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/814",
+      "text": "changes to ImportVoucherLogAPI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#814",
+      "time": "2023-08-29T12:21:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/814",
+      "text": "changes to ImportVoucherLogAPI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#824",
+      "time": "2023-08-30T07:58:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/824",
+      "text": "[fix] : claimed in karma_coucher import"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#824",
+      "time": "2023-08-30T08:03:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/824",
+      "text": "[fix] : claimed in karma_coucher import"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#873",
+      "time": "2023-09-01T15:12:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/873",
+      "text": "Changes in Karma_voucher"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#873",
+      "time": "2023-09-01T15:16:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/873",
+      "text": "Changes in Karma_voucher"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#896",
+      "time": "2023-09-03T09:29:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/896",
+      "text": "Added Dynamic Role"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#896",
+      "time": "2023-09-03T09:46:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/896",
+      "text": "Added Dynamic Role"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#939",
+      "time": "2023-09-05T16:42:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/939",
+      "text": "Added ExportVoucherLogAPI and updated DynamicRoleAPI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#939",
+      "time": "2023-09-05T16:43:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/939",
+      "text": "Added ExportVoucherLogAPI and updated DynamicRoleAPI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#958",
+      "time": "2023-09-07T09:31:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/958",
+      "text": "fix(dynamic_role): delete and update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#958",
+      "time": "2023-09-07T09:34:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/958",
+      "text": "fix(dynamic_role): delete and update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#964",
+      "time": "2023-09-08T07:40:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/964",
+      "text": "feat(dynamic_management): "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#964",
+      "time": "2023-09-08T08:14:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/964",
+      "text": "feat(dynamic_management): "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#983",
+      "time": "2023-09-13T06:38:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/983",
+      "text": "feat(karma_voucher): updated csv import"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#983",
+      "time": "2023-09-13T09:03:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/983",
+      "text": "feat(karma_voucher): updated csv import"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#987",
+      "time": "2023-09-13T09:17:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/987",
+      "text": "feat(dynamic_management): updated Dynamic Role and Dynamic User"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#987",
+      "time": "2023-09-13T10:15:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/987",
+      "text": "feat(dynamic_management): updated Dynamic Role and Dynamic User"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#997",
+      "time": "2023-09-14T02:12:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/997",
+      "text": "fix(dynamic_management): fix in Dynamic User "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#997",
+      "time": "2023-09-14T06:36:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/997",
+      "text": "fix(dynamic_management): fix in Dynamic User "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1015",
+      "time": "2023-09-15T20:26:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1015",
+      "text": "fix(task): fixed ImportTaskListCSV API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1015",
+      "time": "2023-09-16T04:54:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1015",
+      "text": "fix(task): fixed ImportTaskListCSV API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1180",
+      "time": "2023-10-04T22:00:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1180",
+      "text": "fix(karma_voucher): using mu_id in place of email"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1180",
+      "time": "2023-10-04T23:28:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1180",
+      "text": "fix(karma_voucher): using mu_id in place of email"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1207",
+      "time": "2023-10-07T06:59:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1207",
+      "text": "fix(karma_voucher): mailing system"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1207",
+      "time": "2023-10-07T07:02:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1207",
+      "text": "fix(karma_voucher): mailing system"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1241",
+      "time": "2023-10-07T08:53:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1241",
+      "text": "fix(karma_voucher): failure and success rows"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1241",
+      "time": "2023-10-07T08:54:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1241",
+      "text": "fix(karma_voucher): failure and success rows"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1317",
+      "time": "2023-10-14T10:03:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1317",
+      "text": "fix(karma_voucher): data entry and mailing system"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1317",
+      "time": "2023-10-15T09:28:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1317",
+      "text": "fix(karma_voucher): data entry and mailing system"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1399",
+      "time": "2023-10-22T16:26:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1399",
+      "text": "feat(karma_voucher): add create, update and delete"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1399",
+      "time": "2023-10-22T16:35:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1399",
+      "text": "feat(karma_voucher): add create, update and delete"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1406",
+      "time": "2023-10-22T22:51:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1406",
+      "text": "fix(karma_voucher): validate user method"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1406",
+      "time": "2023-10-23T07:07:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1406",
+      "text": "fix(karma_voucher): validate user method"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1429",
+      "time": "2023-10-27T00:58:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1429",
+      "text": "feat(karma_voucher): add mailing system for single create, add event and description field"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1429",
+      "time": "2023-10-27T13:33:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1429",
+      "text": "feat(karma_voucher): add mailing system for single create, add event and description field"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1437",
+      "time": "2023-10-28T12:20:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1437",
+      "text": "fix(karma_voucher): set week, description, event fields nullable"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1437",
+      "time": "2023-10-28T12:28:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1437",
+      "text": "fix(karma_voucher): set week, description, event fields nullable"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1486",
+      "time": "2023-10-31T00:36:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1486",
+      "text": "fix(task): bulk import"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1486",
+      "time": "2023-10-31T09:05:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1486",
+      "text": "fix(task): bulk import"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1496",
+      "time": "2023-11-01T00:09:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1496",
+      "text": "fix(task): create and update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1496",
+      "time": "2023-11-02T06:36:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1496",
+      "text": "fix(task): create and update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1505",
+      "time": "2023-11-03T01:51:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1505",
+      "text": "feat: add karma_voucher, task - base template"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1505",
+      "time": "2023-11-03T03:03:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1505",
+      "text": "feat: add karma_voucher, task - base template"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1524",
+      "time": "2023-11-05T15:00:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1524",
+      "text": "refactor: task -  channel endpoint and  task, karma_voucher - base_template"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1524",
+      "time": "2023-11-05T15:05:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1524",
+      "text": "refactor: task -  channel endpoint and  task, karma_voucher - base_template"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1544",
+      "time": "2023-11-08T01:17:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1544",
+      "text": "fix(task): column name in csv generator api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1544",
+      "time": "2023-11-08T03:02:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1544",
+      "text": "fix(task): column name in csv generator api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1581",
+      "time": "2023-11-21T00:10:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1581",
+      "text": "optim(task): task bulk import report, default values "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1581",
+      "time": "2023-11-21T12:47:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1581",
+      "text": "optim(task): task bulk import report, default values "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1588",
+      "time": "2023-11-22T01:39:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1588",
+      "text": "feat(organization): add base template API and bulk import API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1588",
+      "time": "2023-11-23T18:54:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1588",
+      "text": "feat(organization): add base template API and bulk import API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1628",
+      "time": "2023-11-29T09:23:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1628",
+      "text": "feat(roles): add user role bulk assign API and base template API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1628",
+      "time": "2023-11-29T13:14:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1628",
+      "text": "feat(roles): add user role bulk assign API and base template API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1644",
+      "time": "2023-11-30T13:19:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1644",
+      "text": "fix(karma_voucher): change flow of bulk import api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1644",
+      "time": "2023-11-30T13:23:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1644",
+      "text": "fix(karma_voucher): change flow of bulk import api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1655",
+      "time": "2023-11-30T17:09:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1655",
+      "text": "patch(role): add webhooks to bulk role assign api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1655",
+      "time": "2023-11-30T17:10:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1655",
+      "text": "patch(role): add webhooks to bulk role assign api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1808",
+      "time": "2023-12-13T08:00:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1808",
+      "text": "fix: karma_voucher and user_role bulk upload "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1808",
+      "time": "2023-12-13T08:03:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1808",
+      "text": "fix: karma_voucher and user_role bulk upload "
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

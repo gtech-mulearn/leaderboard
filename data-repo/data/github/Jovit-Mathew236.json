@@ -1,0 +1,2975 @@
+{
+  "last_updated": "2024-04-13T06:47:23+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1090",
+      "time": "2024-04-13T06:47:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1090",
+      "text": "Dev server",
+      "collaborated_with": [
+        "viraka",
+        "SHABIN-K",
+        "notS0LD13R",
+        "AswinAsok",
+        "MZaFaRM"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#255",
+      "time": "2022-05-15T17:25:02Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/255",
+      "text": "Added new book list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#26",
+      "time": "2022-10-13T02:32:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/26",
+      "text": "Company Partners Page - Description and Title Congestion Fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#29",
+      "time": "2022-10-13T18:33:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/29",
+      "text": "Yip page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#29",
+      "time": "2022-10-13T18:36:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/29",
+      "text": "Yip page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#30",
+      "time": "2022-10-13T18:50:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/30",
+      "text": "Leaderboard fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#30",
+      "time": "2022-10-13T18:51:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/30",
+      "text": "Leaderboard fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#52",
+      "time": "2022-10-26T17:11:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/52",
+      "text": "nav bar sub head hover effect"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#53",
+      "time": "2022-10-26T17:13:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/53",
+      "text": "nav bar sub head hover effect"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#53",
+      "time": "2022-10-26T17:24:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/53",
+      "text": "nav bar sub head hover effect"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#54",
+      "time": "2022-10-29T05:04:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/54",
+      "text": "All images in assets converted to webp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#54",
+      "time": "2022-10-30T04:28:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/54",
+      "text": "All images in assets converted to webp"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#79",
+      "time": "2022-11-18T19:43:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/79",
+      "text": "blog page template created"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#79",
+      "time": "2022-11-19T17:42:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/79",
+      "text": "blog page template created"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#86",
+      "time": "2022-11-19T18:49:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/86",
+      "text": "develop: initiated-blog-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#87",
+      "time": "2022-11-19T18:54:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/87",
+      "text": "develop: initiated-gigwork"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#104",
+      "time": "2022-11-22T20:31:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/104",
+      "text": "develop: blog-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#105",
+      "time": "2022-11-22T20:32:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/105",
+      "text": "develop: gig-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#106",
+      "time": "2022-11-22T20:42:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/106",
+      "text": "develop: routing-issue-fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#106",
+      "time": "2022-11-22T20:42:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/106",
+      "text": "develop: routing-issue-fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#107",
+      "time": "2022-11-22T20:44:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/107",
+      "text": "develop: routing-issue-fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#107",
+      "time": "2022-11-22T20:45:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/107",
+      "text": "develop: routing-issue-fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#133",
+      "time": "2022-12-29T07:33:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/133",
+      "text": "develop : 404-not-found-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#134",
+      "time": "2022-12-29T08:01:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/134",
+      "text": "develop : 404-not-found-page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#134",
+      "time": "2022-12-29T16:31:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/134",
+      "text": "develop : 404-not-found-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#148",
+      "time": "2023-02-09T18:10:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/148",
+      "text": "develop:career-page-card-view-update-ui-ux"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#148",
+      "time": "2023-02-09T18:26:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/148",
+      "text": "develop:career-page-card-view-update-ui-ux"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#150",
+      "time": "2023-02-14T19:11:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/150",
+      "text": "develop:career-page-card-view-and-previos-hiring-cards-update-ui-ux"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#151",
+      "time": "2023-02-14T19:12:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/151",
+      "text": "develop:career-page-card-view-and-previos-hiring-cards-update-ui-ux"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#151",
+      "time": "2023-02-15T16:19:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/151",
+      "text": "develop:career-page-card-view-and-previos-hiring-cards-update-ui-ux"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#182",
+      "time": "2023-04-23T09:57:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/182",
+      "text": "added fromik validation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#182",
+      "time": "2023-04-24T06:56:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/182",
+      "text": "added fromik validation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#183",
+      "time": "2023-04-24T14:37:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/183",
+      "text": "organization error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#183",
+      "time": "2023-04-26T12:58:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/183",
+      "text": "organization error fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#186",
+      "time": "2023-04-27T13:25:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/186",
+      "text": "remove all logs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#186",
+      "time": "2023-04-28T03:36:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/186",
+      "text": "remove all logs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#187",
+      "time": "2023-04-27T13:44:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/187",
+      "text": "leaderboard new api added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#188",
+      "time": "2023-04-27T14:01:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/188",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#189",
+      "time": "2023-04-27T14:05:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/189",
+      "text": "New leaderboard api added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#189",
+      "time": "2023-05-01T13:29:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/189",
+      "text": "New leaderboard api added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#193",
+      "time": "2023-05-01T18:34:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/193",
+      "text": "onboarding flow change part 1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#193",
+      "time": "2023-05-02T09:41:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/193",
+      "text": "onboarding flow change part 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#194",
+      "time": "2023-05-03T14:41:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/194",
+      "text": "added password field "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#194",
+      "time": "2023-05-03T14:44:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/194",
+      "text": "added password field "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#195",
+      "time": "2023-05-04T14:33:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/195",
+      "text": "sidenavbar added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#195",
+      "time": "2023-05-04T16:28:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/195",
+      "text": "sidenavbar added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#196",
+      "time": "2023-05-04T18:43:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/196",
+      "text": "side-navbar build 100% design"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#196",
+      "time": "2023-05-05T04:35:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/196",
+      "text": "side-navbar build 100% design"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#199",
+      "time": "2023-05-06T07:30:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/199",
+      "text": "password validation removed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#199",
+      "time": "2023-05-06T07:31:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/199",
+      "text": "password validation removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#200",
+      "time": "2023-05-06T07:47:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/200",
+      "text": "changed navigaton after register to connect-discord"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#200",
+      "time": "2023-05-06T07:50:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/200",
+      "text": "changed navigaton after register to connect-discord"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#202",
+      "time": "2023-05-06T18:14:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/202",
+      "text": "build connect discord page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#202",
+      "time": "2023-05-06T18:20:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/202",
+      "text": "build connect discord page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#203",
+      "time": "2023-05-06T18:21:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/203",
+      "text": "css edit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#203",
+      "time": "2023-05-07T12:35:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/203",
+      "text": "css edit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#204",
+      "time": "2023-05-07T15:01:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/204",
+      "text": "added connect discord box"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#204",
+      "time": "2023-05-07T16:33:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/204",
+      "text": "added connect discord box"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#205",
+      "time": "2023-05-07T18:12:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/205",
+      "text": "make connect discord page more responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#205",
+      "time": "2023-05-07T18:14:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/205",
+      "text": "make connect discord page more responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#206",
+      "time": "2023-05-08T06:53:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/206",
+      "text": "added onboarding flow images and make responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#206",
+      "time": "2023-05-08T06:55:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/206",
+      "text": "added onboarding flow images and make responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#207",
+      "time": "2023-05-08T08:53:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/207",
+      "text": "onboarding flow maked more responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#207",
+      "time": "2023-05-08T09:49:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/207",
+      "text": "onboarding flow maked more responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#209",
+      "time": "2023-05-10T07:28:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/209",
+      "text": "removed mentor type form register form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#209",
+      "time": "2023-05-11T10:26:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/209",
+      "text": "removed mentor type form register form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#211",
+      "time": "2023-05-11T14:48:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/211",
+      "text": "Added Login with otp option"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#211",
+      "time": "2023-05-11T19:41:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/211",
+      "text": "Added Login with otp option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#212",
+      "time": "2023-05-13T10:46:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/212",
+      "text": "Added login with otp and error fixed in this"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#212",
+      "time": "2023-05-13T10:51:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/212",
+      "text": "Added login with otp and error fixed in this"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#214",
+      "time": "2023-05-13T15:33:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/214",
+      "text": "added login using email or \u00b5ID and make user dashboard layout "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#214",
+      "time": "2023-05-13T15:42:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/214",
+      "text": "added login using email or \u00b5ID and make user dashboard layout "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#215",
+      "time": "2023-05-13T15:45:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/215",
+      "text": "dashboard error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#215",
+      "time": "2023-05-13T15:46:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/215",
+      "text": "dashboard error fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#216",
+      "time": "2023-05-13T17:02:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/216",
+      "text": "make changes in urls"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#216",
+      "time": "2023-05-13T17:05:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/216",
+      "text": "make changes in urls"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#217",
+      "time": "2023-05-14T06:47:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/217",
+      "text": "added validation in reset password ,added eye icon in register from password "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#217",
+      "time": "2023-05-14T07:08:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/217",
+      "text": "added validation in reset password ,added eye icon in register from password "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#219",
+      "time": "2023-05-15T10:22:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/219",
+      "text": "changed:new font and added login option in register from"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#219",
+      "time": "2023-05-15T13:47:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/219",
+      "text": "changed:new font and added login option in register from"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#221",
+      "time": "2023-05-16T06:06:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/221",
+      "text": "develop:added dropdown btn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#221",
+      "time": "2023-05-16T10:19:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/221",
+      "text": "develop:added dropdown btn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#224",
+      "time": "2023-05-17T02:44:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/224",
+      "text": "develop:build-campus-student-list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#224",
+      "time": "2023-05-17T06:57:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/224",
+      "text": "develop:build-campus-student-list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#227",
+      "time": "2023-05-17T08:25:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/227",
+      "text": "devlop:added-table-serachbar-and-pagination to campus student list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#227",
+      "time": "2023-05-17T08:53:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/227",
+      "text": "devlop:added-table-serachbar-and-pagination to campus student list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#230",
+      "time": "2023-05-18T09:11:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/230",
+      "text": "develop:create-campus-detail-page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#230",
+      "time": "2023-05-18T09:12:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/230",
+      "text": "develop:create-campus-detail-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#233",
+      "time": "2023-05-18T16:48:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/233",
+      "text": "devlop:make-campus-list-page-only-for-campus-lead"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#233",
+      "time": "2023-05-18T16:56:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/233",
+      "text": "devlop:make-campus-list-page-only-for-campus-lead"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#238",
+      "time": "2023-05-19T12:56:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/238",
+      "text": "develop:added search and sort option"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#238",
+      "time": "2023-05-19T13:00:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/238",
+      "text": "develop:added search and sort option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#239",
+      "time": "2023-05-19T14:19:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/239",
+      "text": "bug-fix:load-campus-details-page-without-reload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#242",
+      "time": "2023-05-20T05:32:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/242",
+      "text": "Change design of login with otp same as login with password"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#242",
+      "time": "2023-05-20T13:18:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/242",
+      "text": "Change design of login with otp same as login with password"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#255",
+      "time": "2023-05-23T14:33:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/255",
+      "text": "devlope:added-country-state-district-option-in-register-form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#255",
+      "time": "2023-05-23T15:53:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/255",
+      "text": "devlope:added-country-state-district-option-in-register-form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#267",
+      "time": "2023-05-24T06:17:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/267",
+      "text": "fix scroll bar issue, make form align same for all, make district and state different row, table top bug fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#267",
+      "time": "2023-05-24T06:58:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/267",
+      "text": "fix scroll bar issue, make form align same for all, make district and state different row, table top bug fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#272",
+      "time": "2023-05-24T11:50:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/272",
+      "text": "sidenavbar issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#272",
+      "time": "2023-05-24T19:52:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/272",
+      "text": "sidenavbar issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#274",
+      "time": "2023-05-25T04:38:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/274",
+      "text": "devlope: make state,district,collage,dept and year disabled"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#274",
+      "time": "2023-05-26T09:56:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/274",
+      "text": "devlope: make state,district,collage,dept and year disabled"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#278",
+      "time": "2023-05-26T20:43:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/278",
+      "text": "feat(#279): Created URL Shortner"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#278",
+      "time": "2023-05-27T05:09:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/278",
+      "text": "feat(#279): Created URL Shortner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#306",
+      "time": "2023-06-08T18:37:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/306",
+      "text": "dev: added new profile design and modified url shortner page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#306",
+      "time": "2023-06-08T18:44:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/306",
+      "text": "dev: added new profile design and modified url shortner page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#309",
+      "time": "2023-06-10T18:33:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/309",
+      "text": "build: profile page v1 "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#309",
+      "time": "2023-06-10T18:51:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/309",
+      "text": "build: profile page v1 "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#310",
+      "time": "2023-06-10T19:09:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/310",
+      "text": "feat: added average karma per month"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#310",
+      "time": "2023-06-10T19:27:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/310",
+      "text": "feat: added average karma per month"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#312",
+      "time": "2023-06-11T03:42:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/312",
+      "text": "feat: changed pie chart to google pie chart and make it functional"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#312",
+      "time": "2023-06-11T08:09:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/312",
+      "text": "feat: changed pie chart to google pie chart and make it functional"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#313",
+      "time": "2023-06-11T10:35:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/313",
+      "text": "feat:heatmap and pie chart responsive issues fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#313",
+      "time": "2023-06-11T12:19:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/313",
+      "text": "feat:heatmap and pie chart responsive issues fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#314",
+      "time": "2023-06-11T16:31:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/314",
+      "text": "feat : small design changes in profile page and make college code with ()"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#314",
+      "time": "2023-06-11T16:46:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/314",
+      "text": "feat : small design changes in profile page and make college code with ()"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#316",
+      "time": "2023-06-11T17:14:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/316",
+      "text": "feat: added loader on profile page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#316",
+      "time": "2023-06-11T17:33:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/316",
+      "text": "feat: added loader on profile page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#317",
+      "time": "2023-06-11T17:57:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/317",
+      "text": "fix:loader error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#317",
+      "time": "2023-06-11T17:58:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/317",
+      "text": "fix:loader error fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#319",
+      "time": "2023-06-12T15:46:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/319",
+      "text": "feat:member since issue fixed and make changes in side navbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#319",
+      "time": "2023-06-12T20:15:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/319",
+      "text": "feat:member since issue fixed and make changes in side navbar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#320",
+      "time": "2023-06-13T12:09:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/320",
+      "text": "feat : added year wise filter on heatmap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#320",
+      "time": "2023-06-13T13:27:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/320",
+      "text": "feat : added year wise filter on heatmap"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#322",
+      "time": "2023-06-13T18:18:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/322",
+      "text": "feat: Changed design of profile page and heatmap code make more simplified and dynamic"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#322",
+      "time": "2023-06-13T19:55:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/322",
+      "text": "feat: Changed design of profile page and heatmap code make more simplified and dynamic"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#326",
+      "time": "2023-06-15T14:38:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/326",
+      "text": "feat : color changed to new theme ,heatmap issue fixed and sidenavbar issue fixed and onboarding page district issu fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#326",
+      "time": "2023-06-15T17:17:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/326",
+      "text": "feat : color changed to new theme ,heatmap issue fixed and sidenavbar issue fixed and onboarding page district issu fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#329",
+      "time": "2023-06-16T12:58:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/329",
+      "text": "feat: make heatmap squares colors varied by karma and optimize api calls"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#329",
+      "time": "2023-06-16T13:33:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/329",
+      "text": "feat: make heatmap squares colors varied by karma and optimize api calls"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#330",
+      "time": "2023-06-16T14:33:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/330",
+      "text": "fix: onboarding page cancel button make working, make Trivandrum with\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#330",
+      "time": "2023-06-17T10:16:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/330",
+      "text": "fix: onboarding page cancel button make working, make Trivandrum with\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#331",
+      "time": "2023-06-17T13:49:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/331",
+      "text": "fix :onboarding iPhone blur effect fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#331",
+      "time": "2023-06-18T10:31:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/331",
+      "text": "fix :onboarding iPhone blur effect fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#335",
+      "time": "2023-06-18T17:14:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/335",
+      "text": "feat: removed unnecessary  userProfileAPI call fix issue in heatmap"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#335",
+      "time": "2023-06-20T01:14:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/335",
+      "text": "feat: removed unnecessary  userProfileAPI call fix issue in heatmap"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#341",
+      "time": "2023-06-20T16:57:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/341",
+      "text": "fix:fixed issue in top navbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#341",
+      "time": "2023-06-21T12:55:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/341",
+      "text": "fix:fixed issue in top navbar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#351",
+      "time": "2023-06-25T03:50:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/351",
+      "text": "feat : created shareable link and nuild karma history tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#351",
+      "time": "2023-06-25T06:02:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/351",
+      "text": "feat : created shareable link and nuild karma history tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#353",
+      "time": "2023-06-25T06:37:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/353",
+      "text": "fix :errors in shareable page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#353",
+      "time": "2023-06-25T08:29:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/353",
+      "text": "fix :errors in shareable page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#355",
+      "time": "2023-06-25T08:55:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/355",
+      "text": "fix : fixed design issue in profile page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#355",
+      "time": "2023-06-25T09:09:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/355",
+      "text": "fix : fixed design issue in profile page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#358",
+      "time": "2023-06-25T17:09:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/358",
+      "text": "fix: fixed design issues in profile page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#358",
+      "time": "2023-06-26T10:40:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/358",
+      "text": "fix: fixed design issues in profile page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#361",
+      "time": "2023-06-27T15:43:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/361",
+      "text": "feat: share button design changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#361",
+      "time": "2023-06-28T08:43:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/361",
+      "text": "feat: share button design changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#368",
+      "time": "2023-06-28T16:03:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/368",
+      "text": "feat: convert camelCases to snake case and added muvoyage page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#368",
+      "time": "2023-06-28T16:41:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/368",
+      "text": "feat: convert camelCases to snake case and added muvoyage page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#378",
+      "time": "2023-06-30T05:13:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/378",
+      "text": "[FEAT] added muVoyage tab and fixed heatmap error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#378",
+      "time": "2023-06-30T05:30:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/378",
+      "text": "[FEAT] added muVoyage tab and fixed heatmap error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#379",
+      "time": "2023-06-30T05:59:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/379",
+      "text": "fix :karma history variables are changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#379",
+      "time": "2023-06-30T08:18:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/379",
+      "text": "fix :karma history variables are changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#380",
+      "time": "2023-06-30T08:24:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/380",
+      "text": "[FEAT] added tick mark if the level is completed on mu_voyage tab"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#380",
+      "time": "2023-06-30T17:28:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/380",
+      "text": "[FEAT] added tick mark if the level is completed on mu_voyage tab"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#385",
+      "time": "2023-07-01T14:47:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/385",
+      "text": "[FEAT] Make muvoyage status is current , added hastags and shareable \u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#385",
+      "time": "2023-07-01T14:48:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/385",
+      "text": "[FEAT] Make muvoyage status is current , added hastags and shareable \u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#386",
+      "time": "2023-07-01T14:54:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/386",
+      "text": "[FIX] rounded the percentage in muvoyage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#386",
+      "time": "2023-07-01T14:55:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/386",
+      "text": "[FIX] rounded the percentage in muvoyage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#387",
+      "time": "2023-07-01T15:39:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/387",
+      "text": "[FIX] issues in view more option in recent activity,change box shadow\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#387",
+      "time": "2023-07-01T15:46:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/387",
+      "text": "[FIX] issues in view more option in recent activity,change box shadow\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#391",
+      "time": "2023-07-02T11:35:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/391",
+      "text": "[FEAT] added a option for detect the profile is public or private and\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#391",
+      "time": "2023-07-02T14:16:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/391",
+      "text": "[FEAT] added a option for detect the profile is public or private and\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#394",
+      "time": "2023-07-02T19:58:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/394",
+      "text": "[FEAT] added QR code in shareable profile ,design changes in shareable\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#394",
+      "time": "2023-07-03T07:01:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/394",
+      "text": "[FEAT] added QR code in shareable profile ,design changes in shareable\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#406",
+      "time": "2023-07-06T05:20:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/406",
+      "text": "[FEAT] updated share profile pop up and fixed issues in toast message\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#406",
+      "time": "2023-07-06T07:16:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/406",
+      "text": "[FEAT] updated share profile pop up and fixed issues in toast message\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#434",
+      "time": "2023-07-15T04:35:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/434",
+      "text": "[FEAT] updated design of url shortner and changed icons in side navbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#434",
+      "time": "2023-07-15T07:09:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/434",
+      "text": "[FEAT] updated design of url shortner and changed icons in side navbar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#440",
+      "time": "2023-07-15T18:03:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/440",
+      "text": "[FIX] profile page loading issue is fixed and updated profile meta"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#440",
+      "time": "2023-07-16T04:21:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/440",
+      "text": "[FIX] profile page loading issue is fixed and updated profile meta"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#464",
+      "time": "2023-07-18T18:29:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/464",
+      "text": "[FEAT]added karma details on level tab , level issue on muvoyage and basic info synced and changed meta on profile page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#464",
+      "time": "2023-07-19T16:59:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/464",
+      "text": "[FEAT]added karma details on level tab , level issue on muvoyage and basic info synced and changed meta on profile page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#478",
+      "time": "2023-07-20T19:09:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/478",
+      "text": "[FIX] fixed reload issue when access token expire"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#478",
+      "time": "2023-07-21T07:34:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/478",
+      "text": "[FIX] fixed reload issue when access token expire"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#480",
+      "time": "2023-07-21T08:48:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/480",
+      "text": "[FEAT] changed profile design at basic details improve UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#480",
+      "time": "2023-07-21T11:02:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/480",
+      "text": "[FEAT] changed profile design at basic details improve UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#498",
+      "time": "2023-07-22T11:54:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/498",
+      "text": "[FIX] muvoyage null level issue fixed and fixed mu dropdown button hi\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#498",
+      "time": "2023-07-22T12:32:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/498",
+      "text": "[FIX] muvoyage null level issue fixed and fixed mu dropdown button hi\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#518",
+      "time": "2023-07-25T12:04:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/518",
+      "text": "[FEAT] reconstructed url shortner and fix top navbar issues and convert css to nexted css"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#518",
+      "time": "2023-07-25T12:48:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/518",
+      "text": "[FEAT] reconstructed url shortner and fix top navbar issues and convert css to nexted css"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#521",
+      "time": "2023-07-25T17:12:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/521",
+      "text": "[FIX] login redirect issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#521",
+      "time": "2023-07-26T03:52:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/521",
+      "text": "[FIX] login redirect issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#522",
+      "time": "2023-07-26T10:01:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/522",
+      "text": "[IFX] fixed issues in redirection and added copy button to table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#522",
+      "time": "2023-07-26T10:04:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/522",
+      "text": "[IFX] fixed issues in redirection and added copy button to table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#528",
+      "time": "2023-07-26T15:41:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/528",
+      "text": "[FIX] fixed create short url issue updation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#528",
+      "time": "2023-07-26T15:46:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/528",
+      "text": "[FIX] fixed create short url issue updation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#530",
+      "time": "2023-07-26T15:48:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/530",
+      "text": "[FIX] removed empty data in table showed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#530",
+      "time": "2023-07-26T15:55:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/530",
+      "text": "[FIX] removed empty data in table showed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#533",
+      "time": "2023-07-26T16:00:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/533",
+      "text": "[FIX] fixed issues in env variable "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#533",
+      "time": "2023-07-26T16:01:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/533",
+      "text": "[FIX] fixed issues in env variable "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#549",
+      "time": "2023-07-29T14:13:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/549",
+      "text": "[FEAT and FIX] fix issue #279 url shortner CURD operation and fix delete toast also onboarding page data validation issue fixed and added dwms id prefilling in register page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#549",
+      "time": "2023-07-29T16:51:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/549",
+      "text": "[FEAT and FIX] fix issue #279 url shortner CURD operation and fix delete toast also onboarding page data validation issue fixed and added dwms id prefilling in register page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#568",
+      "time": "2023-08-02T09:02:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/568",
+      "text": "[FEAT] added prefilling with jsid in onboarding form and setRole to s\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#568",
+      "time": "2023-08-02T09:41:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/568",
+      "text": "[FEAT] added prefilling with jsid in onboarding form and setRole to s\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#595",
+      "time": "2023-08-05T16:33:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/595",
+      "text": "[FEAT & FIX] added edit profile options and minor changes in ui and qr code issue solved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#595",
+      "time": "2023-08-06T06:00:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/595",
+      "text": "[FEAT & FIX] added edit profile options and minor changes in ui and qr code issue solved"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#599",
+      "time": "2023-08-06T07:26:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/599",
+      "text": "[FEAT] edit profile popup make responsive and added a toast after upd\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#599",
+      "time": "2023-08-06T16:20:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/599",
+      "text": "[FEAT] edit profile popup make responsive and added a toast after upd\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#604",
+      "time": "2023-08-07T02:01:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/604",
+      "text": "[FEAT & FIX] make settings as children of dashboard route and make changes in css and shareable profile backgorund color and popup ui improvement"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#604",
+      "time": "2023-08-07T12:45:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/604",
+      "text": "[FEAT & FIX] make settings as children of dashboard route and make changes in css and shareable profile backgorund color and popup ui improvement"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#606",
+      "time": "2023-08-07T13:21:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/606",
+      "text": "[FIX] solved build issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#606",
+      "time": "2023-08-07T15:23:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/606",
+      "text": "[FIX] solved build issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#613",
+      "time": "2023-08-07T17:33:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/613",
+      "text": "[FIX] fixed run time error in edit profile popup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#613",
+      "time": "2023-08-08T03:17:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/613",
+      "text": "[FIX] fixed run time error in edit profile popup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#625",
+      "time": "2023-08-08T18:21:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/625",
+      "text": "[FEAT & FIX] Make url shortner visible only to admin,fellow and associate and fixed krama history chat karma hide option issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#625",
+      "time": "2023-08-09T16:40:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/625",
+      "text": "[FEAT & FIX] Make url shortner visible only to admin,fellow and associate and fixed krama history chat karma hide option issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#627",
+      "time": "2023-08-09T16:54:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/627",
+      "text": "[FIX] comment the unnecessary export"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#627",
+      "time": "2023-08-09T16:55:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/627",
+      "text": "[FIX] comment the unnecessary export"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#629",
+      "time": "2023-08-10T12:37:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/629",
+      "text": "[FIX] fixed issues in urlshortner edit button and edit functionality and added Foundation to copyright text on sidenavbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#629",
+      "time": "2023-08-10T14:22:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/629",
+      "text": "[FIX] fixed issues in urlshortner edit button and edit functionality and added Foundation to copyright text on sidenavbar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#632",
+      "time": "2023-08-11T13:35:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/632",
+      "text": "[FEAT] added a input field error if referral id is invalid then show \u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#632",
+      "time": "2023-08-12T13:51:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/632",
+      "text": "[FEAT] added a input field error if referral id is invalid then show \u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#641",
+      "time": "2023-08-13T18:08:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/641",
+      "text": "[FEAT & FIX]  fixed issues in shared profile link, optimized onboarding graduation year code, Changed owned karma/goal karma to owned karma/total karma on that level ,fixed issues in edit profile popup and fixed issues in urlshortner"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#641",
+      "time": "2023-08-14T01:59:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/641",
+      "text": "[FEAT & FIX]  fixed issues in shared profile link, optimized onboarding graduation year code, Changed owned karma/goal karma to owned karma/total karma on that level ,fixed issues in edit profile popup and fixed issues in urlshortner"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#649",
+      "time": "2023-08-17T11:46:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/649",
+      "text": "[FIX] onboarding issue fixed and make code optimized "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#649",
+      "time": "2023-08-17T13:35:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/649",
+      "text": "[FIX] onboarding issue fixed and make code optimized "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#652",
+      "time": "2023-08-17T16:13:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/652",
+      "text": "minor fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#652",
+      "time": "2023-08-17T16:37:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/652",
+      "text": "minor fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#666",
+      "time": "2023-08-22T05:49:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/666",
+      "text": "[FEAT] added user interest group edit and delete option"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#666",
+      "time": "2023-08-22T12:45:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/666",
+      "text": "[FEAT] added user interest group edit and delete option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#671",
+      "time": "2023-08-23T16:07:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/671",
+      "text": "[FIX] fixed edit option on shareable profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#671",
+      "time": "2023-08-23T16:35:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/671",
+      "text": "[FIX] fixed edit option on shareable profile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#678",
+      "time": "2023-08-25T08:02:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/678",
+      "text": "[FIX] fixed profile pic alignment issue , fixed muvoyage  karma showi\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#678",
+      "time": "2023-08-25T11:06:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/678",
+      "text": "[FIX] fixed profile pic alignment issue , fixed muvoyage  karma showi\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#679",
+      "time": "2023-08-25T19:16:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/679",
+      "text": "[FIX] basic details edit ig karma issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#679",
+      "time": "2023-08-26T07:47:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/679",
+      "text": "[FIX] basic details edit ig karma issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#687",
+      "time": "2023-08-27T22:21:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/687",
+      "text": "[FEAT & FIX] added edit option ass popup model and fixed issue s in Interest group edit and also issues fixed in shareable proline"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#687",
+      "time": "2023-08-28T13:57:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/687",
+      "text": "[FEAT & FIX] added edit option ass popup model and fixed issue s in Interest group edit and also issues fixed in shareable proline"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#695",
+      "time": "2023-08-30T07:55:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/695",
+      "text": "uncomment Ig Edit option"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#695",
+      "time": "2023-08-30T09:48:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/695",
+      "text": "uncomment Ig Edit option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#697",
+      "time": "2023-08-30T12:21:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/697",
+      "text": "[FEAT] added socials option on profile page and make it edit and create"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#697",
+      "time": "2023-08-30T12:53:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/697",
+      "text": "[FEAT] added socials option on profile page and make it edit and create"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#733",
+      "time": "2023-09-03T16:35:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/733",
+      "text": "[FEAT & FIX] make shareprofile pop up spareate componet, restricted Ig edit option for below 4th level and make cross button on socials to Tik icon, socials invalid username error showing issue fixed,added prefill of referral id in register page and fix space issue on profile page,make Helmet (integrated meta tags) separate component,removed create (POST) api of socials"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#733",
+      "time": "2023-09-03T17:58:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/733",
+      "text": "[FEAT & FIX] make shareprofile pop up spareate componet, restricted Ig edit option for below 4th level and make cross button on socials to Tik icon, socials invalid username error showing issue fixed,added prefill of referral id in register page and fix space issue on profile page,make Helmet (integrated meta tags) separate component,removed create (POST) api of socials"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#736",
+      "time": "2023-09-04T13:53:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/736",
+      "text": "[FIX & FEAT]  removed socials edit option in shared profile ,added embed link option ui on share profile popup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#736",
+      "time": "2023-09-04T13:57:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/736",
+      "text": "[FIX & FEAT]  removed socials edit option in shared profile ,added embed link option ui on share profile popup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#742",
+      "time": "2023-09-04T17:40:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/742",
+      "text": "[FIX & FEAT] fixed minor issues in socials ,added embed link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#742",
+      "time": "2023-09-04T17:43:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/742",
+      "text": "[FIX & FEAT] fixed minor issues in socials ,added embed link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#747",
+      "time": "2023-09-05T13:18:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/747",
+      "text": "[FEAT & FIX] make share popup more responsive and  allowed \"/\" and \".\" to socials username"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#747",
+      "time": "2023-09-05T18:10:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/747",
+      "text": "[FEAT & FIX] make share popup more responsive and  allowed \"/\" and \".\" to socials username"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#753",
+      "time": "2023-09-06T07:23:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/753",
+      "text": "[FIX & FEAT] fixed edit Ig issue,improved ux on coping embed link,UX & UI improved in shareprofile popup , editprofile popup and social,Added jsId on register api,fixed redirect issue during kkem verify account and added prefilling on register page with jsId"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#753",
+      "time": "2023-09-06T10:46:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/753",
+      "text": "[FIX & FEAT] fixed edit Ig issue,improved ux on coping embed link,UX & UI improved in shareprofile popup , editprofile popup and social,Added jsId on register api,fixed redirect issue during kkem verify account and added prefilling on register page with jsId"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#761",
+      "time": "2023-09-06T20:12:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/761",
+      "text": "[FIX] minor fix on kkem page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#761",
+      "time": "2023-09-07T03:44:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/761",
+      "text": "[FIX] minor fix on kkem page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#767",
+      "time": "2023-09-08T04:58:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/767",
+      "text": "[FEAT]added FAQ section on keralatechpage"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#767",
+      "time": "2023-09-08T10:29:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/767",
+      "text": "[FEAT]added FAQ section on keralatechpage"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#768",
+      "time": "2023-09-08T05:29:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/768",
+      "text": "[FIX] edit ig issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#768",
+      "time": "2023-09-08T10:29:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/768",
+      "text": "[FIX] edit ig issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#793",
+      "time": "2023-09-14T13:33:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/793",
+      "text": "[FEAT] KKEM Page param functionality set 50%"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#793",
+      "time": "2023-09-14T14:11:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/793",
+      "text": "[FEAT] KKEM Page param functionality set 50%"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#797",
+      "time": "2023-09-15T09:27:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/797",
+      "text": "[Feat]Mobile error show  issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#797",
+      "time": "2023-09-16T06:01:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/797",
+      "text": "[Feat]Mobile error show  issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#798",
+      "time": "2023-09-15T10:35:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/798",
+      "text": "[bug Fix]  type issue fixed in onboarding"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#798",
+      "time": "2023-09-16T05:57:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/798",
+      "text": "[bug Fix]  type issue fixed in onboarding"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#805",
+      "time": "2023-09-17T01:34:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/805",
+      "text": "[FIX] fixed edit ig button issue added new submit and cancel option"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#805",
+      "time": "2023-09-17T06:49:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/805",
+      "text": "[FIX] fixed edit ig button issue added new submit and cancel option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#806",
+      "time": "2023-09-17T01:35:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/806",
+      "text": "[FIX] fixed edit ig button issue added  new submit and cancel option"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#807",
+      "time": "2023-09-17T01:37:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/807",
+      "text": "Kkem updations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#863",
+      "time": "2023-10-07T02:45:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/863",
+      "text": "[FEAT] new profile V2 first phase"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#863",
+      "time": "2023-10-07T07:51:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/863",
+      "text": "[FEAT] new profile V2 first phase"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#892",
+      "time": "2023-10-22T01:57:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/892",
+      "text": "[fix] bug fixed in edit profile popup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#892",
+      "time": "2023-10-22T03:18:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/892",
+      "text": "[fix] bug fixed in edit profile popup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#898",
+      "time": "2023-10-22T19:05:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/898",
+      "text": "[FEAT]minor and major changes in profiel v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#898",
+      "time": "2023-10-23T06:53:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/898",
+      "text": "[FEAT]minor and major changes in profiel v2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#903",
+      "time": "2023-10-24T02:20:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/903",
+      "text": "[FEAT] make more responsive profile v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#903",
+      "time": "2023-10-24T02:48:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/903",
+      "text": "[FEAT] make more responsive profile v2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#904",
+      "time": "2023-10-24T03:09:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/904",
+      "text": "[FEAT] minor updates in ui profile v2 and v1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#904",
+      "time": "2023-10-24T03:24:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/904",
+      "text": "[FEAT] minor updates in ui profile v2 and v1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#913",
+      "time": "2023-10-26T02:05:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/913",
+      "text": "[FEAT] Handled a CORS error on the muVoyage page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#913",
+      "time": "2023-10-26T07:25:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/913",
+      "text": "[FEAT] Handled a CORS error on the muVoyage page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#958",
+      "time": "2023-11-07T02:57:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/958",
+      "text": "[FEAT] profile v2 completed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#958",
+      "time": "2023-11-08T12:57:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/958",
+      "text": "[FEAT] profile v2 completed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#962",
+      "time": "2023-11-08T18:42:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/962",
+      "text": "[FIX] piechart height issue fixed in profile v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#962",
+      "time": "2023-11-11T10:24:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/962",
+      "text": "[FIX] piechart height issue fixed in profile v2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#970",
+      "time": "2023-11-15T02:30:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/970",
+      "text": "[FIX] fixed profile v2 ui issues"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#970",
+      "time": "2023-11-20T13:05:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/970",
+      "text": "[FIX] fixed profile v2 ui issues"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#991",
+      "time": "2023-11-28T19:47:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/991",
+      "text": "[FEAT] Add user settings (LOGOUT btn) menu to top navigation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#991",
+      "time": "2023-11-29T00:14:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/991",
+      "text": "[FEAT] Add user settings (LOGOUT btn) menu to top navigation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1010",
+      "time": "2023-12-01T15:17:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1010",
+      "text": "[FEAT] reduced lines of code in profile v2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1010",
+      "time": "2023-12-04T13:16:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1010",
+      "text": "[FEAT] reduced lines of code in profile v2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1032",
+      "time": "2023-12-08T04:15:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1032",
+      "text": "[FEAT] created analytics page and completed 99%"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1032",
+      "time": "2023-12-08T13:07:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1032",
+      "text": "[FEAT] created analytics page and completed 99%"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1036",
+      "time": "2023-12-09T10:43:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1036",
+      "text": "[FEAT]  optimized URL shorter analytics page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1036",
+      "time": "2023-12-11T13:47:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1036",
+      "text": "[FEAT]  optimized URL shorter analytics page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1040",
+      "time": "2023-12-11T15:40:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1040",
+      "text": "[FEAT] Add max-height and overflow to SourceCountryAndScreens.module css, update SourceCountryAndScreens.tsx"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1040",
+      "time": "2023-12-11T16:59:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1040",
+      "text": "[FEAT] Add max-height and overflow to SourceCountryAndScreens.module css, update SourceCountryAndScreens.tsx"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1053",
+      "time": "2023-12-20T16:26:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1053",
+      "text": "[FEAT] registration flow changed and removed first_name and last_name to full_name"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1053",
+      "time": "2023-12-21T10:40:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1053",
+      "text": "[FEAT] registration flow changed and removed first_name and last_name to full_name"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1058",
+      "time": "2023-12-22T04:18:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1058",
+      "text": "[FIX] Refactor PrivateRoutes component to handle if there is first or\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1058",
+      "time": "2023-12-22T06:28:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1058",
+      "text": "[FIX] Refactor PrivateRoutes component to handle if there is first or\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1059",
+      "time": "2023-12-23T04:15:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1059",
+      "text": "[FEAT] Refactor interest group editing logic in BasicDetails componen\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1059",
+      "time": "2023-12-28T06:30:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1059",
+      "text": "[FEAT] Refactor interest group editing logic in BasicDetails componen\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#23",
+      "time": "2022-10-27T02:44:18Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/23",
+      "text": "Navbar Subhead hover effect removed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#23",
+      "time": "2022-10-27T06:38:58Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/23",
+      "text": "Navbar Subhead hover effect removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#25",
+      "time": "2022-11-02T18:28:41Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/25",
+      "text": "change png to webp"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#26",
+      "time": "2022-11-02T18:29:46Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/26",
+      "text": "change png to webp"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#26",
+      "time": "2022-11-03T12:37:00Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/26",
+      "text": "change png to webp"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#6",
+      "time": "2023-02-20T13:31:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/6",
+      "text": "devlop:getkarma-api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#6",
+      "time": "2023-02-20T17:05:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/6",
+      "text": "devlop:getkarma-api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#9",
+      "time": "2023-02-21T14:09:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/9",
+      "text": "develop:getkarma-api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#9",
+      "time": "2023-02-21T20:24:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/9",
+      "text": "develop:getkarma-api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#17",
+      "time": "2023-03-12T21:14:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/17",
+      "text": "onboarding-backend-completed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#17",
+      "time": "2023-03-12T23:34:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/17",
+      "text": "onboarding-backend-completed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#18",
+      "time": "2023-03-14T16:58:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/18",
+      "text": "bug-fix-muid-and-filter-roles"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#18",
+      "time": "2023-03-14T17:34:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/18",
+      "text": "bug-fix-muid-and-filter-roles"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#19",
+      "time": "2023-03-16T14:46:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/19",
+      "text": "bug-fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#20",
+      "time": "2023-03-16T17:02:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/20",
+      "text": "bug-fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#20",
+      "time": "2023-03-16T19:43:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/20",
+      "text": "bug-fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#25",
+      "time": "2023-04-01T08:57:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/25",
+      "text": "error-fix:getKarma and userdetailsapi"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#25",
+      "time": "2023-04-01T11:09:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/25",
+      "text": "error-fix:getKarma and userdetailsapi"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#40",
+      "time": "2023-04-07T11:30:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/40",
+      "text": "profile backend error  resolved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#40",
+      "time": "2023-04-12T16:08:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/40",
+      "text": "profile backend error  resolved"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#48",
+      "time": "2023-04-13T18:19:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/48",
+      "text": "change orgnization to orgnaizations list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#48",
+      "time": "2023-04-16T06:15:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/48",
+      "text": "change orgnization to orgnaizations list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#56",
+      "time": "2023-04-20T10:47:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/56",
+      "text": "toekn expiry added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#56",
+      "time": "2023-04-20T10:48:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/56",
+      "text": "toekn expiry added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#71",
+      "time": "2023-05-02T00:59:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/71",
+      "text": "register data flow changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#71",
+      "time": "2023-05-03T11:07:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/71",
+      "text": "register data flow changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#95",
+      "time": "2023-05-06T07:03:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/95",
+      "text": "Added / in begin of authserver api call"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#116",
+      "time": "2023-05-13T17:01:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/116",
+      "text": "Removed double register in urls and error fixed in register data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#116",
+      "time": "2023-05-13T17:03:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/116",
+      "text": "Removed double register in urls and error fixed in register data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#119",
+      "time": "2023-05-14T07:07:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/119",
+      "text": "bug-fix: remover /user from frogotPasseordApi URL"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#119",
+      "time": "2023-05-14T07:16:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/119",
+      "text": "bug-fix: remover /user from frogotPasseordApi URL"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#125",
+      "time": "2023-05-17T18:13:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/125",
+      "text": "develop:created-campus-student-list-api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#125",
+      "time": "2023-05-17T18:20:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/125",
+      "text": "develop:created-campus-student-list-api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#128",
+      "time": "2023-05-18T07:46:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/128",
+      "text": "develop:campus-student-details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#128",
+      "time": "2023-05-18T07:53:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/128",
+      "text": "develop:campus-student-details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#132",
+      "time": "2023-05-18T14:15:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/132",
+      "text": "campus-list-api-karma-and enable-role-access"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#132",
+      "time": "2023-05-18T14:18:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/132",
+      "text": "campus-list-api-karma-and enable-role-access"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#143",
+      "time": "2023-05-19T11:30:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/143",
+      "text": "develop:added-pagination-in-campus-details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#143",
+      "time": "2023-05-19T11:40:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/143",
+      "text": "develop:added-pagination-in-campus-details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#144",
+      "time": "2023-05-19T11:47:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/144",
+      "text": "develop:added muid to campus student list api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#144",
+      "time": "2023-05-19T11:48:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/144",
+      "text": "develop:added muid to campus student list api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#146",
+      "time": "2023-05-19T12:55:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/146",
+      "text": "bugfix:change field in pgaination of campus student list api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#146",
+      "time": "2023-05-19T12:59:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/146",
+      "text": "bugfix:change field in pgaination of campus student list api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#172",
+      "time": "2023-05-23T14:37:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/172",
+      "text": "develop:CountryAPI,StateAPI and DistrictAPI for regiser and make changes in collageAPI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#172",
+      "time": "2023-05-23T16:58:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/172",
+      "text": "develop:CountryAPI,StateAPI and DistrictAPI for regiser and make changes in collageAPI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#195",
+      "time": "2023-05-25T11:38:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/195",
+      "text": "change: campus dir to dashboard and make code more standard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#195",
+      "time": "2023-05-25T12:40:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/195",
+      "text": "change: campus dir to dashboard and make code more standard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#205",
+      "time": "2023-05-26T20:47:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/205",
+      "text": "small changes in urlshortnerAPI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#205",
+      "time": "2023-05-27T18:41:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/205",
+      "text": "small changes in urlshortnerAPI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#232",
+      "time": "2023-06-08T18:45:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/232",
+      "text": "useIg API error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#232",
+      "time": "2023-06-09T12:09:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/232",
+      "text": "useIg API error fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#254",
+      "time": "2023-06-12T19:12:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/254",
+      "text": "feat: added level in campus student org serializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#254",
+      "time": "2023-06-12T19:53:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/254",
+      "text": "feat: added level in campus student org serializer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#321",
+      "time": "2023-06-18T16:12:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/321",
+      "text": "feat: added profile pic on userInfo API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#321",
+      "time": "2023-06-18T16:54:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/321",
+      "text": "feat: added profile pic on userInfo API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#338",
+      "time": "2023-06-24T22:24:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/338",
+      "text": "fix: fixed issue in ShareUserProfileAPI response message and add isPu\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#338",
+      "time": "2023-06-25T06:01:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/338",
+      "text": "fix: fixed issue in ShareUserProfileAPI response message and add isPu\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#354",
+      "time": "2023-06-28T18:00:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/354",
+      "text": "fix : user log API serializer CharField Error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#354",
+      "time": "2023-06-28T18:03:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/354",
+      "text": "fix : user log API serializer CharField Error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#355",
+      "time": "2023-06-28T18:09:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/355",
+      "text": "fix:userlog error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#355",
+      "time": "2023-06-28T18:10:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/355",
+      "text": "fix:userlog error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#397",
+      "time": "2023-07-02T19:58:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/397",
+      "text": "[FIX] fixed the issue in shareable profile success message"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#397",
+      "time": "2023-07-03T14:18:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/397",
+      "text": "[FIX] fixed the issue in shareable profile success message"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#414",
+      "time": "2023-07-06T05:17:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/414",
+      "text": "[FIX] isPublic api response message issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#414",
+      "time": "2023-07-06T05:18:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/414",
+      "text": "[FIX] isPublic api response message issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#429",
+      "time": "2023-07-15T04:24:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/429",
+      "text": "[FEAT] added karma points to levels"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#429",
+      "time": "2023-07-15T04:41:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/429",
+      "text": "[FEAT] added karma points to levels"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#752",
+      "time": "2023-08-18T20:06:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/752",
+      "text": "[FEAT] added profile UserIgEditAPI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#752",
+      "time": "2023-08-19T09:31:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/752",
+      "text": "[FEAT] added profile UserIgEditAPI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#757",
+      "time": "2023-08-22T05:51:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/757",
+      "text": "[FEAT] added karma points to user ig edit api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#757",
+      "time": "2023-08-22T13:11:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/757",
+      "text": "[FEAT] added karma points to user ig edit api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#788",
+      "time": "2023-08-25T12:23:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/788",
+      "text": "[FIX] Interest group karma issue  fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#788",
+      "time": "2023-08-25T12:35:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/788",
+      "text": "[FIX] Interest group karma issue  fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#790",
+      "time": "2023-08-25T17:08:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/790",
+      "text": "[FEAT] added id on ig on profile api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#790",
+      "time": "2023-08-25T17:18:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/790",
+      "text": "[FEAT] added id on ig on profile api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#933",
+      "time": "2023-09-05T15:00:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/933",
+      "text": "[FIX] removed whitespace in email on register APIduring creating user"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#933",
+      "time": "2023-09-05T15:01:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/933",
+      "text": "[FIX] removed whitespace in email on register APIduring creating user"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1757",
+      "time": "2023-12-06T17:30:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1757",
+      "text": "[FIX] Fix counting issue in UrlAnalyticsAPI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1757",
+      "time": "2023-12-06T17:32:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1757",
+      "text": "[FIX] Fix counting issue in UrlAnalyticsAPI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1762",
+      "time": "2023-12-07T05:31:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1762",
+      "text": "[FEAT] Refactor URL analytics API to improve performance"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1762",
+      "time": "2023-12-07T05:51:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1762",
+      "text": "[FEAT] Refactor URL analytics API to improve performance"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1765",
+      "time": "2023-12-07T08:50:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1765",
+      "text": "[FIX] Add long and short URL to UrlAnalyticsAPI response"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1765",
+      "time": "2023-12-07T08:51:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1765",
+      "text": "[FIX] Add long and short URL to UrlAnalyticsAPI response"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1790",
+      "time": "2023-12-11T14:32:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1790",
+      "text": "[FEAT] Add IP address, city, and region tracking to URL analytics"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1790",
+      "time": "2023-12-11T14:35:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1790",
+      "text": "[FEAT] Add IP address, city, and region tracking to URL analytics"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1834",
+      "time": "2023-12-17T19:30:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1834",
+      "text": "[FEAT] Refactor user and profile serializers and models(change first_name and last_name to full_name)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1834",
+      "time": "2023-12-18T04:36:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1834",
+      "text": "[FEAT] Refactor user and profile serializers and models(change first_name and last_name to full_name)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1838",
+      "time": "2023-12-18T16:51:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1838",
+      "text": "[FIX] Fix variable name in CampusDetailsSerializer and import User in\u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1838",
+      "time": "2023-12-18T17:02:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1838",
+      "text": "[FIX] Fix variable name in CampusDetailsSerializer and import User in\u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1839",
+      "time": "2023-12-19T06:06:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1839",
+      "text": "[FIX] Fix variable naming and formatting issues(fullname to full_name)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1839",
+      "time": "2023-12-19T08:29:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1839",
+      "text": "[FIX] Fix variable naming and formatting issues(fullname to full_name)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1841",
+      "time": "2023-12-20T16:25:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1841",
+      "text": "[FEAT] Add MentorSerializer and UserMentor model"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1841",
+      "time": "2023-12-20T17:18:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1841",
+      "text": "[FEAT] Add MentorSerializer and UserMentor model"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1846",
+      "time": "2023-12-22T05:40:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1846",
+      "text": "[FEAT] Add area of interest field to UserSerializer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1846",
+      "time": "2023-12-22T17:35:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1846",
+      "text": "[FEAT] Add area of interest field to UserSerializer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#2",
+      "time": "2023-02-26T15:41:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/2",
+      "text": "develop:user-profile-and-onboarding-form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#2",
+      "time": "2023-02-27T05:01:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/2",
+      "text": "develop:user-profile-and-onboarding-form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#3",
+      "time": "2023-03-12T21:48:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/3",
+      "text": "dev:token-auth-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#4",
+      "time": "2023-03-12T21:49:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/4",
+      "text": "onboarding-form-completed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#4",
+      "time": "2023-03-12T22:57:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/4",
+      "text": "onboarding-form-completed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#5",
+      "time": "2023-03-14T19:06:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/5",
+      "text": "bug-fixex"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#5",
+      "time": "2023-03-14T19:07:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/5",
+      "text": "bug-fixex"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#6",
+      "time": "2023-03-15T17:59:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/6",
+      "text": "big-fix-and-added-new-success-page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#6",
+      "time": "2023-03-15T18:07:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/6",
+      "text": "big-fix-and-added-new-success-page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#7",
+      "time": "2023-03-15T19:50:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/7",
+      "text": "added-red-border-on-error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#7",
+      "time": "2023-03-15T19:51:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/7",
+      "text": "added-red-border-on-error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#8",
+      "time": "2023-03-16T05:27:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/8",
+      "text": "bug-fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#8",
+      "time": "2023-03-16T05:55:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/8",
+      "text": "bug-fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#9",
+      "time": "2023-03-16T11:11:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/9",
+      "text": "modifications in error "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#9",
+      "time": "2023-03-16T11:41:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/9",
+      "text": "modifications in error "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#10",
+      "time": "2023-03-16T14:24:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/10",
+      "text": "bug-fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#10",
+      "time": "2023-03-16T17:12:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/10",
+      "text": "bug-fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#11",
+      "time": "2023-03-17T04:43:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/11",
+      "text": "error-fix-same-email"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#12",
+      "time": "2023-03-26T18:43:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/12",
+      "text": "Dev:login-page-developed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#12",
+      "time": "2023-03-28T08:31:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/12",
+      "text": "Dev:login-page-developed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#13",
+      "time": "2023-04-07T11:25:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/13",
+      "text": "build question in onboarding"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#13",
+      "time": "2023-04-11T12:40:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/13",
+      "text": "build question in onboarding"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#14",
+      "time": "2023-04-13T19:13:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/14",
+      "text": "onboarding community field multiple select"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#14",
+      "time": "2023-04-14T17:01:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/14",
+      "text": "onboarding community field multiple select"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#15",
+      "time": "2023-04-14T18:57:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/15",
+      "text": "community select ui"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#15",
+      "time": "2023-04-15T07:07:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/15",
+      "text": "community select ui"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#16",
+      "time": "2023-04-15T10:05:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/16",
+      "text": "Community and orgnaziation list managemnet error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#16",
+      "time": "2023-04-15T10:08:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/16",
+      "text": "Community and orgnaziation list managemnet error fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#18",
+      "time": "2023-04-19T15:13:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/18",
+      "text": "added new loader,error fix in submit button,remove comunity required \u2026"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#18",
+      "time": "2023-04-19T16:01:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/18",
+      "text": "added new loader,error fix in submit button,remove comunity required \u2026"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#19",
+      "time": "2023-04-22T06:20:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/19",
+      "text": "phone filed requierd filed error fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnfrontend#20",
+      "time": "2023-04-22T06:28:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/20",
+      "text": "phone field error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnfrontend#20",
+      "time": "2023-04-22T06:31:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnfrontend/pull/20",
+      "text": "phone field error fix"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,78 @@
+{
+  "last_updated": "2024-07-14T17:37:41+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1170",
+      "time": "2024-07-14T17:37:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1170",
+      "text": "Updated ananthudevdv@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-07-11T09:47:35+00:00",
+      "title": "gtech-mulearn/mulearn#1588",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1588#pullrequestreview-2171439481",
+      "text": "bugfix - Fixed broken LinkedIn links of Execom Team"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1588",
+      "time": "2024-07-10T23:50:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1588",
+      "text": "bugfix - Fixed broken LinkedIn links of Execom Team"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1587",
+      "time": "2024-07-10T23:36:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1587",
+      "text": "bug fix - fixed broken linkedin link of Mr. Suhail VP Sir"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#953",
+      "time": "2024-06-30T17:15:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/953",
+      "text": "added more portfolio info for level 1 task 11 task",
+      "turnaround_time": 1127
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#953",
+      "time": "2024-06-30T16:56:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/953",
+      "text": "added more portfolio info for level 1 task 11 task"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#817",
+      "time": "2024-06-29T15:02:24+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/817",
+      "text": "ananthudevdv@mulearn",
+      "turnaround_time": 53
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#817",
+      "time": "2024-06-29T15:01:32+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/817",
+      "text": "ananthudevdv@mulearn"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1170",
+      "title": "Updated ananthudevdv@mulearn.md",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1588",
+      "title": "bugfix - Fixed broken LinkedIn links of Execom Team",
+      "stale_for": 3,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

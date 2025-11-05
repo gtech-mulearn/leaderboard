@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-03-11T10:21:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#24",
+      "time": "2024-03-11T10:21:21Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/24",
+      "text": "Update index.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#492",
+      "time": "2024-03-09T12:17:48Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/492",
+      "text": "Intro into Github Assignment Submission"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#492",
+      "time": "2024-03-09T16:40:21Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/492",
+      "text": "Intro into Github Assignment Submission"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

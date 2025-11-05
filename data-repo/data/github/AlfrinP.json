@@ -1,0 +1,96 @@
+{
+  "last_updated": "2024-07-07T05:04:14+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2150",
+      "time": "2024-07-07T05:04:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2150",
+      "text": "Dev server",
+      "collaborated_with": [
+        "SharonAliyas5573",
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2149",
+      "time": "2024-07-06T22:45:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2149",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2147",
+      "time": "2024-07-06T22:42:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2147",
+      "text": "feature: user org transfer api",
+      "turnaround_time": 12873
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2147",
+      "time": "2024-07-06T19:07:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2147",
+      "text": "feature: user org transfer api"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2144",
+      "time": "2024-07-06T14:09:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2144",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2121",
+      "time": "2024-07-05T11:17:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2121",
+      "text": "Dev server",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "ParthipPR"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2127",
+      "time": "2024-07-03T09:08:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2127",
+      "text": "Dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2126",
+      "time": "2024-07-03T09:08:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2126",
+      "text": "Fix retrieval of 'current_user' query parameter",
+      "turnaround_time": 2350
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2126",
+      "time": "2024-07-03T08:29:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2126",
+      "text": "Fix retrieval of 'current_user' query parameter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1963",
+      "time": "2024-05-19T07:21:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1963",
+      "text": "Intergrated TODO api"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-04-06T15:48:47+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#526",
+      "time": "2024-04-06T15:48:47+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/526",
+      "text": "merge my book app",
+      "turnaround_time": 82902
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#526",
+      "time": "2024-04-04T16:47:06+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/526",
+      "text": "merge my book app"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

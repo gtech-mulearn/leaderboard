@@ -1,0 +1,48 @@
+{
+  "last_updated": "2024-04-08T18:23:13+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#540",
+      "time": "2024-04-08T18:23:13+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/540",
+      "text": "Create create_book.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#539",
+      "time": "2024-04-08T18:22:37+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/539",
+      "text": "Feature"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#537",
+      "time": "2024-04-08T18:00:59+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/537",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#536",
+      "time": "2024-04-08T17:57:12+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/536",
+      "text": "Feature"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/540",
+      "title": "Create create_book.txt",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/539",
+      "title": "Feature",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

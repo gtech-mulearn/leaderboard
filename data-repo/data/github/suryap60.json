@@ -1,0 +1,44 @@
+{
+  "last_updated": "2024-06-12T14:53:05+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#513",
+      "time": "2024-06-12T14:53:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/513",
+      "text": "Add suryap@mulearn.md",
+      "turnaround_time": 26991
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#513",
+      "time": "2024-06-12T07:23:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/513",
+      "text": "Add suryap@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#512",
+      "time": "2024-06-12T07:14:11+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/512",
+      "text": "Add suryap@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#499",
+      "time": "2024-06-11T10:42:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/499",
+      "text": "Create suryap@mulearn.md",
+      "turnaround_time": 84356
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#499",
+      "time": "2024-06-10T11:16:23+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/499",
+      "text": "Create suryap@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

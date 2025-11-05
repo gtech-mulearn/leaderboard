@@ -1,0 +1,4089 @@
+{
+  "last_updated": "2024-04-20T17:20:49+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1915",
+      "time": "2024-04-20T17:20:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1915",
+      "text": "Dev server",
+      "collaborated_with": [
+        "anirudh-mk",
+        "adnankattekaden",
+        "Jenin82",
+        "jelanmathewjames",
+        "shaheenhyderk"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1892",
+      "time": "2024-04-17T14:05:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1892",
+      "text": "prod update coupon code",
+      "collaborated_with": [
+        "aswanthabam",
+        "anirudh-mk",
+        "shaheenhyderk",
+        "jelanmathewjames",
+        "d34d-5h07",
+        "adnankattekaden"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1090",
+      "time": "2024-04-13T06:47:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1090",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Jovit-Mathew236",
+        "viraka",
+        "SHABIN-K",
+        "notS0LD13R",
+        "AswinAsok"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#141",
+      "time": "2023-10-06T06:31:27Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/141",
+      "text": "muhammedzafarmm@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#141",
+      "time": "2023-10-06T10:58:07Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/141",
+      "text": "muhammedzafarmm@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1057",
+      "time": "2023-12-21T20:18:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1057",
+      "text": "[STYLE] Modify UI in referral dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1057",
+      "time": "2023-12-22T06:28:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1057",
+      "text": "[STYLE] Modify UI in referral dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1063",
+      "time": "2023-12-27T20:20:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1063",
+      "text": "[OPTIM, PATCH] Location dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1063",
+      "time": "2023-12-28T06:32:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1063",
+      "text": "[OPTIM, PATCH] Location dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#69",
+      "time": "2023-05-01T18:02:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/69",
+      "text": "First iteration #1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#69",
+      "time": "2023-05-01T18:09:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/69",
+      "text": "First iteration #1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#70",
+      "time": "2023-05-01T20:05:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/70",
+      "text": "First iteration #2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#70",
+      "time": "2023-05-02T15:12:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/70",
+      "text": "First iteration #2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#113",
+      "time": "2023-05-12T14:11:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/113",
+      "text": "[FEAT] Role & User"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#113",
+      "time": "2023-05-13T15:32:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/113",
+      "text": "[FEAT] Role & User"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#120",
+      "time": "2023-05-15T18:05:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/120",
+      "text": "[FEAT] Add filter, paginate (User)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#120",
+      "time": "2023-05-17T18:07:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/120",
+      "text": "[FEAT] Add filter, paginate (User)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#126",
+      "time": "2023-05-17T20:23:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/126",
+      "text": "[FEAT] Delete, edit, search"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#126",
+      "time": "2023-05-18T09:01:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/126",
+      "text": "[FEAT] Delete, edit, search"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#133",
+      "time": "2023-05-18T14:25:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/133",
+      "text": "[FEAT] Role API done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#133",
+      "time": "2023-05-18T14:31:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/133",
+      "text": "[FEAT] Role API done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#167",
+      "time": "2023-05-22T20:23:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/167",
+      "text": "[FEAT] List, edit roles"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#167",
+      "time": "2023-05-23T10:41:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/167",
+      "text": "[FEAT] List, edit roles"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#196",
+      "time": "2023-05-25T13:32:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/196",
+      "text": "[FEAT]! User Verification"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#200",
+      "time": "2023-05-25T18:48:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/200",
+      "text": "[MAJOR]! Lot of code changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#200",
+      "time": "2023-05-25T21:47:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/200",
+      "text": "[MAJOR]! Lot of code changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#221",
+      "time": "2023-06-01T17:16:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/221",
+      "text": "[PATCH] Roles"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#221",
+      "time": "2023-06-01T18:06:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/221",
+      "text": "[PATCH] Roles"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#222",
+      "time": "2023-06-03T15:47:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/222",
+      "text": "[FEAT]! Add Role CREATE,UPDATE,DELETE webhooks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#223",
+      "time": "2023-06-03T18:52:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/223",
+      "text": "[FEAT]! Add Role CREATE,UPDATE,DELETE webhooks; Campus, Students Zonal API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#223",
+      "time": "2023-06-03T21:25:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/223",
+      "text": "[FEAT]! Add Role CREATE,UPDATE,DELETE webhooks; Campus, Students Zonal API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#231",
+      "time": "2023-06-07T18:19:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/231",
+      "text": "[PATCH] Zonal Dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#231",
+      "time": "2023-06-10T06:24:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/231",
+      "text": "[PATCH] Zonal Dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#234",
+      "time": "2023-06-10T08:49:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/234",
+      "text": "[FEAT] District API done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#234",
+      "time": "2023-06-10T13:49:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/234",
+      "text": "[FEAT] District API done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#249",
+      "time": "2023-06-11T14:22:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/249",
+      "text": "[PATCH] Roles API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#249",
+      "time": "2023-06-11T18:18:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/249",
+      "text": "[PATCH] Roles API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#293",
+      "time": "2023-06-14T14:31:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/293",
+      "text": "[OPTIM] Zonal, District API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#293",
+      "time": "2023-06-14T14:55:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/293",
+      "text": "[OPTIM] Zonal, District API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#309",
+      "time": "2023-06-16T12:13:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/309",
+      "text": "[OPTIM] User management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#309",
+      "time": "2023-06-16T17:59:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/309",
+      "text": "[OPTIM] User management"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#320",
+      "time": "2023-06-18T13:48:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/320",
+      "text": "[FEAT] College, Company API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#320",
+      "time": "2023-06-18T17:57:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/320",
+      "text": "[FEAT] College, Company API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#325",
+      "time": "2023-06-20T19:59:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/325",
+      "text": "[FEAT] KKEM Authentication API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#325",
+      "time": "2023-06-25T06:04:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/325",
+      "text": "[FEAT] KKEM Authentication API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#349",
+      "time": "2023-06-25T18:00:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/349",
+      "text": "[OPTIM, FEAT] User dashboard query optimization, django toolbar"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#349",
+      "time": "2023-06-26T16:53:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/349",
+      "text": "[OPTIM, FEAT] User dashboard query optimization, django toolbar"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#356",
+      "time": "2023-06-28T19:38:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/356",
+      "text": "[FEAT, PATCH] KKEM authorization, Custom response fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#356",
+      "time": "2023-06-28T22:15:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/356",
+      "text": "[FEAT, PATCH] KKEM authorization, Custom response fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#393",
+      "time": "2023-07-02T06:43:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/393",
+      "text": "[PATCH] Authorization KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#393",
+      "time": "2023-07-02T07:19:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/393",
+      "text": "[PATCH] Authorization KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#398",
+      "time": "2023-07-02T20:09:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/398",
+      "text": "[PATCH] KKEM Authentication, User GET API's"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#398",
+      "time": "2023-07-03T14:05:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/398",
+      "text": "[PATCH] KKEM Authentication, User GET API's"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#403",
+      "time": "2023-07-04T12:10:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/403",
+      "text": "[PATCH] KKEM send mail"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#403",
+      "time": "2023-07-04T12:46:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/403",
+      "text": "[PATCH] KKEM send mail"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#404",
+      "time": "2023-07-04T13:42:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/404",
+      "text": "[TEST] KKEM authorization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#404",
+      "time": "2023-07-04T14:10:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/404",
+      "text": "[TEST] KKEM authorization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#405",
+      "time": "2023-07-04T14:50:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/405",
+      "text": "[TEST] KKEM Auth"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#405",
+      "time": "2023-07-04T14:50:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/405",
+      "text": "[TEST] KKEM Auth"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#407",
+      "time": "2023-07-04T15:08:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/407",
+      "text": "[TEST] KKEM Authorization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#407",
+      "time": "2023-07-04T15:09:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/407",
+      "text": "[TEST] KKEM Authorization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#409",
+      "time": "2023-07-04T15:16:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/409",
+      "text": "[PATCH] KKEM Authorization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#409",
+      "time": "2023-07-04T15:17:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/409",
+      "text": "[PATCH] KKEM Authorization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#411",
+      "time": "2023-07-04T15:22:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/411",
+      "text": "[PATCH] Minor url error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#411",
+      "time": "2023-07-04T15:23:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/411",
+      "text": "[PATCH] Minor url error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#423",
+      "time": "2023-07-12T20:26:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/423",
+      "text": "[FEAT, PATCH] User detail API, KKEM Authentication"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#423",
+      "time": "2023-07-12T20:35:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/423",
+      "text": "[FEAT, PATCH] User detail API, KKEM Authentication"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#425",
+      "time": "2023-07-12T20:54:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/425",
+      "text": "[PATCH] Use enums"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#425",
+      "time": "2023-07-12T20:56:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/425",
+      "text": "[PATCH] Use enums"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#432",
+      "time": "2023-07-15T16:15:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/432",
+      "text": "[FEAT] KKEM Authorization Patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#432",
+      "time": "2023-07-15T16:18:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/432",
+      "text": "[FEAT] KKEM Authorization Patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#449",
+      "time": "2023-07-18T00:52:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/449",
+      "text": "[FEAT, PATCH] User dashboard, KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#449",
+      "time": "2023-07-18T01:19:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/449",
+      "text": "[FEAT, PATCH] User dashboard, KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#454",
+      "time": "2023-07-18T02:13:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/454",
+      "text": "[PATCH] role required minor patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#454",
+      "time": "2023-07-18T02:15:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/454",
+      "text": "[PATCH] role required minor patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#460",
+      "time": "2023-07-18T08:06:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/460",
+      "text": "[PATCH] User profile total_karma issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#460",
+      "time": "2023-07-18T08:10:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/460",
+      "text": "[PATCH] User profile total_karma issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#461",
+      "time": "2023-07-18T09:26:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/461",
+      "text": "[FEAT] KKEM Login API done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#461",
+      "time": "2023-07-18T11:21:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/461",
+      "text": "[FEAT] KKEM Login API done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#464",
+      "time": "2023-07-18T12:43:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/464",
+      "text": "[TEST] User permissions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#464",
+      "time": "2023-07-18T12:44:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/464",
+      "text": "[TEST] User permissions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#478",
+      "time": "2023-07-20T20:11:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/478",
+      "text": "[PATCH] make dwms_id optional (kkem auth)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#478",
+      "time": "2023-07-21T08:09:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/478",
+      "text": "[PATCH] make dwms_id optional (kkem auth)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#485",
+      "time": "2023-07-21T18:17:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/485",
+      "text": "[PATCH] KKEM request body changes to accept email"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#485",
+      "time": "2023-07-21T18:18:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/485",
+      "text": "[PATCH] KKEM request body changes to accept email"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#492",
+      "time": "2023-07-22T09:25:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/492",
+      "text": "[PATCH] Minor change in KKEM get api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#492",
+      "time": "2023-07-22T10:15:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/492",
+      "text": "[PATCH] Minor change in KKEM get api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#497",
+      "time": "2023-07-22T15:46:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/497",
+      "text": "[PATCH] Removed comments"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#497",
+      "time": "2023-07-22T15:47:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/497",
+      "text": "[PATCH] Removed comments"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#499",
+      "time": "2023-07-22T15:56:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/499",
+      "text": "[PATCH] Minor kkem verification patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#499",
+      "time": "2023-07-22T15:58:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/499",
+      "text": "[PATCH] Minor kkem verification patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#556",
+      "time": "2023-07-27T19:43:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/556",
+      "text": "[FEAT, PATCH] Add user role link mail, KKEM register, and login with existing dwms link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#556",
+      "time": "2023-07-27T19:50:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/556",
+      "text": "[FEAT, PATCH] Add user role link mail, KKEM register, and login with existing dwms link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#558",
+      "time": "2023-07-27T20:07:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/558",
+      "text": "[PATCH] Register minor patch "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#558",
+      "time": "2023-07-27T20:15:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/558",
+      "text": "[PATCH] Register minor patch "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#565",
+      "time": "2023-07-28T10:30:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/565",
+      "text": "[PATCH] Register dwms error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#565",
+      "time": "2023-07-28T10:45:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/565",
+      "text": "[PATCH] Register dwms error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#568",
+      "time": "2023-07-28T11:17:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/568",
+      "text": "[FEAT] API Wrapper for KKEM "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#568",
+      "time": "2023-07-28T11:18:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/568",
+      "text": "[FEAT] API Wrapper for KKEM "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#570",
+      "time": "2023-07-28T11:24:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/570",
+      "text": "[STYLE] Mail minor modification"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#570",
+      "time": "2023-07-28T11:26:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/570",
+      "text": "[STYLE] Mail minor modification"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#581",
+      "time": "2023-07-29T11:40:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/581",
+      "text": "[FEAT, TEST] User role link webhook, KKEM register api commented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#581",
+      "time": "2023-07-29T11:41:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/581",
+      "text": "[FEAT, TEST] User role link webhook, KKEM register api commented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#599",
+      "time": "2023-07-30T07:48:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/599",
+      "text": "[FEAT] user self profile edit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#599",
+      "time": "2023-07-30T07:55:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/599",
+      "text": "[FEAT] user self profile edit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#601",
+      "time": "2023-07-30T09:23:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/601",
+      "text": "[PATCH] User profile api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#601",
+      "time": "2023-07-30T09:25:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/601",
+      "text": "[PATCH] User profile api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#604",
+      "time": "2023-07-30T13:59:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/604",
+      "text": "[PATCH] Email templates path fix "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#604",
+      "time": "2023-07-31T14:50:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/604",
+      "text": "[PATCH] Email templates path fix "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#609",
+      "time": "2023-08-01T19:15:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/609",
+      "text": "[TEST] Do not merge"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#616",
+      "time": "2023-08-03T18:46:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/616",
+      "text": "[PATCH] Major changes in KKEM and User role link "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#616",
+      "time": "2023-08-03T18:49:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/616",
+      "text": "[PATCH] Major changes in KKEM and User role link "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#620",
+      "time": "2023-08-04T12:46:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/620",
+      "text": "[PATCH] Merged role apis, moved dashboard helper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#620",
+      "time": "2023-08-04T13:05:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/620",
+      "text": "[PATCH] Merged role apis, moved dashboard helper"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#622",
+      "time": "2023-08-04T14:08:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/622",
+      "text": "[PATCH] Minor change in error msg"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#622",
+      "time": "2023-08-04T15:06:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/622",
+      "text": "[PATCH] Minor change in error msg"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#624",
+      "time": "2023-08-04T16:06:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/624",
+      "text": "[PATCH] Minor convert uuid to string"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#624",
+      "time": "2023-08-04T16:08:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/624",
+      "text": "[PATCH] Minor convert uuid to string"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#626",
+      "time": "2023-08-04T17:14:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/626",
+      "text": "[PATCH] Minor edit in user profile edit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#626",
+      "time": "2023-08-04T17:53:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/626",
+      "text": "[PATCH] Minor edit in user profile edit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#639",
+      "time": "2023-08-06T20:39:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/639",
+      "text": "[PATCH] User profile edit communities"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#639",
+      "time": "2023-08-07T09:29:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/639",
+      "text": "[PATCH] User profile edit communities"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#651",
+      "time": "2023-08-08T20:09:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/651",
+      "text": "[OPTIM, FEAT] Optimised a lot of stuff, added webhooks"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#651",
+      "time": "2023-08-08T20:58:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/651",
+      "text": "[OPTIM, FEAT] Optimised a lot of stuff, added webhooks"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#657",
+      "time": "2023-08-09T17:45:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/657",
+      "text": "[PATCH] User edit webhooks, profile role list"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#657",
+      "time": "2023-08-09T17:49:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/657",
+      "text": "[PATCH] User edit webhooks, profile role list"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#659",
+      "time": "2023-08-11T05:52:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/659",
+      "text": "[PATCH] Deleted users shown, user verification bug"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#659",
+      "time": "2023-08-11T06:02:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/659",
+      "text": "[PATCH] Deleted users shown, user verification bug"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#680",
+      "time": "2023-08-12T22:44:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/680",
+      "text": "[OPTIM] Updates in Referral, User edit, integration, templates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#680",
+      "time": "2023-08-12T22:48:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/680",
+      "text": "[OPTIM] Updates in Referral, User edit, integration, templates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#694",
+      "time": "2023-08-13T19:31:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/694",
+      "text": "[FEAT] Added jsid checks in KKEM, other patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#694",
+      "time": "2023-08-13T21:25:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/694",
+      "text": "[FEAT] Added jsid checks in KKEM, other patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#708",
+      "time": "2023-08-15T19:22:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/708",
+      "text": "[OPTIM, FEAT] Hack publish null check"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#708",
+      "time": "2023-08-15T19:26:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/708",
+      "text": "[OPTIM, FEAT] Hack publish null check"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#710",
+      "time": "2023-08-15T19:29:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/710",
+      "text": "[FEAT] Contact us in mail, Country API Done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#710",
+      "time": "2023-08-15T21:03:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/710",
+      "text": "[FEAT] Contact us in mail, Country API Done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#711",
+      "time": "2023-08-16T11:46:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/711",
+      "text": "[PATCH] KKEM Register invalid block"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#711",
+      "time": "2023-08-16T14:38:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/711",
+      "text": "[PATCH] KKEM Register invalid block"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#722",
+      "time": "2023-08-16T18:11:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/722",
+      "text": "[MINOR] Roleback changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#725",
+      "time": "2023-08-16T18:28:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/725",
+      "text": "Undo changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#737",
+      "time": "2023-08-17T13:19:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/737",
+      "text": "[MINOR] Send mail patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#737",
+      "time": "2023-08-17T14:34:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/737",
+      "text": "[MINOR] Send mail patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#746",
+      "time": "2023-08-18T15:27:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/746",
+      "text": "[PATCH] User csv download"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#746",
+      "time": "2023-08-18T15:53:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/746",
+      "text": "[PATCH] User csv download"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#750",
+      "time": "2023-08-18T16:28:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/750",
+      "text": "[OPTIM] Location API "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#750",
+      "time": "2023-08-18T17:28:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/750",
+      "text": "[OPTIM] Location API "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#751",
+      "time": "2023-08-18T17:55:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/751",
+      "text": "[STYLE] Templates updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#751",
+      "time": "2023-08-19T09:30:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/751",
+      "text": "[STYLE] Templates updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#761",
+      "time": "2023-08-22T18:47:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/761",
+      "text": "[PATCH] send mail fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#761",
+      "time": "2023-08-22T18:51:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/761",
+      "text": "[PATCH] send mail fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#773",
+      "time": "2023-08-23T15:45:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/773",
+      "text": "[OPTIM] College Weekly API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#773",
+      "time": "2023-08-23T15:50:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/773",
+      "text": "[OPTIM] College Weekly API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#778",
+      "time": "2023-08-23T16:53:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/778",
+      "text": "[PATCH] Referral listing patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#778",
+      "time": "2023-08-23T17:23:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/778",
+      "text": "[PATCH] Referral listing patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#780",
+      "time": "2023-08-23T17:39:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/780",
+      "text": "[PATCH] send mail attribute err patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#780",
+      "time": "2023-08-23T18:14:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/780",
+      "text": "[PATCH] send mail attribute err patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#782",
+      "time": "2023-08-23T18:27:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/782",
+      "text": "[STYLE] Mail blank space fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#782",
+      "time": "2023-08-23T18:31:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/782",
+      "text": "[STYLE] Mail blank space fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#783",
+      "time": "2023-08-23T19:08:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/783",
+      "text": "[STYLE] Several Mail Patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#783",
+      "time": "2023-08-23T19:09:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/783",
+      "text": "[STYLE] Several Mail Patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#816",
+      "time": "2023-08-29T15:08:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/816",
+      "text": "[OPTIM] User Role API edit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#816",
+      "time": "2023-08-29T15:15:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/816",
+      "text": "[OPTIM] User Role API edit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#818",
+      "time": "2023-08-29T16:50:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/818",
+      "text": "[OPTIM] Zonal API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#818",
+      "time": "2023-08-29T18:15:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/818",
+      "text": "[OPTIM] Zonal API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#841",
+      "time": "2023-08-30T20:09:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/841",
+      "text": "[OPTIM] Zonal student details #2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#841",
+      "time": "2023-08-30T20:12:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/841",
+      "text": "[OPTIM] Zonal student details #2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#843",
+      "time": "2023-08-30T21:07:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/843",
+      "text": "[PATCH] Minor patch in Zonal student level"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#843",
+      "time": "2023-08-30T21:09:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/843",
+      "text": "[PATCH] Minor patch in Zonal student level"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#845",
+      "time": "2023-08-31T06:48:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/845",
+      "text": "[PATCH] Location API endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#845",
+      "time": "2023-08-31T06:54:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/845",
+      "text": "[PATCH] Location API endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#846",
+      "time": "2023-08-31T07:00:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/846",
+      "text": "[PATCH] Organisation API endpoint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#846",
+      "time": "2023-08-31T07:01:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/846",
+      "text": "[PATCH] Organisation API endpoint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#854",
+      "time": "2023-08-31T13:21:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/854",
+      "text": "[FEAT] KKEM \u03bcLearn Register integration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#854",
+      "time": "2023-08-31T13:30:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/854",
+      "text": "[FEAT] KKEM \u03bcLearn Register integration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#856",
+      "time": "2023-08-31T13:48:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/856",
+      "text": "[PATCH] District API Patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#856",
+      "time": "2023-08-31T13:50:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/856",
+      "text": "[PATCH] District API Patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#858",
+      "time": "2023-08-31T15:05:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/858",
+      "text": "[OPTIM] Optimised Student Level api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#858",
+      "time": "2023-08-31T15:07:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/858",
+      "text": "[OPTIM] Optimised Student Level api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#860",
+      "time": "2023-08-31T16:07:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/860",
+      "text": "[PATCH] KKEM Validation comment"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#860",
+      "time": "2023-08-31T16:13:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/860",
+      "text": "[PATCH] KKEM Validation comment"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#882",
+      "time": "2023-09-01T19:05:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/882",
+      "text": "[PATCH] District API patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#882",
+      "time": "2023-09-01T19:06:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/882",
+      "text": "[PATCH] District API patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#883",
+      "time": "2023-09-01T19:07:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/883",
+      "text": "[PATCH] District API patches dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#883",
+      "time": "2023-09-01T19:07:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/883",
+      "text": "[PATCH] District API patches dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#884",
+      "time": "2023-09-01T19:20:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/884",
+      "text": "[PATCH] District dashboard student muid"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#884",
+      "time": "2023-09-01T19:20:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/884",
+      "text": "[PATCH] District dashboard student muid"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#885",
+      "time": "2023-09-01T19:23:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/885",
+      "text": "[PATCH] location API district"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#885",
+      "time": "2023-09-01T19:23:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/885",
+      "text": "[PATCH] location API district"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#886",
+      "time": "2023-09-01T19:23:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/886",
+      "text": "[PATCH] District dashboard student muid"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#886",
+      "time": "2023-09-01T19:23:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/886",
+      "text": "[PATCH] District dashboard student muid"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#898",
+      "time": "2023-09-03T12:12:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/898",
+      "text": "[PATCH] Zonal Dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#898",
+      "time": "2023-09-03T12:12:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/898",
+      "text": "[PATCH] Zonal Dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#899",
+      "time": "2023-09-03T12:13:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/899",
+      "text": "[PATCH] Minor updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#899",
+      "time": "2023-09-03T12:14:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/899",
+      "text": "[PATCH] Minor updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#900",
+      "time": "2023-09-03T12:18:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/900",
+      "text": "[PATCH] district dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#900",
+      "time": "2023-09-03T12:18:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/900",
+      "text": "[PATCH] district dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#901",
+      "time": "2023-09-03T12:20:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/901",
+      "text": "[PATCH] district dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#901",
+      "time": "2023-09-03T12:20:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/901",
+      "text": "[PATCH] district dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#903",
+      "time": "2023-09-03T17:31:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/903",
+      "text": "feat:(Zonal and District Apis):Role permission added to enabler"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#903",
+      "time": "2023-09-03T17:32:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/903",
+      "text": "feat:(Zonal and District Apis):Role permission added to enabler"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#919",
+      "time": "2023-09-04T18:25:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/919",
+      "text": "[PATCH] Mail ForgotPass, User management, Sort fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#919",
+      "time": "2023-09-04T18:27:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/919",
+      "text": "[PATCH] Mail ForgotPass, User management, Sort fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#920",
+      "time": "2023-09-04T18:28:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/920",
+      "text": "[PATCH] Mail ForgotPass, User management, Sort fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#920",
+      "time": "2023-09-04T18:28:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/920",
+      "text": "[PATCH] Mail ForgotPass, User management, Sort fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#941",
+      "time": "2023-09-05T20:03:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/941",
+      "text": "[FEAT] Add DWMS_ID to DB"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#941",
+      "time": "2023-09-05T20:04:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/941",
+      "text": "[FEAT] Add DWMS_ID to DB"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#942",
+      "time": "2023-09-05T20:05:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/942",
+      "text": "[FEAT] Add DWMS ID"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#942",
+      "time": "2023-09-05T20:05:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/942",
+      "text": "[FEAT] Add DWMS ID"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#948",
+      "time": "2023-09-06T14:36:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/948",
+      "text": "[PATCH] KKEM Minor Patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#948",
+      "time": "2023-09-06T14:36:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/948",
+      "text": "[PATCH] KKEM Minor Patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#949",
+      "time": "2023-09-06T14:37:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/949",
+      "text": "[PATCH] KKEM Minor Patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#949",
+      "time": "2023-09-06T14:37:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/949",
+      "text": "[PATCH] KKEM Minor Patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#950",
+      "time": "2023-09-06T16:35:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/950",
+      "text": "[FEAT] Standardised leaderboards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#950",
+      "time": "2023-09-06T16:35:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/950",
+      "text": "[FEAT] Standardised leaderboards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#951",
+      "time": "2023-09-06T16:36:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/951",
+      "text": "[FEAT] Standardised leaderboards"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#951",
+      "time": "2023-09-06T16:36:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/951",
+      "text": "[FEAT] Standardised leaderboards"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#952",
+      "time": "2023-09-06T16:46:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/952",
+      "text": "[FEAT] Add created date to url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#952",
+      "time": "2023-09-06T17:25:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/952",
+      "text": "[FEAT] Add created date to url"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#953",
+      "time": "2023-09-06T17:26:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/953",
+      "text": "[FEAT] Add created date to url"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#953",
+      "time": "2023-09-06T17:26:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/953",
+      "text": "[FEAT] Add created date to url"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#954",
+      "time": "2023-09-06T18:26:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/954",
+      "text": "[FEAT] Weekly karma update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#954",
+      "time": "2023-09-06T18:30:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/954",
+      "text": "[FEAT] Weekly karma update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#955",
+      "time": "2023-09-06T18:31:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/955",
+      "text": "[FEAT] Weekly karma update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#955",
+      "time": "2023-09-06T18:31:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/955",
+      "text": "[FEAT] Weekly karma update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#956",
+      "time": "2023-09-07T08:21:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/956",
+      "text": "[KKEM] jsid to int, add email"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#956",
+      "time": "2023-09-07T08:21:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/956",
+      "text": "[KKEM] jsid to int, add email"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#957",
+      "time": "2023-09-07T08:22:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/957",
+      "text": "[KKEM] jsid to int, add email"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#957",
+      "time": "2023-09-07T08:22:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/957",
+      "text": "[KKEM] jsid to int, add email"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#970",
+      "time": "2023-09-11T17:09:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/970",
+      "text": "[FEAT] Changes in Location API, User API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#970",
+      "time": "2023-09-11T17:10:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/970",
+      "text": "[FEAT] Changes in Location API, User API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#971",
+      "time": "2023-09-11T17:10:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/971",
+      "text": "[FEAT] Changes in Location API, User API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#971",
+      "time": "2023-09-11T17:11:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/971",
+      "text": "[FEAT] Changes in Location API, User API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#980",
+      "time": "2023-09-12T21:20:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/980",
+      "text": "[FEAT] Added decryption to KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#980",
+      "time": "2023-09-12T21:20:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/980",
+      "text": "[FEAT] Added decryption to KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#981",
+      "time": "2023-09-12T21:21:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/981",
+      "text": "[FEAT] Added decryption to KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#981",
+      "time": "2023-09-12T21:21:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/981",
+      "text": "[FEAT] Added decryption to KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#984",
+      "time": "2023-09-13T06:52:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/984",
+      "text": "[MINOR] Update in requirements.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#984",
+      "time": "2023-09-13T06:52:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/984",
+      "text": "[MINOR] Update in requirements.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#985",
+      "time": "2023-09-13T06:53:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/985",
+      "text": "[MINOR] Update in requirements.txt"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#985",
+      "time": "2023-09-13T06:53:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/985",
+      "text": "[MINOR] Update in requirements.txt"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#988",
+      "time": "2023-09-13T10:22:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/988",
+      "text": "[PATCH] Filter inactive users in user dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#988",
+      "time": "2023-09-13T10:22:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/988",
+      "text": "[PATCH] Filter inactive users in user dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#989",
+      "time": "2023-09-13T11:27:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/989",
+      "text": "[MERGE] Merge all to dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#989",
+      "time": "2023-09-13T11:27:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/989",
+      "text": "[MERGE] Merge all to dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#995",
+      "time": "2023-09-13T21:33:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/995",
+      "text": "[PATCH] Mobile unique & dept, grad constraint"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#995",
+      "time": "2023-09-13T21:34:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/995",
+      "text": "[PATCH] Mobile unique & dept, grad constraint"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#996",
+      "time": "2023-09-13T21:35:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/996",
+      "text": "[MERGE]  pushed to dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#996",
+      "time": "2023-09-13T21:35:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/996",
+      "text": "[MERGE]  pushed to dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1000",
+      "time": "2023-09-14T09:39:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1000",
+      "text": "[TEST] KKEM minor update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1000",
+      "time": "2023-09-14T09:39:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1000",
+      "text": "[TEST] KKEM minor update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1001",
+      "time": "2023-09-14T09:39:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1001",
+      "text": "[TEST] KKEM minor update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1001",
+      "time": "2023-09-14T09:39:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1001",
+      "text": "[TEST] KKEM minor update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1002",
+      "time": "2023-09-14T09:58:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1002",
+      "text": "[PATCH] Remove prior test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1002",
+      "time": "2023-09-14T09:58:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1002",
+      "text": "[PATCH] Remove prior test"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1003",
+      "time": "2023-09-14T09:59:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1003",
+      "text": "[MERGE] Merged to dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1003",
+      "time": "2023-09-14T09:59:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1003",
+      "text": "[MERGE] Merged to dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1004",
+      "time": "2023-09-14T13:52:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1004",
+      "text": "[PATCH] minor edit in KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1004",
+      "time": "2023-09-14T13:52:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1004",
+      "text": "[PATCH] minor edit in KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1005",
+      "time": "2023-09-14T13:52:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1005",
+      "text": "[MERGE] Merge to dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1005",
+      "time": "2023-09-14T13:53:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1005",
+      "text": "[MERGE] Merge to dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1006",
+      "time": "2023-09-14T14:03:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1006",
+      "text": "[PATCH] Minor KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1006",
+      "time": "2023-09-14T14:04:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1006",
+      "text": "[PATCH] Minor KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1007",
+      "time": "2023-09-14T14:04:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1007",
+      "text": "[MERGE] merge to dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1007",
+      "time": "2023-09-14T14:04:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1007",
+      "text": "[MERGE] merge to dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1013",
+      "time": "2023-09-15T18:21:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1013",
+      "text": "[PATCH] KKEM Minor patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1013",
+      "time": "2023-09-15T18:22:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1013",
+      "text": "[PATCH] KKEM Minor patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1014",
+      "time": "2023-09-15T18:23:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1014",
+      "text": "[PATCH] KKEM Minor patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1014",
+      "time": "2023-09-15T18:23:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1014",
+      "text": "[PATCH] KKEM Minor patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1016",
+      "time": "2023-09-15T22:34:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1016",
+      "text": "[OPTIM] KKEM user listing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1016",
+      "time": "2023-09-15T22:34:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1016",
+      "text": "[OPTIM] KKEM user listing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1017",
+      "time": "2023-09-15T22:35:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1017",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1019",
+      "time": "2023-09-16T06:58:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1019",
+      "text": "[MINOR] KKEM Style changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1019",
+      "time": "2023-09-16T06:58:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1019",
+      "text": "[MINOR] KKEM Style changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1020",
+      "time": "2023-09-16T06:59:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1020",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1021",
+      "time": "2023-09-16T07:04:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1021",
+      "text": "[CONFLICT] in KKEM views resolved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1021",
+      "time": "2023-09-16T07:04:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1021",
+      "text": "[CONFLICT] in KKEM views resolved"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1022",
+      "time": "2023-09-16T07:05:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1022",
+      "text": "[MERGE] merge into dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1022",
+      "time": "2023-09-16T07:05:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1022",
+      "text": "[MERGE] merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1025",
+      "time": "2023-09-16T08:02:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1025",
+      "text": "[FEAT] Send mail on KKEM confirmation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1025",
+      "time": "2023-09-16T08:02:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1025",
+      "text": "[FEAT] Send mail on KKEM confirmation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1026",
+      "time": "2023-09-16T08:03:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1026",
+      "text": "[FEAT] Send mail on KKEM confirmation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1026",
+      "time": "2023-09-16T08:03:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1026",
+      "text": "[FEAT] Send mail on KKEM confirmation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1036",
+      "time": "2023-09-16T20:03:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1036",
+      "text": "[FEAT] Mentor special warning in mail"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1036",
+      "time": "2023-09-16T20:04:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1036",
+      "text": "[FEAT] Mentor special warning in mail"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1037",
+      "time": "2023-09-16T20:04:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1037",
+      "text": "[FEAT] Mentor special warning in mail "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1037",
+      "time": "2023-09-16T20:04:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1037",
+      "text": "[FEAT] Mentor special warning in mail "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1038",
+      "time": "2023-09-17T05:31:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1038",
+      "text": "[PATCH] User registration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1038",
+      "time": "2023-09-17T05:31:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1038",
+      "text": "[PATCH] User registration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1039",
+      "time": "2023-09-17T05:33:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1039",
+      "text": "[PATCH] User registration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1039",
+      "time": "2023-09-17T05:34:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1039",
+      "text": "[PATCH] User registration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1046",
+      "time": "2023-09-18T06:58:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1046",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1046",
+      "time": "2023-09-18T06:58:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1046",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1052",
+      "time": "2023-09-19T20:08:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1052",
+      "text": "[OPTIM] KKEM user API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1052",
+      "time": "2023-09-19T20:09:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1052",
+      "text": "[OPTIM] KKEM user API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1053",
+      "time": "2023-09-19T20:09:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1053",
+      "text": "[MERGE] merge into dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1053",
+      "time": "2023-09-19T20:09:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1053",
+      "text": "[MERGE] merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1054",
+      "time": "2023-09-19T22:20:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1054",
+      "text": "[FEAT] KKEM and Register updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1054",
+      "time": "2023-09-19T22:20:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1054",
+      "text": "[FEAT] KKEM and Register updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1055",
+      "time": "2023-09-19T22:21:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1055",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1055",
+      "time": "2023-09-19T22:21:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1055",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1056",
+      "time": "2023-09-20T07:53:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1056",
+      "text": "[FEAT] New register API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1056",
+      "time": "2023-09-20T07:53:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1056",
+      "text": "[FEAT] New register API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1057",
+      "time": "2023-09-20T07:54:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1057",
+      "text": "[FEAT] New register API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1057",
+      "time": "2023-09-20T07:54:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1057",
+      "text": "[FEAT] New register API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1058",
+      "time": "2023-09-20T08:19:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1058",
+      "text": "[PATCH] Minor patch KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1058",
+      "time": "2023-09-20T08:21:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1058",
+      "text": "[PATCH] Minor patch KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1059",
+      "time": "2023-09-20T08:22:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1059",
+      "text": "[PATCH] Minor patch KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1059",
+      "time": "2023-09-20T08:22:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1059",
+      "text": "[PATCH] Minor patch KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1060",
+      "time": "2023-09-20T08:42:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1060",
+      "text": "[PATCH] KKEM minor patch #2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1060",
+      "time": "2023-09-20T08:42:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1060",
+      "text": "[PATCH] KKEM minor patch #2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1061",
+      "time": "2023-09-20T08:42:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1061",
+      "text": "[PATCH] KKEM minor patch #2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1061",
+      "time": "2023-09-20T08:43:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1061",
+      "text": "[PATCH] KKEM minor patch #2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1068",
+      "time": "2023-09-20T20:38:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1068",
+      "text": "[MINOR] KKEM success response patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1068",
+      "time": "2023-09-20T20:38:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1068",
+      "text": "[MINOR] KKEM success response patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1069",
+      "time": "2023-09-20T20:38:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1069",
+      "text": "[MINOR] KKEM success response patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1069",
+      "time": "2023-09-20T20:39:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1069",
+      "text": "[MINOR] KKEM success response patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1070",
+      "time": "2023-09-21T18:10:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1070",
+      "text": "[FEAT] Register Campus listing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1070",
+      "time": "2023-09-21T18:11:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1070",
+      "text": "[FEAT] Register Campus listing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1071",
+      "time": "2023-09-21T18:11:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1071",
+      "text": "[FEAT] Register Campus listing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1071",
+      "time": "2023-09-21T18:11:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1071",
+      "text": "[FEAT] Register Campus listing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1102",
+      "time": "2023-09-24T20:56:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1102",
+      "text": "[TEST] On-boarding bug"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1102",
+      "time": "2023-09-24T20:56:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1102",
+      "text": "[TEST] On-boarding bug"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1103",
+      "time": "2023-09-24T20:56:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1103",
+      "text": "[TEST] On-boarding bug (#1102)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1103",
+      "time": "2023-09-24T20:56:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1103",
+      "text": "[TEST] On-boarding bug (#1102)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1106",
+      "time": "2023-09-25T21:43:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1106",
+      "text": "[OPTIM] Register optimisations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1106",
+      "time": "2023-09-25T21:44:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1106",
+      "text": "[OPTIM] Register optimisations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1107",
+      "time": "2023-09-25T21:44:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1107",
+      "text": "[OPTIM] Register optimisations"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1107",
+      "time": "2023-09-25T21:44:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1107",
+      "text": "[OPTIM] Register optimisations"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1110",
+      "time": "2023-09-26T19:38:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1110",
+      "text": "[MINOR] Patch in onboarding"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1110",
+      "time": "2023-09-26T19:38:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1110",
+      "text": "[MINOR] Patch in onboarding"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1111",
+      "time": "2023-09-26T19:39:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1111",
+      "text": "[MINOR] Patch in onboarding"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1111",
+      "time": "2023-09-26T19:39:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1111",
+      "text": "[MINOR] Patch in onboarding"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1112",
+      "time": "2023-09-26T21:12:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1112",
+      "text": "[FEAT] More register updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1112",
+      "time": "2023-09-26T21:13:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1112",
+      "text": "[FEAT] More register updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1113",
+      "time": "2023-09-26T21:13:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1113",
+      "text": "[FEAT] More register updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1113",
+      "time": "2023-09-26T21:13:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1113",
+      "text": "[FEAT] More register updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1118",
+      "time": "2023-09-27T15:45:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1118",
+      "text": "[FEAT] Final register payload update #3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1118",
+      "time": "2023-09-27T15:46:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1118",
+      "text": "[FEAT] Final register payload update #3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1119",
+      "time": "2023-09-27T15:46:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1119",
+      "text": "[FEAT] Final register payload update #3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1119",
+      "time": "2023-09-27T15:46:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1119",
+      "text": "[FEAT] Final register payload update #3"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1122",
+      "time": "2023-09-28T00:19:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1122",
+      "text": "[FEAT] support for none keys"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1122",
+      "time": "2023-09-28T00:20:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1122",
+      "text": "[FEAT] support for none keys"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1123",
+      "time": "2023-09-28T00:21:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1123",
+      "text": "[FEAT] support for none keys (#1122)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1123",
+      "time": "2023-09-28T00:21:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1123",
+      "text": "[FEAT] support for none keys (#1122)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1155",
+      "time": "2023-10-01T10:34:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1155",
+      "text": "[PATCH] student leaderboard only students"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1155",
+      "time": "2023-10-01T10:35:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1155",
+      "text": "[PATCH] student leaderboard only students"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1156",
+      "time": "2023-10-01T10:35:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1156",
+      "text": "[PATCH] student leaderboard only students"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1156",
+      "time": "2023-10-01T10:35:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1156",
+      "text": "[PATCH] student leaderboard only students"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1157",
+      "time": "2023-10-01T12:15:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1157",
+      "text": "[FEAT] Leaderboard patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1157",
+      "time": "2023-10-01T12:15:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1157",
+      "text": "[FEAT] Leaderboard patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1158",
+      "time": "2023-10-01T12:16:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1158",
+      "text": "[FEAT] Leaderboard patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1158",
+      "time": "2023-10-01T12:16:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1158",
+      "text": "[FEAT] Leaderboard patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1165",
+      "time": "2023-10-03T19:23:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1165",
+      "text": "[OPTIM, FEAT] Colleges, IG, new validate payload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1165",
+      "time": "2023-10-03T19:30:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1165",
+      "text": "[OPTIM, FEAT] Colleges, IG, new validate payload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1166",
+      "time": "2023-10-03T19:31:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1166",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1166",
+      "time": "2023-10-03T19:31:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1166",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1176",
+      "time": "2023-10-04T19:02:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1176",
+      "text": "[FEAT] Task dashboard optimisation, restructure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1176",
+      "time": "2023-10-04T19:06:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1176",
+      "text": "[FEAT] Task dashboard optimisation, restructure"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1177",
+      "time": "2023-10-04T19:07:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1177",
+      "text": "[FEAT] Task dashboard optimisation, restructure"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1177",
+      "time": "2023-10-04T19:07:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1177",
+      "text": "[FEAT] Task dashboard optimisation, restructure"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1178",
+      "time": "2023-10-04T19:14:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1178",
+      "text": "[PATCH] Task patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1178",
+      "time": "2023-10-04T19:17:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1178",
+      "text": "[PATCH] Task patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1179",
+      "time": "2023-10-04T19:18:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1179",
+      "text": "[FEAT] Task dashboard optimisation, restructure #2"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1179",
+      "time": "2023-10-04T19:18:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1179",
+      "text": "[FEAT] Task dashboard optimisation, restructure #2"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1183",
+      "time": "2023-10-05T18:58:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1183",
+      "text": "[FEAT] Task management more patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1183",
+      "time": "2023-10-05T18:58:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1183",
+      "text": "[FEAT] Task management more patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1184",
+      "time": "2023-10-05T18:59:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1184",
+      "text": "[FEAT] Task management patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1184",
+      "time": "2023-10-05T18:59:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1184",
+      "text": "[FEAT] Task management patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1254",
+      "time": "2023-10-07T15:06:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1254",
+      "text": "[STYLE] muid to mu_id"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1254",
+      "time": "2023-10-07T15:06:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1254",
+      "text": "[STYLE] muid to mu_id"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1255",
+      "time": "2023-10-07T15:10:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1255",
+      "text": "[STYLE] muid to mu_id"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1255",
+      "time": "2023-10-07T15:10:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1255",
+      "text": "[STYLE] muid to mu_id"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1260",
+      "time": "2023-10-07T17:47:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1260",
+      "text": "[FEAT] Discord ID Edit in user management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1260",
+      "time": "2023-10-07T17:52:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1260",
+      "text": "[FEAT] Discord ID Edit in user management"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1261",
+      "time": "2023-10-07T17:53:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1261",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1261",
+      "time": "2023-10-07T17:54:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1261",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1264",
+      "time": "2023-10-08T08:15:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1264",
+      "text": "[OPTIM] User profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1264",
+      "time": "2023-10-08T08:15:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1264",
+      "text": "[OPTIM] User profile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1265",
+      "time": "2023-10-08T08:15:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1265",
+      "text": "[OPTIM] User profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1265",
+      "time": "2023-10-08T08:15:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1265",
+      "text": "[OPTIM] User profile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1266",
+      "time": "2023-10-08T08:28:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1266",
+      "text": "[FEAT] Minor test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1266",
+      "time": "2023-10-08T08:28:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1266",
+      "text": "[FEAT] Minor test"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1267",
+      "time": "2023-10-08T08:28:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1267",
+      "text": "[FEAT] Minor test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1267",
+      "time": "2023-10-08T08:29:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1267",
+      "text": "[FEAT] Minor test"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1268",
+      "time": "2023-10-08T08:35:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1268",
+      "text": "[PATCH] college, district & zonal patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1268",
+      "time": "2023-10-08T08:35:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1268",
+      "text": "[PATCH] college, district & zonal patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1269",
+      "time": "2023-10-08T08:35:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1269",
+      "text": "[PATCH] college, district & zonal patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1269",
+      "time": "2023-10-08T08:40:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1269",
+      "text": "[PATCH] college, district & zonal patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1270",
+      "time": "2023-10-08T08:39:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1270",
+      "text": "[MERGE] resolve conflicts"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1270",
+      "time": "2023-10-08T08:39:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1270",
+      "text": "[MERGE] resolve conflicts"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1281",
+      "time": "2023-10-09T17:31:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1281",
+      "text": "[PATCH] KKEM mu_id to muid"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1281",
+      "time": "2023-10-09T17:34:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1281",
+      "text": "[PATCH] KKEM mu_id to muid"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1324",
+      "time": "2023-10-15T20:26:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1324",
+      "text": "[FEAT] User role verification CSV"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1324",
+      "time": "2023-10-15T20:26:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1324",
+      "text": "[FEAT] User role verification CSV"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1325",
+      "time": "2023-10-15T20:27:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1325",
+      "text": "[FEAT] User role verification CSV"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1325",
+      "time": "2023-10-15T20:27:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1325",
+      "text": "[FEAT] User role verification CSV"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1335",
+      "time": "2023-10-16T15:34:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1335",
+      "text": "[PATCH] User edit GET"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1335",
+      "time": "2023-10-16T15:44:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1335",
+      "text": "[PATCH] User edit GET"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1337",
+      "time": "2023-10-16T15:45:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1337",
+      "text": "[PATCH] User edit GET"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1337",
+      "time": "2023-10-16T15:45:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1337",
+      "text": "[PATCH] User edit GET"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1348",
+      "time": "2023-10-17T16:30:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1348",
+      "text": "[OPTIM] Leaderboard patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1348",
+      "time": "2023-10-17T16:31:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1348",
+      "text": "[OPTIM] Leaderboard patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1349",
+      "time": "2023-10-17T16:31:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1349",
+      "text": "[OPTIM] Leaderboard patches (#1348)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1349",
+      "time": "2023-10-17T16:31:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1349",
+      "text": "[OPTIM] Leaderboard patches (#1348)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1350",
+      "time": "2023-10-17T16:55:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1350",
+      "text": "[PATCH] User EDIT dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1350",
+      "time": "2023-10-17T16:55:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1350",
+      "text": "[PATCH] User EDIT dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1351",
+      "time": "2023-10-17T16:55:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1351",
+      "text": "[PATCH] User EDIT dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1351",
+      "time": "2023-10-17T16:56:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1351",
+      "text": "[PATCH] User EDIT dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1377",
+      "time": "2023-10-19T14:16:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1377",
+      "text": "[MAJOR] Created a system to handle all unhandled exceptions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1377",
+      "time": "2023-10-19T14:17:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1377",
+      "text": "[MAJOR] Created a system to handle all unhandled exceptions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1378",
+      "time": "2023-10-19T14:19:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1378",
+      "text": "[MAJOR] Created a system to handle all unhandled exceptions"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1378",
+      "time": "2023-10-19T14:19:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1378",
+      "text": "[MAJOR] Created a system to handle all unhandled exceptions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1385",
+      "time": "2023-10-21T16:48:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1385",
+      "text": "[FEAT] Configure CustomException Error handling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1385",
+      "time": "2023-10-21T16:48:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1385",
+      "text": "[FEAT] Configure CustomException Error handling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1386",
+      "time": "2023-10-21T16:48:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1386",
+      "text": "[FEAT] Configure CustomException Error handling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1386",
+      "time": "2023-10-21T16:49:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1386",
+      "text": "[FEAT] Configure CustomException Error handling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1387",
+      "time": "2023-10-22T08:52:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1387",
+      "text": "[PATCH] Log non-JSON data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1387",
+      "time": "2023-10-22T08:52:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1387",
+      "text": "[PATCH] Log non-JSON data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1388",
+      "time": "2023-10-22T08:53:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1388",
+      "text": "[PATCH] Log non-JSON data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1388",
+      "time": "2023-10-22T08:53:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1388",
+      "text": "[PATCH] Log non-JSON data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1397",
+      "time": "2023-10-22T15:32:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1397",
+      "text": "[PATCH] Minor patch in middlewares"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1397",
+      "time": "2023-10-22T15:33:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1397",
+      "text": "[PATCH] Minor patch in middlewares"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1398",
+      "time": "2023-10-22T15:33:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1398",
+      "text": "[PATCH] Minor patch in middlewares"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1398",
+      "time": "2023-10-22T15:34:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1398",
+      "text": "[PATCH] Minor patch in middlewares"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1400",
+      "time": "2023-10-22T17:01:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1400",
+      "text": "[PATCH] Minor patch in onboarding"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1400",
+      "time": "2023-10-22T17:06:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1400",
+      "text": "[PATCH] Minor patch in onboarding"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1401",
+      "time": "2023-10-22T17:02:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1401",
+      "text": "[PATCH] Minor patch in onboarding"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1401",
+      "time": "2023-10-22T17:06:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1401",
+      "text": "[PATCH] Minor patch in onboarding"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1402",
+      "time": "2023-10-22T17:17:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1402",
+      "text": "[FEAT] User registration updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1402",
+      "time": "2023-10-22T17:18:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1402",
+      "text": "[FEAT] User registration updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1403",
+      "time": "2023-10-22T17:18:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1403",
+      "text": "[FEAT] User registration update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1403",
+      "time": "2023-10-22T17:18:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1403",
+      "text": "[FEAT] User registration update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1407",
+      "time": "2023-10-23T08:45:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1407",
+      "text": "[STYLE] Styled db files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1407",
+      "time": "2023-10-23T08:45:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1407",
+      "text": "[STYLE] Styled db files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1408",
+      "time": "2023-10-23T08:45:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1408",
+      "text": "[STYLE] Styled db files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1408",
+      "time": "2023-10-23T08:46:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1408",
+      "text": "[STYLE] Styled db files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1409",
+      "time": "2023-10-23T09:53:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1409",
+      "text": "[STYLE, PATCH] Interest Group Patch, DB style"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1409",
+      "time": "2023-10-23T09:54:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1409",
+      "text": "[STYLE, PATCH] Interest Group Patch, DB style"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1410",
+      "time": "2023-10-23T09:54:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1410",
+      "text": "[STYLE, PATCH] Interest Group Patch, DB style"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1410",
+      "time": "2023-10-23T09:54:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1410",
+      "text": "[STYLE, PATCH] Interest Group Patch, DB style"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1433",
+      "time": "2023-10-27T15:44:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1433",
+      "text": "[PATCH] Remove unnecessary verified"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1433",
+      "time": "2023-10-27T15:44:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1433",
+      "text": "[PATCH] Remove unnecessary verified"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1434",
+      "time": "2023-10-27T15:45:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1434",
+      "text": "[PATCH] Remove unnecessary `verified` (#1433)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1434",
+      "time": "2023-10-27T15:45:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1434",
+      "text": "[PATCH] Remove unnecessary `verified` (#1433)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1444",
+      "time": "2023-10-29T07:53:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1444",
+      "text": "[FEAT] Location Searching"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1444",
+      "time": "2023-10-29T07:53:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1444",
+      "text": "[FEAT] Location Searching"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1445",
+      "time": "2023-10-29T07:54:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1445",
+      "text": "[FEAT] Location Searching"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1445",
+      "time": "2023-10-29T07:54:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1445",
+      "text": "[FEAT] Location Searching"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1446",
+      "time": "2023-10-29T08:17:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1446",
+      "text": "[PATCH, OPTIM] Location Searching remove zone"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1446",
+      "time": "2023-10-29T08:17:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1446",
+      "text": "[PATCH, OPTIM] Location Searching remove zone"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1447",
+      "time": "2023-10-29T08:17:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1447",
+      "text": "[PATCH, OPTIM] Location Searching remove zone"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1447",
+      "time": "2023-10-29T08:17:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1447",
+      "text": "[PATCH, OPTIM] Location Searching remove zone"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1448",
+      "time": "2023-10-29T08:53:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1448",
+      "text": "[FEAT] Save user location"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1448",
+      "time": "2023-10-29T08:53:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1448",
+      "text": "[FEAT] Save user location"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1449",
+      "time": "2023-10-29T08:54:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1449",
+      "text": "[FEAT] Save user location"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1449",
+      "time": "2023-10-29T08:54:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1449",
+      "text": "[FEAT] Save user location"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1456",
+      "time": "2023-10-29T15:44:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1456",
+      "text": "[STYLE] DB remove pycharm formatting"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1456",
+      "time": "2023-10-29T15:44:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1456",
+      "text": "[STYLE] DB remove pycharm formatting"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1457",
+      "time": "2023-10-29T15:46:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1457",
+      "text": "[MINOR] Patch in dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1457",
+      "time": "2023-10-29T15:47:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1457",
+      "text": "[MINOR] Patch in dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1458",
+      "time": "2023-10-29T15:46:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1458",
+      "text": "[MINOR] Patch in dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1458",
+      "time": "2023-10-29T15:47:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1458",
+      "text": "[MINOR] Patch in dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1483",
+      "time": "2023-10-30T17:45:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1483",
+      "text": "[PATCH] Sorting not working"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1483",
+      "time": "2023-10-31T09:07:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1483",
+      "text": "[PATCH] Sorting not working"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1497",
+      "time": "2023-11-01T16:07:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1497",
+      "text": "[FEAT] Org to Org link iteration #1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1497",
+      "time": "2023-11-01T16:09:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1497",
+      "text": "[FEAT] Org to Org link iteration #1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1498",
+      "time": "2023-11-01T16:09:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1498",
+      "text": "[FEAT] Org to Org link iteration #1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1498",
+      "time": "2023-11-01T16:09:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1498",
+      "text": "[FEAT] Org to Org link iteration #1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1510",
+      "time": "2023-11-03T19:21:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1510",
+      "text": "[PATCH] Make org merge admin only"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1510",
+      "time": "2023-11-03T19:21:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1510",
+      "text": "[PATCH] Make org merge admin only"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1511",
+      "time": "2023-11-03T19:21:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1511",
+      "text": "[PATCH] Make org merge admin only"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1511",
+      "time": "2023-11-03T19:21:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1511",
+      "text": "[PATCH] Make org merge admin only"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1512",
+      "time": "2023-11-03T20:41:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1512",
+      "text": "[FEAT] Do iteration #2 org to org link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1512",
+      "time": "2023-11-03T20:42:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1512",
+      "text": "[FEAT] Do iteration #2 org to org link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1513",
+      "time": "2023-11-03T20:42:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1513",
+      "text": "[FEAT] Do iteration #2 org to org link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1513",
+      "time": "2023-11-03T20:43:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1513",
+      "text": "[FEAT] Do iteration #2 org to org link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1528",
+      "time": "2023-11-06T09:14:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1528",
+      "text": "[FEAT] user deletion start"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1528",
+      "time": "2023-11-06T09:15:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1528",
+      "text": "[FEAT] user deletion start"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1529",
+      "time": "2023-11-06T09:15:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1529",
+      "text": "[FEAT] user deletion init"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1529",
+      "time": "2023-11-06T09:15:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1529",
+      "text": "[FEAT] user deletion init"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1530",
+      "time": "2023-11-06T09:28:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1530",
+      "text": "[FEAT] Remove active column"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1530",
+      "time": "2023-11-06T09:28:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1530",
+      "text": "[FEAT] Remove active column"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1531",
+      "time": "2023-11-06T09:29:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1531",
+      "text": "[FEAT] Remove active column"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1531",
+      "time": "2023-11-06T09:29:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1531",
+      "text": "[FEAT] Remove active column"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1532",
+      "time": "2023-11-06T10:17:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1532",
+      "text": "[FEAT] Add user manager"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1532",
+      "time": "2023-11-06T10:17:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1532",
+      "text": "[FEAT] Add user manager"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1533",
+      "time": "2023-11-06T10:18:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1533",
+      "text": "[FEAT] Add user manager"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1533",
+      "time": "2023-11-06T10:18:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1533",
+      "text": "[FEAT] Add user manager"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1537",
+      "time": "2023-11-06T19:11:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1537",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1537",
+      "time": "2023-11-06T19:11:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1537",
+      "text": "[MERGE] Merge into dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1538",
+      "time": "2023-11-06T19:14:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1538",
+      "text": "[DELETE] Unecessary files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1538",
+      "time": "2023-11-06T19:14:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1538",
+      "text": "[DELETE] Unecessary files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1539",
+      "time": "2023-11-06T19:15:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1539",
+      "text": "[DELETE] Unecessary files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1539",
+      "time": "2023-11-06T19:15:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1539",
+      "text": "[DELETE] Unecessary files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1541",
+      "time": "2023-11-07T05:03:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1541",
+      "text": "[PATCH] Remove more instances of user active"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1541",
+      "time": "2023-11-07T05:03:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1541",
+      "text": "[PATCH] Remove more instances of user active"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1542",
+      "time": "2023-11-07T05:03:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1542",
+      "text": "[PATCH] Remove more instances of user active"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1542",
+      "time": "2023-11-07T05:04:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1542",
+      "text": "[PATCH] Remove more instances of user active"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1635",
+      "time": "2023-11-29T18:27:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1635",
+      "text": "[FEAT] Delete user profile from account"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1635",
+      "time": "2023-11-29T18:27:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1635",
+      "text": "[FEAT] Delete user profile from account"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1636",
+      "time": "2023-11-29T18:28:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1636",
+      "text": "[FEAT] Delete user profile from account"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1636",
+      "time": "2023-11-29T19:07:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1636",
+      "text": "[FEAT] Delete user profile from account"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1646",
+      "time": "2023-11-30T14:47:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1646",
+      "text": "[FEAT] Discord like role management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1646",
+      "time": "2023-11-30T15:44:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1646",
+      "text": "[FEAT] Discord like role management"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1648",
+      "time": "2023-11-30T15:45:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1648",
+      "text": "[FEAT] Discord like role management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1648",
+      "time": "2023-11-30T15:45:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1648",
+      "text": "[FEAT] Discord like role management"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1709",
+      "time": "2023-12-02T23:20:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1709",
+      "text": "[FEAT] error log dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1709",
+      "time": "2023-12-02T23:21:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1709",
+      "text": "[FEAT] error log dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1710",
+      "time": "2023-12-02T23:21:16Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1710",
+      "text": "[FEAT] error log dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1710",
+      "time": "2023-12-02T23:21:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1710",
+      "text": "[FEAT] error log dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1711",
+      "time": "2023-12-02T23:43:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1711",
+      "text": "[PATCH] Error handling in KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1711",
+      "time": "2023-12-02T23:44:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1711",
+      "text": "[PATCH] Error handling in KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1712",
+      "time": "2023-12-02T23:44:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1712",
+      "text": "[PATCH] Error handling in KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1712",
+      "time": "2023-12-02T23:44:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1712",
+      "text": "[PATCH] Error handling in KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1713",
+      "time": "2023-12-03T09:51:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1713",
+      "text": "[DOC] Documented log dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1713",
+      "time": "2023-12-03T09:51:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1713",
+      "text": "[DOC] Documented log dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1714",
+      "time": "2023-12-03T09:52:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1714",
+      "text": "[DOC] Documented log dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1714",
+      "time": "2023-12-03T09:52:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1714",
+      "text": "[DOC] Documented log dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1715",
+      "time": "2023-12-03T09:59:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1715",
+      "text": "[FEAT] Minor patch in error log"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1715",
+      "time": "2023-12-03T09:59:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1715",
+      "text": "[FEAT] Minor patch in error log"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1716",
+      "time": "2023-12-03T10:00:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1716",
+      "text": "[FEAT] Minor patch in error log"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1716",
+      "time": "2023-12-03T10:00:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1716",
+      "text": "[FEAT] Minor patch in error log"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1799",
+      "time": "2023-12-12T09:33:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1799",
+      "text": "[FEAT] User deletion updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1799",
+      "time": "2023-12-12T11:31:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1799",
+      "text": "[FEAT] User deletion updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1800",
+      "time": "2023-12-12T11:35:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1800",
+      "text": "[FEAT] User delete, bulk role, error log"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1800",
+      "time": "2023-12-12T11:35:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1800",
+      "text": "[FEAT] User delete, bulk role, error log"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1801",
+      "time": "2023-12-12T11:35:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1801",
+      "text": "[FEAT] User delete, bulk role, error log"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1801",
+      "time": "2023-12-12T11:35:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1801",
+      "text": "[FEAT] User delete, bulk role, error log"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1804",
+      "time": "2023-12-12T15:28:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1804",
+      "text": "[PATCH] user muid edit bug"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1804",
+      "time": "2023-12-12T15:28:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1804",
+      "text": "[PATCH] user muid edit bug"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1805",
+      "time": "2023-12-12T15:28:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1805",
+      "text": "[PATCH] user muid edit bug"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1805",
+      "time": "2023-12-12T15:28:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1805",
+      "text": "[PATCH] user muid edit bug"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1818",
+      "time": "2023-12-13T18:11:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1818",
+      "text": "[PATCH] Some minor patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1818",
+      "time": "2023-12-13T18:11:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1818",
+      "text": "[PATCH] Some minor patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1819",
+      "time": "2023-12-13T18:12:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1819",
+      "text": "[PATCH] Some minor patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1819",
+      "time": "2023-12-13T18:12:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1819",
+      "text": "[PATCH] Some minor patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1820",
+      "time": "2023-12-13T19:16:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1820",
+      "text": "[PATCH] Minor patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1820",
+      "time": "2023-12-13T19:16:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1820",
+      "text": "[PATCH] Minor patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1821",
+      "time": "2023-12-13T19:16:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1821",
+      "text": "[PATCH] Minor patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1821",
+      "time": "2023-12-13T19:17:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1821",
+      "text": "[PATCH] Minor patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1832",
+      "time": "2023-12-16T18:16:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1832",
+      "text": "[PATCH] user delete patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1832",
+      "time": "2023-12-16T18:16:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1832",
+      "text": "[PATCH] user delete patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1833",
+      "time": "2023-12-16T18:17:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1833",
+      "text": "[PATCH] user delete patch"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1833",
+      "time": "2023-12-16T18:17:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1833",
+      "text": "[PATCH] user delete patch"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1855",
+      "time": "2023-12-26T19:45:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1855",
+      "text": "[FEAT] Bulk role API updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1855",
+      "time": "2023-12-26T19:46:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1855",
+      "text": "[FEAT] Bulk role API updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1856",
+      "time": "2023-12-26T19:46:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1856",
+      "text": "[FEAT] Bulk role API updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1856",
+      "time": "2023-12-26T19:46:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1856",
+      "text": "[FEAT] Bulk role API updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1857",
+      "time": "2023-12-26T20:02:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1857",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1857",
+      "time": "2023-12-26T20:02:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1857",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1858",
+      "time": "2023-12-26T20:03:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1858",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1858",
+      "time": "2023-12-26T20:03:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1858",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1862",
+      "time": "2023-12-27T17:48:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1862",
+      "text": "[MINOR] Location dashboard minor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1862",
+      "time": "2023-12-27T17:48:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1862",
+      "text": "[MINOR] Location dashboard minor"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1863",
+      "time": "2023-12-27T17:49:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1863",
+      "text": "[MINOR] Location dashboard minor"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1863",
+      "time": "2023-12-27T17:49:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1863",
+      "text": "[MINOR] Location dashboard minor"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1864",
+      "time": "2023-12-27T18:25:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1864",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1864",
+      "time": "2023-12-27T18:25:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1864",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1865",
+      "time": "2023-12-27T18:25:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1865",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1865",
+      "time": "2023-12-27T18:25:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1865",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1866",
+      "time": "2023-12-27T19:08:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1866",
+      "text": "[MINOR] Location dashboard patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1866",
+      "time": "2023-12-27T19:08:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1866",
+      "text": "[MINOR] Location dashboard patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1867",
+      "time": "2023-12-27T19:09:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1867",
+      "text": "[MINOR] Location dashboard patches"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1867",
+      "time": "2023-12-27T19:09:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1867",
+      "text": "[MINOR] Location dashboard patches"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1868",
+      "time": "2023-12-27T19:20:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1868",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1868",
+      "time": "2023-12-27T19:20:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1868",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1869",
+      "time": "2023-12-27T19:20:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1869",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1869",
+      "time": "2023-12-27T19:21:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1869",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1870",
+      "time": "2023-12-27T19:23:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1870",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1870",
+      "time": "2023-12-27T19:24:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1870",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1871",
+      "time": "2023-12-27T19:24:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1871",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1871",
+      "time": "2023-12-27T19:24:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1871",
+      "text": "[MINOR] Some minor changes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1886",
+      "time": "2024-01-11T15:45:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1886",
+      "text": "[FEAT] KKEM new API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1886",
+      "time": "2024-01-11T15:45:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1886",
+      "text": "[FEAT] KKEM new API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1887",
+      "time": "2024-01-11T15:45:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1887",
+      "text": "[FEAT] KKEM new API"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1887",
+      "time": "2024-01-11T15:46:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1887",
+      "text": "[FEAT] KKEM new API"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1888",
+      "time": "2024-01-12T02:37:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1888",
+      "text": "[MINOR] added hackathon name KKEM api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1888",
+      "time": "2024-01-12T02:38:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1888",
+      "text": "[MINOR] added hackathon name KKEM api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1889",
+      "time": "2024-01-12T02:38:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1889",
+      "text": "[MINOR] added hackathon name KKEM api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1889",
+      "time": "2024-01-12T02:38:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1889",
+      "text": "[MINOR] added hackathon name KKEM api"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

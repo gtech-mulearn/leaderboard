@@ -1,0 +1,82 @@
+{
+  "last_updated": "2024-06-26T15:18:16+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#681",
+      "time": "2024-06-26T15:18:16+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/681",
+      "text": "Update jenishml@mulearn.md",
+      "turnaround_time": 882
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#681",
+      "time": "2024-06-26T15:03:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/681",
+      "text": "Update jenishml@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#673",
+      "time": "2024-06-26T14:51:21+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/673",
+      "text": "Update jenishml@mulearn.md",
+      "turnaround_time": 2567
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#673",
+      "time": "2024-06-26T14:08:34+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/673",
+      "text": "Update jenishml@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#660",
+      "time": "2024-06-26T07:23:39+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/660",
+      "text": "Delete profiles/jenishml@mulearn",
+      "turnaround_time": 26
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#660",
+      "time": "2024-06-26T07:23:13+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/660",
+      "text": "Delete profiles/jenishml@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#658",
+      "time": "2024-06-26T07:22:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/658",
+      "text": "Create jenishml@mulearn.md",
+      "turnaround_time": 33
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#658",
+      "time": "2024-06-26T07:21:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/658",
+      "text": "Create jenishml@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#601",
+      "time": "2024-06-20T15:49:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/601",
+      "text": "Jenish L",
+      "turnaround_time": 1361
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#601",
+      "time": "2024-06-20T15:27:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/601",
+      "text": "Jenish L"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

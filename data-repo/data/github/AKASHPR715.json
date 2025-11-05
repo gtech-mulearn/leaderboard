@@ -1,0 +1,32 @@
+{
+  "last_updated": "2024-03-31T19:28:37+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#587",
+      "time": "2024-03-31T19:28:37+00:00",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/587",
+      "text": "Create akashpr@mulearn",
+      "turnaround_time": 48542
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/Top-100-Coders#587",
+      "time": "2024-03-31T19:28:37+00:00",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/587",
+      "text": "Create akashpr@mulearn",
+      "collaborated_with": [
+        "vishakh-abhayan"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#587",
+      "time": "2024-03-10T05:59:34Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/587",
+      "text": "Create akashpr@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

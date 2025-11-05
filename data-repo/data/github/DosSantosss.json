@@ -1,0 +1,44 @@
+{
+  "last_updated": "2024-06-30T15:39:43+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#932",
+      "time": "2024-06-30T15:39:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/932",
+      "text": "Update ashikpb@mulearn.md",
+      "turnaround_time": 250
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#932",
+      "time": "2024-06-30T15:35:34+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/932",
+      "text": "Update ashikpb@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#925",
+      "time": "2024-06-30T15:23:30+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/925",
+      "text": "Create ashikpb@mulearn.md",
+      "turnaround_time": 30
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#925",
+      "time": "2024-06-30T15:23:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/925",
+      "text": "Create ashikpb@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#920",
+      "time": "2024-06-30T15:17:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/920",
+      "text": "Rename ashikpb@mulearn to ashikpb@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

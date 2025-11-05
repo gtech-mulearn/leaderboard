@@ -1,0 +1,37 @@
+{
+  "last_updated": "2024-06-29T08:53:43+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#794",
+      "time": "2024-06-29T08:53:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/794",
+      "text": "Updated profile: removed old file and added new file",
+      "turnaround_time": 5261
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#794",
+      "time": "2024-06-29T07:26:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/794",
+      "text": "Updated profile: removed old file and added new file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#393",
+      "time": "2024-05-23T07:52:12+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/393",
+      "text": "Create camalintressarodrigues-1@mulearn.md",
+      "turnaround_time": 2026
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#393",
+      "time": "2024-05-23T07:18:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/393",
+      "text": "Create camalintressarodrigues-1@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

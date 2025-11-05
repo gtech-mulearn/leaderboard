@@ -1,0 +1,85 @@
+{
+  "last_updated": "2024-05-20T17:08:00+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#59",
+      "time": "2024-05-20T17:08:00+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/59",
+      "text": "Added folders for S6 EEE "
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/WikiSyllabus#58",
+      "time": "2024-05-20T17:05:18+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/58",
+      "text": "Addition of folders with subject name and summary for 2019- S6 EEE"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#26",
+      "time": "2024-04-12T13:05:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/26",
+      "text": "Updation of Profile ",
+      "turnaround_time": 302
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#26",
+      "time": "2024-04-12T13:00:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/26",
+      "text": "Updation of Profile "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#22",
+      "time": "2024-04-12T12:47:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/22",
+      "text": "alvindennis@mulearn",
+      "turnaround_time": 19137
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#22",
+      "time": "2024-04-12T07:28:46+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/22",
+      "text": "alvindennis@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#318",
+      "time": "2023-10-24T20:39:01Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/318",
+      "text": "alvindennis@mulearn "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#318",
+      "time": "2023-10-25T06:24:04Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/318",
+      "text": "alvindennis@mulearn "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#74",
+      "time": "2023-12-03T18:16:26Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/74",
+      "text": "Central hotel"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/59",
+      "title": "Added folders for S6 EEE ",
+      "stale_for": 0,
+      "labels": []
+    },
+    {
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/74",
+      "title": "Central hotel",
+      "stale_for": 169,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

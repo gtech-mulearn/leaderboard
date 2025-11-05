@@ -1,0 +1,44 @@
+{
+  "last_updated": "2024-06-17T03:01:31+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#622",
+      "time": "2024-06-17T03:01:31+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/622",
+      "text": "Add Book Management Features: Create and List Books",
+      "turnaround_time": 31224
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#622",
+      "time": "2024-06-16T18:21:08+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/622",
+      "text": "Add Book Management Features: Create and List Books"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#518",
+      "time": "2024-06-15T11:30:14+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/518",
+      "text": "Update manukirans@mulearn.md",
+      "turnaround_time": 19326
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#518",
+      "time": "2024-06-13T06:08:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/518",
+      "text": "Update manukirans@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#515",
+      "time": "2024-06-12T15:03:24+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/515",
+      "text": "Update Readme.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

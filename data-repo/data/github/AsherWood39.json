@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-07T07:58:19+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#27",
+      "time": "2024-04-07T07:58:19+00:00",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/27",
+      "text": "Github Pages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#530",
+      "time": "2024-04-07T07:48:00+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/530",
+      "text": "My book registry",
+      "turnaround_time": 1004
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#530",
+      "time": "2024-04-07T07:31:16+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/530",
+      "text": "My book registry"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/27",
+      "title": "Github Pages",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

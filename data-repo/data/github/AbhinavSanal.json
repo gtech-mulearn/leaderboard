@@ -1,0 +1,42 @@
+{
+  "last_updated": "2024-05-22T10:21:12+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/WikiSyllabus#64",
+      "time": "2024-05-22T10:21:12+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/64#issuecomment-2124435687",
+      "text": "@all-contributors please add @AbhinavSanal  for Documentation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#64",
+      "time": "2024-05-22T10:20:33+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/64",
+      "text": "Added CUSAT syllabus"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/WikiSyllabus#63",
+      "time": "2024-05-22T09:56:01+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/63",
+      "text": "Addition of CUSAT syllabus"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#62",
+      "time": "2024-05-21T19:03:45+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/62",
+      "text": "Documentaion"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/64",
+      "title": "Added CUSAT syllabus",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

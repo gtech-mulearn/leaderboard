@@ -1,0 +1,35 @@
+{
+  "last_updated": "2022-05-15T15:23:01Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#233",
+      "time": "2022-05-15T15:23:01Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/233",
+      "text": "feature to add new book is created"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#325",
+      "time": "2022-05-18T15:50:07Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/325",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#342",
+      "time": "2022-05-28T16:52:52Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/342",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#342",
+      "time": "2022-06-19T05:14:43Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/342",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

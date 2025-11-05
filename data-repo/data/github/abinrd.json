@@ -1,0 +1,35 @@
+{
+  "last_updated": "2023-10-12T17:33:45Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#193",
+      "time": "2023-10-12T17:33:45Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/193",
+      "text": "Create abinrd@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#193",
+      "time": "2023-10-13T03:27:25Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/193",
+      "text": "Create abinrd@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#568",
+      "time": "2023-11-17T13:08:30Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/568",
+      "text": "Update TEMPLATE.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#568",
+      "time": "2023-11-23T12:47:46Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/568",
+      "text": "Update TEMPLATE.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

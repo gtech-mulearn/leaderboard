@@ -1,0 +1,21 @@
+{
+  "last_updated": "2023-01-11T14:23:04Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#53",
+      "time": "2023-01-11T14:23:04Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/53",
+      "text": "Update Flutter.jsx"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#53",
+      "time": "2023-01-29T10:05:11Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/53",
+      "text": "Update Flutter.jsx"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

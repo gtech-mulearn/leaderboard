@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-23T17:01:48+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#189",
+      "time": "2024-04-23T17:01:48+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/189",
+      "text": "Create febas@mulearn.md",
+      "turnaround_time": 10487
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#189",
+      "time": "2024-04-23T14:07:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/189",
+      "text": "Create febas@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#188",
+      "time": "2024-04-23T14:04:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/188",
+      "text": "Create febas@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#153",
+      "time": "2024-04-20T15:26:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/153",
+      "text": "Feba28 patch 1"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

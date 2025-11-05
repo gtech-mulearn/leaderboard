@@ -1,0 +1,47 @@
+{
+  "last_updated": "2024-06-25T13:25:39+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#630",
+      "time": "2024-06-25T13:25:39+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/630",
+      "text": "commit message",
+      "turnaround_time": 69187
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#632",
+      "time": "2024-06-25T13:25:37+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/632",
+      "text": "Develop",
+      "turnaround_time": 8956
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/Github-Enablment-Task#632",
+      "time": "2024-06-25T13:25:37+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/632",
+      "text": "Develop",
+      "collaborated_with": [
+        "elementaryrock"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#632",
+      "time": "2024-06-25T10:56:21+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/632",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#630",
+      "time": "2024-06-24T18:12:33+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/630",
+      "text": "commit message"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

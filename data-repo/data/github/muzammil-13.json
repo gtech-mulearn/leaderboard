@@ -1,0 +1,72 @@
+{
+  "last_updated": "2024-06-08T07:20:02+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#472",
+      "time": "2024-06-08T07:20:02+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/472",
+      "text": "Organized muzammilibrahim@mulearn.md titles",
+      "turnaround_time": 75095
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#468",
+      "time": "2024-06-07T17:08:16+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/468#issuecomment-2155218049",
+      "text": "Sorry that was mistake. Reverted back and done another \"Pull request\"."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#472",
+      "time": "2024-06-07T10:28:28+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/472",
+      "text": "Organized muzammilibrahim@mulearn.md titles"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#468",
+      "time": "2024-06-07T02:47:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/468",
+      "text": "about me rearranged"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#467",
+      "time": "2024-06-07T02:34:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/467",
+      "text": "removed \"FULL NAME\" title & added some more details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#466",
+      "time": "2024-06-07T02:06:24+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/466",
+      "text": "updated readme.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#29",
+      "time": "2024-06-04T05:36:38+00:00",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/29",
+      "text": "minor hashtag mismatch replaced"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#603",
+      "time": "2024-05-17T21:44:59+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/603",
+      "text": "muzammil commits",
+      "turnaround_time": 53776
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#603",
+      "time": "2024-05-17T06:48:44+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/603",
+      "text": "muzammil commits"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

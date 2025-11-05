@@ -1,0 +1,56 @@
+{
+  "last_updated": "2023-03-25T17:40:40Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#166",
+      "time": "2023-03-25T17:40:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/166",
+      "text": "Terms and Conditions updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#77",
+      "time": "2023-02-25T11:07:03Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/77",
+      "text": "dev:mentor-data-updation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#77",
+      "time": "2023-02-25T17:59:21Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/77",
+      "text": "dev:mentor-data-updation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#84",
+      "time": "2023-03-30T02:56:19Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/84",
+      "text": "Hashtags Updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#84",
+      "time": "2023-04-01T15:25:41Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/84",
+      "text": "Hashtags Updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#88",
+      "time": "2023-04-07T09:28:27Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/88",
+      "text": "Hashtags Updated in component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#88",
+      "time": "2023-04-07T12:55:07Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/88",
+      "text": "Hashtags Updated in component"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

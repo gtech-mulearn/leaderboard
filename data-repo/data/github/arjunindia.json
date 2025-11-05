@@ -1,0 +1,315 @@
+{
+  "last_updated": "2023-10-08T16:22:43Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#169",
+      "time": "2023-10-08T16:22:43Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/169",
+      "text": "arjuns-4@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#169",
+      "time": "2023-10-08T16:23:52Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/169",
+      "text": "arjuns-4@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#360",
+      "time": "2023-06-26T16:35:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/360",
+      "text": "Feature: Implements pages for KKEM"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#360",
+      "time": "2023-06-27T13:45:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/360",
+      "text": "Feature: Implements pages for KKEM"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#377",
+      "time": "2023-06-29T18:25:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/377",
+      "text": "Feature : KKEM Landing and Email verification Pages"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#377",
+      "time": "2023-06-30T04:18:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/377",
+      "text": "Feature : KKEM Landing and Email verification Pages"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#381",
+      "time": "2023-06-30T16:28:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/381",
+      "text": "fix(KKEM): Made elements more accurate to design"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#381",
+      "time": "2023-06-30T17:29:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/381",
+      "text": "fix(KKEM): Made elements more accurate to design"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#424",
+      "time": "2023-07-09T17:38:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/424",
+      "text": "KKEM: Updated UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#424",
+      "time": "2023-07-09T18:02:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/424",
+      "text": "KKEM: Updated UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#447",
+      "time": "2023-07-16T14:47:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/447",
+      "text": "KKEM Page updates"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#447",
+      "time": "2023-07-17T05:08:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/447",
+      "text": "KKEM Page updates"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#501",
+      "time": "2023-07-22T15:59:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/501",
+      "text": "Fix(PROFILE): Fixed issue with 400 error"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#501",
+      "time": "2023-07-22T16:02:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/501",
+      "text": "Fix(PROFILE): Fixed issue with 400 error"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#505",
+      "time": "2023-07-22T18:01:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/505",
+      "text": "Feat(bulk-upload): Added bulk uploaded output downloading as xlsx"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#505",
+      "time": "2023-07-23T05:07:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/505",
+      "text": "Feat(bulk-upload): Added bulk uploaded output downloading as xlsx"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#519",
+      "time": "2023-07-25T14:39:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/519",
+      "text": "Feat(Bulk-Import): Added back button from bulk import page)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#519",
+      "time": "2023-07-25T15:41:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/519",
+      "text": "Feat(Bulk-Import): Added back button from bulk import page)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#532",
+      "time": "2023-07-26T15:53:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/532",
+      "text": "Refractor : Minor fix - Simplified the role checking function + better types"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#532",
+      "time": "2023-07-26T15:55:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/532",
+      "text": "Refractor : Minor fix - Simplified the role checking function + better types"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#684",
+      "time": "2023-08-26T18:51:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/684",
+      "text": "Seperating Formik logic to seperate file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#684",
+      "time": "2023-08-26T20:30:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/684",
+      "text": "Seperating Formik logic to seperate file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#688",
+      "time": "2023-08-28T13:29:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/688",
+      "text": "Fix(TaskEdit/ZonalDashboard/DistrictDashboard): Seperated some Form props and logic to seperate file"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#688",
+      "time": "2023-08-28T15:25:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/688",
+      "text": "Fix(TaskEdit/ZonalDashboard/DistrictDashboard): Seperated some Form props and logic to seperate file"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#689",
+      "time": "2023-08-28T17:20:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/689",
+      "text": "Fix(LearningCircle): Updated images to the best quality"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#689",
+      "time": "2023-08-29T04:43:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/689",
+      "text": "Fix(LearningCircle): Updated images to the best quality"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#691",
+      "time": "2023-08-29T07:11:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/691",
+      "text": "Fix(Dashboard): Added cwebp images"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#691",
+      "time": "2023-08-29T13:58:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/691",
+      "text": "Fix(Dashboard): Added cwebp images"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#707",
+      "time": "2023-08-31T19:12:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/707",
+      "text": "fix(ManageLocation): API URL Fixes for get"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#707",
+      "time": "2023-09-01T05:38:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/707",
+      "text": "fix(ManageLocation): API URL Fixes for get"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#717",
+      "time": "2023-09-01T19:34:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/717",
+      "text": "Location URL and API functions update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#717",
+      "time": "2023-09-02T06:16:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/717",
+      "text": "Location URL and API functions update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#718",
+      "time": "2023-09-01T19:54:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/718",
+      "text": "Fixes for some issues in Zonal/District APIs"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#718",
+      "time": "2023-09-02T06:16:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/718",
+      "text": "Fixes for some issues in Zonal/District APIs"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#721",
+      "time": "2023-09-02T10:50:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/721",
+      "text": "fix(CampusStudentList): Added sort for first_name,karma,level and some fixes"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#721",
+      "time": "2023-09-02T11:55:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/721",
+      "text": "fix(CampusStudentList): Added sort for first_name,karma,level and some fixes"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#724",
+      "time": "2023-09-02T17:04:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/724",
+      "text": "Location Dashboard Table Search/Sort/Pagination"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#724",
+      "time": "2023-09-03T07:14:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/724",
+      "text": "Location Dashboard Table Search/Sort/Pagination"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#726",
+      "time": "2023-09-03T11:13:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/726",
+      "text": "fix(ManageLocation): Made TableTop/Edit responsive, Edit Success alert fix, Loader for location data"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#726",
+      "time": "2023-09-03T12:48:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/726",
+      "text": "fix(ManageLocation): Made TableTop/Edit responsive, Edit Success alert fix, Loader for location data"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#740",
+      "time": "2023-09-04T16:36:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/740",
+      "text": "fix(roles,refer,location): fixes for toasts,tables,editing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#740",
+      "time": "2023-09-04T17:05:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/740",
+      "text": "fix(roles,refer,location): fixes for toasts,tables,editing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#839",
+      "time": "2023-09-27T17:15:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/839",
+      "text": "fix(): CQ: Code cleanup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#839",
+      "time": "2023-10-04T05:30:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/839",
+      "text": "fix(): CQ: Code cleanup"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

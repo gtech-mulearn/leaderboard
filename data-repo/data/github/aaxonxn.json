@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-02T17:06:15+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#522",
+      "time": "2024-04-02T17:06:15+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/522",
+      "text": "Aaron George Pull Request",
+      "turnaround_time": 5553
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#522",
+      "time": "2024-04-02T15:33:43+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/522",
+      "text": "Aaron George Pull Request"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#491",
+      "time": "2023-11-15T16:23:26Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/491",
+      "text": "Create aarongeorge-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#584",
+      "time": "2023-12-29T10:15:32Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/584",
+      "text": "Create aarongeorge-1@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

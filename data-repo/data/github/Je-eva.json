@@ -1,0 +1,50 @@
+{
+  "last_updated": "2024-05-18T09:36:13+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/WikiSyllabus#46",
+      "time": "2024-05-18T09:36:13+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/46",
+      "text": "src/WikiSyllabus/KTU/2019_Scheme/S6/CSE/HUT300/1_1basic_economic_problems.md CREATED"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#13",
+      "time": "2024-05-12T06:10:48+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/13",
+      "text": "Update Je-eva.md",
+      "turnaround_time": 65377
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#13",
+      "time": "2024-05-11T12:01:11+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/13",
+      "text": "Update Je-eva.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#15",
+      "time": "2023-12-22T21:58:56Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/15",
+      "text": "HTML"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#460",
+      "time": "2023-12-22T19:17:01Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/460",
+      "text": "Add_books"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#460",
+      "time": "2023-12-22T19:18:00Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/460",
+      "text": "Add_books"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

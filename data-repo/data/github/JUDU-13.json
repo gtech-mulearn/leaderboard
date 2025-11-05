@@ -1,0 +1,550 @@
+{
+  "last_updated": "2024-07-12T10:37:36+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1168",
+      "time": "2024-07-12T10:37:36+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1168",
+      "text": "Revert \"Create gayathry@mulearn.md\"",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1168",
+      "time": "2024-07-12T10:37:30+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1168",
+      "text": "Revert \"Create gayathry@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1133",
+      "time": "2024-07-01T18:17:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1133",
+      "text": "Revert \"Create aswinr-2@mulearn.md\"",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1133",
+      "time": "2024-07-01T18:17:51+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1133",
+      "text": "Revert \"Create aswinr-2@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1132",
+      "time": "2024-07-01T18:17:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1132",
+      "text": "Revert \"Revert \"Create aswinr-2@mulearn.md\"\"",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1132",
+      "time": "2024-07-01T18:17:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1132",
+      "text": "Revert \"Revert \"Create aswinr-2@mulearn.md\"\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1130",
+      "time": "2024-07-01T18:15:45+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1130",
+      "text": "Revert \"Create aswinr-2@mulearn.md\"",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1130",
+      "time": "2024-07-01T18:15:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1130",
+      "text": "Revert \"Create aswinr-2@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#981",
+      "time": "2024-06-30T18:50:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/981",
+      "text": "Revert \"anwarsadathky@mulearn\"",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#981",
+      "time": "2024-06-30T18:50:44+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/981",
+      "text": "Revert \"anwarsadathky@mulearn\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#966",
+      "time": "2024-06-30T17:24:07+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/966",
+      "text": "Revert \"Update and rename TEMPLATE.md to gayathrip-2@mulearn.md\"",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#966",
+      "time": "2024-06-30T17:24:02+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/966",
+      "text": "Revert \"Update and rename TEMPLATE.md to gayathrip-2@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#965",
+      "time": "2024-06-30T17:21:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/965",
+      "text": "Revert \"Create savadkn@mulearn.md\"",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#965",
+      "time": "2024-06-30T17:21:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/965",
+      "text": "Revert \"Create savadkn@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#964",
+      "time": "2024-06-30T17:20:57+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/964",
+      "text": "Revert \"Revert \"Revert \"Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\"\"\"\"",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#964",
+      "time": "2024-06-30T17:20:50+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/964",
+      "text": "Revert \"Revert \"Revert \"Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\"\"\"\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#963",
+      "time": "2024-06-30T17:20:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/963",
+      "text": "Revert \"Revert \"Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\"\"\"",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#963",
+      "time": "2024-06-30T17:20:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/963",
+      "text": "Revert \"Revert \"Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\"\"\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#962",
+      "time": "2024-06-30T17:19:32+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/962",
+      "text": "Revert \"Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\"\"",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#962",
+      "time": "2024-06-30T17:19:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/962",
+      "text": "Revert \"Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\"\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#959",
+      "time": "2024-06-30T17:18:51+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/959",
+      "text": "Revert \"Create gayathrip-2@mulearn.md\"",
+      "turnaround_time": 9
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#959",
+      "time": "2024-06-30T17:18:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/959",
+      "text": "Revert \"Create gayathrip-2@mulearn.md\""
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#920",
+      "time": "2024-06-30T15:49:09+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/920#issuecomment-2198603738",
+      "text": "@DosSantosss please resolve the merge conflict "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#931",
+      "time": "2024-06-30T15:35:38+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/931",
+      "text": "Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\"",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#931",
+      "time": "2024-06-30T15:35:32+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/931",
+      "text": "Revert \"Update and rename TEMPLATE.md to malavikam-1@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#707",
+      "time": "2024-06-27T15:50:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/707",
+      "text": "Revert \"Create joyaljoseph-2@mulearn.md\"",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#707",
+      "time": "2024-06-27T15:50:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/707",
+      "text": "Revert \"Create joyaljoseph-2@mulearn.md\""
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#704",
+      "time": "2024-06-27T15:35:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/704#issuecomment-2195035853",
+      "text": "@AnaghaSajeev2004 Please make proper submission the submition is error"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#633",
+      "time": "2024-06-24T16:48:56+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/633#issuecomment-2187000322",
+      "text": "@ria-elz Please make it more details and add the req given in the template"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-24T14:46:41+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#636",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/636#pullrequestreview-2136033039",
+      "text": "tijinidicullathomas@mulearn"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-24T14:45:12+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#637",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/637#pullrequestreview-2136028650",
+      "text": "abhijith.h@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-24T14:44:50+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#637",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/637#pullrequestreview-2136027292",
+      "text": "abhijith.h@mulearn.md"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-24T14:44:16+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#638",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/638#pullrequestreview-2136025896",
+      "text": "sssneha@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#553",
+      "time": "2024-06-16T14:35:20+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/553#issuecomment-2171691931",
+      "text": "@itshaneefzain Please make a new PR with files in correct folder"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#575",
+      "time": "2024-06-16T14:34:06+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/575",
+      "text": "Revert \"Create mohammedhaneefez@mulearn.md\"",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#575",
+      "time": "2024-06-16T14:34:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/575",
+      "text": "Revert \"Create mohammedhaneefez@mulearn.md\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#489",
+      "time": "2024-06-09T13:23:42+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/489",
+      "text": "Profile",
+      "turnaround_time": 273
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#489",
+      "time": "2024-06-09T13:19:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/489",
+      "text": "Profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#440",
+      "time": "2024-06-04T10:29:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/440",
+      "text": "Create jaidongillshajan@mulearn.md",
+      "turnaround_time": 28
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#440",
+      "time": "2024-06-04T10:29:14+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/440",
+      "text": "Create jaidongillshajan@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#23",
+      "time": "2024-04-26T09:24:30+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/23",
+      "text": "Update Task-2.md",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#23",
+      "time": "2024-04-26T09:24:25+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/23",
+      "text": "Update Task-2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#22",
+      "time": "2024-04-26T06:21:24+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/22",
+      "text": "Update Task-3.md",
+      "turnaround_time": 13
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#22",
+      "time": "2024-04-26T06:21:12+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/22",
+      "text": "Update Task-3.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#149",
+      "time": "2024-04-20T13:10:14+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/149#issuecomment-2067669034",
+      "text": "Please make proper changes while copying from the temeplete and change the demo"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#139",
+      "time": "2024-04-20T05:28:44+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/139#issuecomment-2067561908",
+      "text": "Please add the details"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#35",
+      "time": "2024-04-19T17:21:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/35#issuecomment-2066987495",
+      "text": "Please add your details"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#132",
+      "time": "2024-04-19T17:16:30+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/132#issuecomment-2066981480",
+      "text": "Please add more details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/leaderboard-data#7",
+      "time": "2024-04-13T11:58:19+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/7",
+      "text": "Update JUDU-13.md",
+      "turnaround_time": 1069
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#19",
+      "time": "2024-04-13T11:55:50+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/19",
+      "text": "Rename Basics Of LLM Part-2.md to Basic Of LLM Part-2.md",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#19",
+      "time": "2024-04-13T11:55:45+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/19",
+      "text": "Rename Basics Of LLM Part-2.md to Basic Of LLM Part-2.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/leaderboard-data#7",
+      "time": "2024-04-13T11:40:31+00:00",
+      "link": "https://github.com/gtech-mulearn/leaderboard-data/pull/7",
+      "text": "Update JUDU-13.md"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#11",
+      "time": "2024-04-13T11:27:00+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/issues/11",
+      "text": "Broken Link in Basic Of LLM Part-2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#15",
+      "time": "2024-04-13T11:26:08+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/15",
+      "text": "Update Basics Of LLM Part-2.md",
+      "turnaround_time": 5
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#15",
+      "time": "2024-04-13T11:26:03+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/15",
+      "text": "Update Basics Of LLM Part-2.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#11",
+      "time": "2024-04-12T03:44:51+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/issues/11#issuecomment-2050912611",
+      "text": "Will fix it soon \nThank you \ud83d\ude0a"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#10",
+      "time": "2024-04-11T08:11:39+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/10",
+      "text": "Update Task-2.md",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#10",
+      "time": "2024-04-11T08:11:30+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/10",
+      "text": "Update Task-2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#9",
+      "time": "2024-04-11T07:54:17+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/9",
+      "text": "Update Task-2.md",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#9",
+      "time": "2024-04-11T07:54:12+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/9",
+      "text": "Update Task-2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#8",
+      "time": "2024-04-11T01:57:05+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/8",
+      "text": "Update Task-3.md",
+      "turnaround_time": 53
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#8",
+      "time": "2024-04-11T01:56:12+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/8",
+      "text": "Update Task-3.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#7",
+      "time": "2024-04-10T03:38:24+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/7",
+      "text": "Update Task-2.md",
+      "turnaround_time": 6
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#7",
+      "time": "2024-04-10T03:38:19+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/7",
+      "text": "Update Task-2.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#1",
+      "time": "2023-11-02T09:16:56Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/1",
+      "text": "Rename Module2.md to Module1.2.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#1",
+      "time": "2023-11-02T09:17:06Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/1",
+      "text": "Rename Module2.md to Module1.2.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#2",
+      "time": "2023-11-02T10:45:50Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/2",
+      "text": "Judu 13 patch 1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#2",
+      "time": "2023-11-02T10:46:03Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/2",
+      "text": "Judu 13 patch 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#3",
+      "time": "2023-11-27T06:34:57Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/3",
+      "text": "Create Prompt Engineering Part-1.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#3",
+      "time": "2023-11-27T06:35:05Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/3",
+      "text": "Create Prompt Engineering Part-1.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#4",
+      "time": "2023-11-27T08:47:31Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/4",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#4",
+      "time": "2023-11-27T08:47:41Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/4",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#5",
+      "time": "2023-12-16T16:33:57Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/5",
+      "text": "Add files via upload"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#5",
+      "time": "2023-12-16T16:34:04Z",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/5",
+      "text": "Add files via upload"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

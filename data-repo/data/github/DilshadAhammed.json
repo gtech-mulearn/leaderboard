@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-06-24T12:27:37+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#625",
+      "time": "2024-06-24T12:27:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/625",
+      "text": "Create dilshadahammedn@mulearn.md",
+      "turnaround_time": 25473
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#625",
+      "time": "2024-06-24T05:23:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/625",
+      "text": "Create dilshadahammedn@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#66",
+      "time": "2023-10-03T12:34:28Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/66",
+      "text": "dilshadahammedn@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#66",
+      "time": "2023-10-03T12:53:38Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/66",
+      "text": "dilshadahammedn@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

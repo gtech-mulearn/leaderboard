@@ -1,0 +1,43 @@
+{
+  "last_updated": "2024-04-12T20:04:08+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#33",
+      "time": "2024-04-12T20:04:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/33",
+      "text": "rishikeshkv-1@mulearn",
+      "turnaround_time": 2561
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#33",
+      "time": "2024-04-12T19:21:27+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/33",
+      "text": "rishikeshkv-1@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#82",
+      "time": "2023-10-03T18:26:15Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/82",
+      "text": "Patch 1"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#82",
+      "time": "2023-10-03T19:25:07Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/82",
+      "text": "Patch 1"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#554",
+      "time": "2023-11-17T11:51:55Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/554",
+      "text": "Update rishikeshkv-1@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

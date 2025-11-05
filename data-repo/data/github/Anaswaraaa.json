@@ -1,0 +1,52 @@
+{
+  "last_updated": "2024-07-02T15:32:17+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1153",
+      "time": "2024-07-02T15:32:17+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1153",
+      "text": "Update anaswarap-2@mulearn.md",
+      "turnaround_time": 838
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1148",
+      "time": "2024-07-02T15:31:43+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1148",
+      "text": "Update anaswarap-2@mulearn.md",
+      "turnaround_time": 3389
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1153",
+      "time": "2024-07-02T15:18:21+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1153",
+      "text": "Update anaswarap-2@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#1148",
+      "time": "2024-07-02T14:35:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/1148",
+      "text": "Update anaswarap-2@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#523",
+      "time": "2024-06-13T13:14:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/523",
+      "text": "Create anaswarap-2@mulearn.md",
+      "turnaround_time": 6183
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#523",
+      "time": "2024-06-13T11:31:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/523",
+      "text": "Create anaswarap-2@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,57 @@
+{
+  "last_updated": "2024-04-15T13:54:41+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#72",
+      "time": "2024-04-15T13:54:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/72",
+      "text": "farhancholakkal@mulearn",
+      "turnaround_time": 17677
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#72",
+      "time": "2024-04-15T09:00:05+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/72",
+      "text": "farhancholakkal@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#117",
+      "time": "2023-10-05T04:53:51Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/117",
+      "text": "create farhancholakkal@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#144",
+      "time": "2023-10-06T10:35:15Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/144",
+      "text": "farhancholakkal@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#144",
+      "time": "2023-10-06T12:22:41Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/144",
+      "text": "farhancholakkal@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#22",
+      "time": "2022-05-12T04:01:32Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/22",
+      "text": "tfp git task"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#22",
+      "time": "2022-06-18T19:46:23Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/22",
+      "text": "tfp git task"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

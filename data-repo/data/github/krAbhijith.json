@@ -1,0 +1,75 @@
+{
+  "last_updated": "2024-05-30T16:13:04+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1982",
+      "time": "2024-05-30T16:13:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1982",
+      "text": "Merge dev to dev-server",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1981",
+      "time": "2024-05-30T16:10:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1981",
+      "text": "Search in College Levels - 500 Bug fix",
+      "turnaround_time": 83
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1981",
+      "time": "2024-05-30T16:09:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1981",
+      "text": "Search in College Levels - 500 Bug fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1980",
+      "time": "2024-05-30T15:59:30+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1980",
+      "text": "Search in College Levels - 500  #1437 Bug fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1958",
+      "time": "2024-05-18T09:47:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1958",
+      "text": "completed Project management"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#181",
+      "time": "2024-04-23T09:42:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/181",
+      "text": "Create abhijithkr-1@mulearn.md",
+      "turnaround_time": 10720
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#181",
+      "time": "2024-04-23T06:43:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/181",
+      "text": "Create abhijithkr-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#241",
+      "time": "2023-10-17T16:08:56Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/241",
+      "text": "Create abhijithkr-1@mulearn.MD"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#241",
+      "time": "2023-10-17T16:27:07Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/241",
+      "text": "Create abhijithkr-1@mulearn.MD"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

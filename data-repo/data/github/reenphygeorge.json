@@ -1,0 +1,21 @@
+{
+  "last_updated": "2022-11-21T19:58:00Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learningcircle#40",
+      "time": "2022-11-21T19:58:00Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/40",
+      "text": "feat(ui) : added preloader"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/learningcircle#40",
+      "time": "2022-11-22T09:30:12Z",
+      "link": "https://github.com/gtech-mulearn/learningcircle/pull/40",
+      "text": "feat(ui) : added preloader"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

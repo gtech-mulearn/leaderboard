@@ -1,0 +1,44 @@
+{
+  "last_updated": "2024-06-08T16:49:20+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#481",
+      "time": "2024-06-08T16:49:20+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/481",
+      "text": "sameemulhaquek@mulearn",
+      "turnaround_time": 33197
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#481",
+      "time": "2024-06-08T15:23:08+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/481#issuecomment-2156075151",
+      "text": "I have updated the comment by adding the name at the top section. Please check once again."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#481",
+      "time": "2024-06-08T07:36:03+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/481",
+      "text": "sameemulhaquek@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#83",
+      "time": "2024-04-15T18:16:23+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/83",
+      "text": "sameemulhaquek@mulearn",
+      "turnaround_time": 1610
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#83",
+      "time": "2024-04-15T17:49:33+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/83",
+      "text": "sameemulhaquek@mulearn"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,51 @@
+{
+  "last_updated": "2024-04-26T11:11:35+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#241",
+      "time": "2024-04-26T11:11:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/241",
+      "text": "Update mohameddilshad@mulearn.md",
+      "turnaround_time": 4881
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#241",
+      "time": "2024-04-26T09:50:15+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/241",
+      "text": "Update mohameddilshad@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#99",
+      "time": "2024-04-17T09:46:17+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/99",
+      "text": "Create mohameddilshad@mulearn.md",
+      "turnaround_time": 13418
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#99",
+      "time": "2024-04-17T06:02:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/99",
+      "text": "Create mohameddilshad@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#57",
+      "time": "2022-05-13T14:37:09Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/57",
+      "text": "TFP-Assignment 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#57",
+      "time": "2022-06-18T19:50:00Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/57",
+      "text": "TFP-Assignment 3"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

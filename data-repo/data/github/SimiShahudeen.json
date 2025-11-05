@@ -1,0 +1,30 @@
+{
+  "last_updated": "2024-04-25T17:38:35+00:00",
+  "activity": [
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#234",
+      "time": "2024-04-25T17:38:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/234#issuecomment-2077816113",
+      "text": "Completed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#234",
+      "time": "2024-04-25T17:36:56+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/234",
+      "text": "Update and rename TEMPLATE.md to simi@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/234",
+      "title": "Update and rename TEMPLATE.md to simi@mulearn.md",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

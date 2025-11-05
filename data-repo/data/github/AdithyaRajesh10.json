@@ -1,0 +1,50 @@
+{
+  "last_updated": "2024-06-13T14:44:37+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#529",
+      "time": "2024-06-13T14:44:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/529",
+      "text": "Create adithyaar@mulearn.md",
+      "turnaround_time": 2076
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#529",
+      "time": "2024-06-13T14:10:01+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/529",
+      "text": "Create adithyaar@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#173",
+      "time": "2023-10-09T13:56:09Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/173",
+      "text": "Create adithyaar@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#173",
+      "time": "2023-10-11T16:05:49Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/173",
+      "text": "Create adithyaar@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#52",
+      "time": "2023-09-29T13:14:00Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/52",
+      "text": "Added SR Electricals store to data.json"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/bring-every-business-online#52",
+      "time": "2023-10-04T18:48:57Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/52",
+      "text": "Added SR Electricals store to data.json"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

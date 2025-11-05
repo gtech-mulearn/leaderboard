@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-05-18T12:02:02+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1962",
+      "time": "2024-05-18T12:02:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1962",
+      "text": "project CRUD API"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1962",
+      "title": "project CRUD API",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

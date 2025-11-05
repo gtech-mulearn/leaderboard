@@ -1,0 +1,21 @@
+{
+  "last_updated": "2024-04-26T14:56:24+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#589",
+      "time": "2024-04-26T14:56:24+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/589",
+      "text": "Learned to manage github rep"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/589",
+      "title": "Learned to manage github rep",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-04-21T07:40:16+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#159",
+      "time": "2024-04-21T07:40:16+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/159",
+      "text": "Updated profile ",
+      "turnaround_time": 40121
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#159",
+      "time": "2024-04-20T20:31:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/159",
+      "text": "Updated profile "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#281",
+      "time": "2022-05-16T13:05:29Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/281",
+      "text": "Added tfp assignment 3"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#281",
+      "time": "2022-06-19T05:18:23Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/281",
+      "text": "Added tfp assignment 3"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

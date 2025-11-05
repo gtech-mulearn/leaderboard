@@ -1,0 +1,51 @@
+{
+  "last_updated": "2024-04-16T13:55:41+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#95",
+      "time": "2024-04-16T13:55:41+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/95",
+      "text": "sandeepkumarsanthoshs@mulearn",
+      "turnaround_time": 16545
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#95",
+      "time": "2024-04-16T09:19:56+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/95",
+      "text": "sandeepkumarsanthoshs@mulearn"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#589",
+      "time": "2024-03-28T10:31:47+00:00",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/589",
+      "text": "Create sandeepkumarsanthoshs@mulearn.md",
+      "turnaround_time": 61302
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#589",
+      "time": "2024-03-18T17:30:04Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/589",
+      "text": "Create sandeepkumarsanthoshs@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#496",
+      "time": "2024-03-11T10:26:50Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/496",
+      "text": "Github Enablment Task - Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#496",
+      "time": "2024-03-11T13:43:15Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/496",
+      "text": "Github Enablment Task - Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

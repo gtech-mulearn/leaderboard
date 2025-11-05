@@ -1,0 +1,28 @@
+{
+  "last_updated": "2022-10-14T10:44:38Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#31",
+      "time": "2022-10-14T10:44:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/31",
+      "text": "Update _redirects"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#32",
+      "time": "2022-10-14T10:44:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/32",
+      "text": "campus logo generator"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#32",
+      "time": "2022-10-14T10:45:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/32",
+      "text": "campus logo generator"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

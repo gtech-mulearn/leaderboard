@@ -1,0 +1,37 @@
+{
+  "last_updated": "2024-06-22T09:06:56+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#605",
+      "time": "2024-06-22T09:06:56+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/605",
+      "text": "Created abhilashhari@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#155",
+      "time": "2023-10-07T09:42:27Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/155",
+      "text": "My profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#155",
+      "time": "2023-10-07T09:47:43Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/155",
+      "text": "My profile"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/605",
+      "title": "Created abhilashhari@mulearn.md",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

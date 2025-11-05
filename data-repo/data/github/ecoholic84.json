@@ -1,0 +1,147 @@
+{
+  "last_updated": "2024-04-19T15:08:23+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#126",
+      "time": "2024-04-19T15:08:23+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/126",
+      "text": "Update TEMPLATE.md",
+      "turnaround_time": 307
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#127",
+      "time": "2024-04-19T15:07:16+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/127",
+      "text": "Update README.md",
+      "turnaround_time": 143
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#127",
+      "time": "2024-04-19T15:04:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/127",
+      "text": "Update README.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#126",
+      "time": "2024-04-19T15:03:17+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/126",
+      "text": "Update TEMPLATE.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#21",
+      "time": "2024-04-18T16:16:42+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/21",
+      "text": "Revert \"Re-Structured, fixed broken links and more\"",
+      "turnaround_time": 17
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#21",
+      "time": "2024-04-18T16:16:26+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/21",
+      "text": "Revert \"Re-Structured, fixed broken links and more\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#20",
+      "time": "2024-04-18T15:37:59+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/20",
+      "text": "Re-Structured, fixed broken links and more",
+      "turnaround_time": 22621
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#20",
+      "time": "2024-04-14T09:20:58+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/20",
+      "text": "Re-Structured, fixed broken links and more"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#16",
+      "time": "2024-04-13T11:41:16+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/16",
+      "text": "Update Internal Link",
+      "turnaround_time": 84
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#16",
+      "time": "2024-04-13T11:39:52+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/16",
+      "text": "Update Internal Link"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#14",
+      "time": "2024-04-13T11:26:43+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/14",
+      "text": "Update Internal Links",
+      "turnaround_time": 137
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#14",
+      "time": "2024-04-13T11:24:26+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/14",
+      "text": "Update Internal Links"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#12",
+      "time": "2024-04-13T11:21:21+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/12",
+      "text": "Rename Basic Of LLM Part-2.md to Basics Of LLM Part-2.md",
+      "turnaround_time": 56620
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#13",
+      "time": "2024-04-12T07:02:19+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/13",
+      "text": "Update Broken Link"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#12",
+      "time": "2024-04-11T19:37:42+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/pull/12",
+      "text": "Rename Basic Of LLM Part-2.md to Basics Of LLM Part-2.md"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/Pathway-AI-Bootcamp#11",
+      "time": "2024-04-11T19:37:00+00:00",
+      "link": "https://github.com/gtech-mulearn/Pathway-AI-Bootcamp/issues/11",
+      "text": "Broken Link in Basic Of LLM Part-2.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/learn-github-pages#23",
+      "time": "2024-03-09T10:21:59Z",
+      "link": "https://github.com/gtech-mulearn/learn-github-pages/pull/23",
+      "text": "Update index.html"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#491",
+      "time": "2024-03-08T18:22:53Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/491",
+      "text": "Assignment Submission"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#491",
+      "time": "2024-03-09T11:55:15Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/491",
+      "text": "Assignment Submission"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

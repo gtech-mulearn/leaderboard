@@ -1,0 +1,36 @@
+{
+  "last_updated": "2024-06-28T16:46:02+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#777",
+      "time": "2024-06-28T16:46:02+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/777",
+      "text": "rainaraj@mulearn",
+      "turnaround_time": 63
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#777",
+      "time": "2024-06-28T16:45:00+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/777",
+      "text": "rainaraj@mulearn"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#759",
+      "time": "2024-06-28T13:54:11+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/759",
+      "text": "Create rainaraj@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#689",
+      "time": "2024-06-27T07:33:39+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/689",
+      "text": "Revert \"Create lukesaint@mulearn.md\""
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

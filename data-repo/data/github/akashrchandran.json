@@ -1,0 +1,134 @@
+{
+  "last_updated": "2024-04-18T04:42:49+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#107",
+      "time": "2024-04-18T04:42:49+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/107",
+      "text": "Create akashrchandran@mulearn.md",
+      "turnaround_time": 36577
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#107",
+      "time": "2024-04-17T18:33:13+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/107",
+      "text": "Create akashrchandran@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#299",
+      "time": "2023-10-22T12:42:05Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/299",
+      "text": "Create akashrchandran@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#299",
+      "time": "2023-10-22T12:50:20Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/299",
+      "text": "Create akashrchandran@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#6",
+      "time": "2022-05-11T15:21:11Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/6",
+      "text": "Assignment Submission | Akash R Chandran"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#6",
+      "time": "2022-06-18T19:44:43Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/6",
+      "text": "Assignment Submission | Akash R Chandran"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#386",
+      "time": "2023-06-30T14:41:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/386",
+      "text": "Feat: Added API for getting upcoming hackathons and hackathon submission"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#386",
+      "time": "2023-06-30T16:38:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/386",
+      "text": "Feat: Added API for getting upcoming hackathons and hackathon submission"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#396",
+      "time": "2023-07-02T16:30:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/396",
+      "text": "feat: Added API for adding and removing Organiser"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#396",
+      "time": "2023-07-02T16:34:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/396",
+      "text": "feat: Added API for adding and removing Organiser"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#399",
+      "time": "2023-07-03T11:14:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/399",
+      "text": "feat: Updated API to get single user details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#399",
+      "time": "2023-07-03T14:22:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/399",
+      "text": "feat: Updated API to get single user details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#402",
+      "time": "2023-07-04T07:06:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/402",
+      "text": "(Fix): Allowed null fields on create and update hackathon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#402",
+      "time": "2023-07-04T11:43:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/402",
+      "text": "(Fix): Allowed null fields on create and update hackathon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#413",
+      "time": "2023-07-04T17:19:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/413",
+      "text": "Feat: Added API to list user created hackathons"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#413",
+      "time": "2023-07-05T14:03:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/413",
+      "text": "Feat: Added API to list user created hackathons"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#738",
+      "time": "2023-08-17T15:22:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/738",
+      "text": "Added StateDataAPI, ZoneDataAPI & DistrictDataAPI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#738",
+      "time": "2023-08-17T17:58:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/738",
+      "text": "Added StateDataAPI, ZoneDataAPI & DistrictDataAPI"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

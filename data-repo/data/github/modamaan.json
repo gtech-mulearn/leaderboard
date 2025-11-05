@@ -1,0 +1,44 @@
+{
+  "last_updated": "2024-06-11T08:55:15+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#575",
+      "time": "2024-06-11T08:55:15+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/575",
+      "text": "added",
+      "turnaround_time": 46824
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#104",
+      "time": "2024-04-19T15:09:04+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/104",
+      "text": "Create mohamedamaan@mulearn.md",
+      "turnaround_time": 1453
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#104",
+      "time": "2024-04-18T13:00:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/104#issuecomment-2063814504",
+      "text": "what is the problem right now ?"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#104",
+      "time": "2024-04-17T14:44:52+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/104",
+      "text": "Create mohamedamaan@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#575",
+      "time": "2024-04-13T19:54:52+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/575",
+      "text": "added"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

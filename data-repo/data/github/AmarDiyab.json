@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-10-18T05:01:21Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#248",
+      "time": "2023-10-18T05:01:21Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/248",
+      "text": "Create amardiyab.mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#249",
+      "time": "2023-10-18T05:10:01Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/249",
+      "text": "Create amardiyab@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#249",
+      "time": "2023-10-18T06:43:10Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/249",
+      "text": "Create amardiyab@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#555",
+      "time": "2023-11-17T11:52:11Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/555",
+      "text": "Update amardiyab@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#555",
+      "time": "2023-11-23T13:12:58Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/555",
+      "text": "Update amardiyab@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

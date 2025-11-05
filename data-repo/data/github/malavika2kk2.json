@@ -1,0 +1,22 @@
+{
+  "last_updated": "2024-06-30T15:28:10+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#929",
+      "time": "2024-06-30T15:28:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/929",
+      "text": "Update and rename TEMPLATE.md to malavikam-1@mulearn.md",
+      "turnaround_time": 31
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#929",
+      "time": "2024-06-30T15:27:40+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/929",
+      "text": "Update and rename TEMPLATE.md to malavikam-1@mulearn.md"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

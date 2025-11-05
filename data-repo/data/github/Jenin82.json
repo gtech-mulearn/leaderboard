@@ -1,0 +1,3990 @@
+{
+  "last_updated": "2024-07-13T07:08:25+00:00",
+  "activity": [
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2166",
+      "time": "2024-07-13T07:08:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2166",
+      "text": "Merge dev to patch1",
+      "collaborated_with": [
+        "Kochouseph26John",
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2142",
+      "time": "2024-07-05T12:31:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2142",
+      "text": "Dev-server",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "Kochouseph26John"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2141",
+      "time": "2024-07-05T12:30:21+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2141",
+      "text": "Production",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "Kochouseph26John"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2056",
+      "time": "2024-06-14T15:54:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2056",
+      "text": "Dev server",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2056",
+      "time": "2024-06-14T15:54:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2056",
+      "text": "Dev server",
+      "collaborated_with": [
+        "anirudh-mk"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2056",
+      "time": "2024-06-14T15:53:55+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2056",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#2055",
+      "time": "2024-06-14T15:50:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2055",
+      "text": "launchpad listing",
+      "turnaround_time": 24
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2055",
+      "time": "2024-06-14T15:50:57+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2055",
+      "text": "launchpad listing",
+      "collaborated_with": [
+        "anirudh-mk"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#2055",
+      "time": "2024-06-14T15:50:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2055",
+      "text": "launchpad listing"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/opengrad-frontend#68",
+      "time": "2024-06-12T17:14:54+00:00",
+      "link": "https://github.com/gtech-mulearn/opengrad-frontend/pull/68",
+      "text": "Dev",
+      "collaborated_with": [
+        "amalcpaulson"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/opengrad-frontend#67",
+      "time": "2024-06-12T17:13:05+00:00",
+      "link": "https://github.com/gtech-mulearn/opengrad-frontend/pull/67",
+      "text": "Dev",
+      "collaborated_with": [
+        "amalcpaulson"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#2023",
+      "time": "2024-06-07T14:22:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/2023",
+      "text": "Merge dev-server to dev",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "Kochouseph26John"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1563",
+      "time": "2024-06-06T11:34:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1563",
+      "text": "prod to dev-server",
+      "collaborated_with": [
+        "viraka",
+        "AswinAsok"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1560",
+      "time": "2024-06-02T11:59:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1560",
+      "text": "Old Prod",
+      "collaborated_with": [
+        "viraka",
+        "AbhishekNSanthosh"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1559",
+      "time": "2024-06-02T11:02:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1559",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka",
+        "AbhishekNSanthosh"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1558",
+      "time": "2024-06-02T10:40:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1558",
+      "text": "Old production sync",
+      "turnaround_time": 29
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1558",
+      "time": "2024-06-02T10:40:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1558",
+      "text": "Old production sync",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1558",
+      "time": "2024-06-02T10:40:12+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1558",
+      "text": "Old production sync"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1554",
+      "time": "2024-05-30T16:54:46+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1554",
+      "text": "Prod",
+      "collaborated_with": [
+        "arjuncvinod",
+        "viraka",
+        "awindsr",
+        "EkalavyanS",
+        "GeorgeET15"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1553",
+      "time": "2024-05-30T16:05:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1553",
+      "text": "Prod",
+      "collaborated_with": [
+        "arjuncvinod",
+        "AFarHitman7",
+        "viraka",
+        "GeorgeET15",
+        "karivarkey"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/WikiSyllabus#47",
+      "time": "2024-05-21T13:54:39+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/47#issuecomment-2122696601",
+      "text": "@Kochouseph26John What is the status of wikisyllabus task and bot in discord ?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-21T13:51:26+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2122688908",
+      "text": "@althafmu figma link\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-21T05:53:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2121801483",
+      "text": "@viraka if you need more clarification on the contents of the receipt please do let me know "
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-20T16:18:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2120776114",
+      "text": "@viraka is it pushed to production ?\r\nOr waiting for bug fixes"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1455",
+      "time": "2024-05-19T16:57:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1455",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka",
+        "arjuncvinod",
+        "GeorgeET15",
+        "awindsr"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1507",
+      "time": "2024-05-19T14:04:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1507",
+      "text": "dev ",
+      "collaborated_with": [
+        "AFarHitman7",
+        "viraka",
+        "arjuncvinod",
+        "karivarkey"
+      ]
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-19T11:58:08+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2119209802",
+      "text": "@viraka when will we go for production ?\n"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/WikiSyllabus#47",
+      "time": "2024-05-19T11:56:47+00:00",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/issues/47",
+      "text": "WikiSyllabus"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1436",
+      "time": "2024-05-19T08:52:56+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1436#issuecomment-2119157807",
+      "text": "@GeorgeET15 sure go ahead \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mucampus-events#3",
+      "time": "2024-05-19T01:04:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/issues/3#issuecomment-2119048811",
+      "text": "@Ansanjohny test this out \r\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mucampus-events#3",
+      "time": "2024-05-18T03:21:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/issues/3#issuecomment-2118619123",
+      "text": "@vishakh-abhayan What is the current status for this ?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-17T05:21:34+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443#issuecomment-2116670664",
+      "text": "@GeorgeET15 if you need help don't hesitate to ask \ud83d\udc4d"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1443",
+      "time": "2024-05-17T03:58:29+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1443#issuecomment-2116580232",
+      "text": "@GeorgeET15 what is the status of this issue ?\n"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearnbackend#1901",
+      "time": "2024-05-17T03:54:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/issues/1901#issuecomment-2116577333",
+      "text": "@jelanmathewjames we need to start working on Trivial idea project submissions, it should be like an app store or product hunt page were users can see projects, upvote/downvote them, upload their own"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1084",
+      "time": "2024-05-17T03:52:00+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1084",
+      "text": "Testing dev-server again before production"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1436",
+      "time": "2024-05-17T03:51:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1436#issuecomment-2116575374",
+      "text": "@viraka Why is this in review, is the bug already fixed ? \nWe put issues in review when the bug is fixed and ready for testing\n"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1083",
+      "time": "2024-05-17T03:49:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1083",
+      "text": "Razorpay integration Frontend"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-17T03:48:42+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2116573499",
+      "text": "@AFarHitman7 What is the progress on front-end development, could you share expected date of completion\n "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:26:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server",
+      "turnaround_time": 376
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:26:24+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server",
+      "collaborated_with": [
+        "SHABIN-K",
+        "viraka",
+        "Mishalabdullah",
+        "irfanpa005"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:26:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server",
+      "turnaround_time": 10
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:26:01+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Kochouseph26John",
+        "gtechmulearn",
+        "Mishalabdullah",
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1957",
+      "time": "2024-05-15T16:25:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1957",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1462",
+      "time": "2024-05-15T16:20:07+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1462",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1458",
+      "time": "2024-05-15T15:08:02+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1458",
+      "text": "fix build",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1109",
+      "time": "2024-05-15T12:21:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
+      "text": "Old dev",
+      "turnaround_time": 80051
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1109",
+      "time": "2024-05-15T12:21:47+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1109",
+      "text": "Old dev",
+      "collaborated_with": [
+        "EkalavyanS",
+        "awindsr",
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-05-15T07:09:30+00:00",
+      "title": "gtech-mulearn/WikiSyllabus#44",
+      "link": "https://github.com/gtech-mulearn/WikiSyllabus/pull/44#pullrequestreview-2057094031",
+      "text": "Update CONTRIBUTING.md with new flow of uploading"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-14T15:58:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2110595425",
+      "text": "@AFarHitman7 this looks good \ud83d\udc4d \r\n- Change USD to INR\r\n- change enter payment info to donate and make the button same width as the input or bit bigger whichever looks better \r\n"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1952",
+      "time": "2024-05-14T13:25:43+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1952",
+      "text": "Dev server",
+      "collaborated_with": [
+        "Kochouseph26John",
+        "d34d-5h07",
+        "gtechmulearn",
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#1070",
+      "time": "2024-05-14T01:51:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1070",
+      "text": "Add organization to Learning circle public page cards"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#897",
+      "time": "2024-05-14T01:50:58+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/897",
+      "text": "Unexpected Application Error: Falied to Fetch Dynamically Imported Module"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#855",
+      "time": "2024-05-14T01:50:37+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/855",
+      "text": "College levels dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#854",
+      "time": "2024-05-14T01:50:19+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/854",
+      "text": "Organization dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#852",
+      "time": "2024-05-14T01:50:05+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/852",
+      "text": "Role dashboard"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#850",
+      "time": "2024-05-14T01:49:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/850",
+      "text": "Common"
+    },
+    {
+      "type": "issue_closed",
+      "title": "gtech-mulearn/mulearn#427",
+      "time": "2024-05-14T01:49:28+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/427",
+      "text": "[bug] : template file provided for bulk import is not valid"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1419",
+      "time": "2024-05-14T01:48:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1419#issuecomment-2109124377",
+      "text": "Add screenshots or video for better understanding @Effinjoewilson "
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearn#1434",
+      "time": "2024-05-14T01:45:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/issues/1434#issuecomment-2109121592",
+      "text": "Waiting for UI development, then will proceed to production"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mucampus-events#1",
+      "time": "2024-05-12T07:49:04+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/1",
+      "text": "Create 2024-05-12-my-new-test.markdown",
+      "turnaround_time": 11
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mucampus-events#1",
+      "time": "2024-05-12T07:48:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mucampus-events/pull/1",
+      "text": "Create 2024-05-12-my-new-test.markdown"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1429",
+      "time": "2024-05-12T05:59:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1429",
+      "text": "Dev server",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1426",
+      "time": "2024-05-12T03:44:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1426",
+      "text": "dev merge",
+      "collaborated_with": [
+        "viraka",
+        "Mishalabdullah"
+      ]
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1939",
+      "time": "2024-05-11T16:01:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1939",
+      "text": "Production to dev - server",
+      "collaborated_with": [
+        "d34d-5h07"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1919",
+      "time": "2024-04-22T15:00:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1919",
+      "text": "Dev server",
+      "turnaround_time": 14
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1919",
+      "time": "2024-04-22T15:00:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1919",
+      "text": "Dev server",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "anirudh-mk"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1919",
+      "time": "2024-04-22T14:59:52+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1919",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1918",
+      "time": "2024-04-22T14:56:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1918",
+      "text": "merge dev",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1918",
+      "time": "2024-04-22T14:56:16+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1918",
+      "text": "merge dev",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1918",
+      "time": "2024-04-22T14:55:59+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1918",
+      "text": "merge dev"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-22T14:55:12+00:00",
+      "title": "gtech-mulearn/mulearnbackend#1917",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1917#pullrequestreview-2015008699",
+      "text": "Commenting wadhwani settings vars"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1916",
+      "time": "2024-04-22T13:59:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1916",
+      "text": "merge dev",
+      "turnaround_time": 41
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1916",
+      "time": "2024-04-22T13:59:20+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1916",
+      "text": "merge dev",
+      "collaborated_with": [
+        "jelanmathewjames",
+        "shaheenhyderk",
+        "anirudh-mk"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1916",
+      "time": "2024-04-22T13:58:40+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1916",
+      "text": "merge dev"
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1915",
+      "time": "2024-04-20T17:20:49+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1915",
+      "text": "Dev server",
+      "collaborated_with": [
+        "anirudh-mk",
+        "adnankattekaden",
+        "jelanmathewjames",
+        "MZaFaRM",
+        "shaheenhyderk"
+      ]
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1097",
+      "time": "2024-04-20T15:25:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1097",
+      "text": "Old dev server",
+      "turnaround_time": 250
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1097",
+      "time": "2024-04-20T15:25:14+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1097",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1097",
+      "time": "2024-04-20T15:21:06+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1097",
+      "text": "Old dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1096",
+      "time": "2024-04-20T15:02:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1096",
+      "text": "Old dev",
+      "turnaround_time": 157
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1096",
+      "time": "2024-04-20T15:02:11+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1096",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1096",
+      "time": "2024-04-20T14:59:35+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1096",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-20T14:58:40+00:00",
+      "title": "gtech-mulearn/mulearn#1095",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1095#pullrequestreview-2013101688",
+      "text": "feat(Home): Added Launchpad button"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1094",
+      "time": "2024-04-20T13:40:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1094",
+      "text": "merge dev to dev-server",
+      "turnaround_time": 194
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1094",
+      "time": "2024-04-20T13:40:54+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1094",
+      "text": "merge dev to dev-server",
+      "collaborated_with": [
+        "SHABIN-K",
+        "irfanpa005"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1094",
+      "time": "2024-04-20T13:37:41+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1094",
+      "text": "merge dev to dev-server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#144",
+      "time": "2024-04-20T01:31:55+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/144",
+      "text": "Jenin's profile",
+      "turnaround_time": 1640
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#144",
+      "time": "2024-04-20T01:04:35+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/144",
+      "text": "Jenin's profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#143",
+      "time": "2024-04-20T01:01:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/143",
+      "text": "Revert \"Jenin's Profile Update\"",
+      "turnaround_time": 18
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#143",
+      "time": "2024-04-20T01:00:58+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/143",
+      "text": "Revert \"Jenin's Profile Update\""
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#142",
+      "time": "2024-04-20T01:00:22+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/142",
+      "text": "Jenin's Profile Update",
+      "turnaround_time": 40
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#142",
+      "time": "2024-04-20T00:59:42+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/142",
+      "text": "Jenin's Profile Update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#1913",
+      "time": "2024-04-17T14:02:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1913",
+      "text": "LC public api",
+      "turnaround_time": 7
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearnbackend#1913",
+      "time": "2024-04-17T14:02:39+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1913",
+      "text": "LC public api",
+      "collaborated_with": [
+        "jelanmathewjames"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#1913",
+      "time": "2024-04-17T14:02:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/1913",
+      "text": "LC public api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1093",
+      "time": "2024-04-16T12:28:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1093",
+      "text": "Old dev",
+      "turnaround_time": 8
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1093",
+      "time": "2024-04-16T12:28:53+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1093",
+      "text": "Old dev",
+      "collaborated_with": [
+        "viraka"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1093",
+      "time": "2024-04-16T12:28:45+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1093",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-04-16T10:19:30+00:00",
+      "title": "gtech-mulearn/mulearn#1092",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1092#pullrequestreview-2003229312",
+      "text": "feat(Launchpad): Added Launchpad Page."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1090",
+      "time": "2024-04-13T06:47:23+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1090",
+      "text": "Dev server",
+      "turnaround_time": 4373
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1090",
+      "time": "2024-04-13T05:34:31+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1090",
+      "text": "Dev server"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearnbackend#1901",
+      "time": "2024-04-03T16:09:33+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/issues/1901",
+      "text": "Projects Backend"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/mulearnbackend#1900",
+      "time": "2024-04-02T14:00:10+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/issues/1900#issuecomment-2032125612",
+      "text": "dsgfhaghagjafdf"
+    },
+    {
+      "type": "issue_opened",
+      "title": "gtech-mulearn/mulearnbackend#1900",
+      "time": "2024-04-02T13:59:32+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/issues/1900",
+      "text": "test"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:09:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server",
+      "turnaround_time": 435
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:09:27+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server",
+      "collaborated_with": [
+        "AbhishekNSanthosh",
+        "bijomathewjose"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1089",
+      "time": "2024-03-28T16:02:13+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1089",
+      "text": "Old dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1088",
+      "time": "2024-03-28T16:00:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1088",
+      "text": "Old dev",
+      "turnaround_time": 188
+    },
+    {
+      "type": "pr_collaborated",
+      "title": "gtech-mulearn/mulearn#1088",
+      "time": "2024-03-28T16:00:25+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1088",
+      "text": "Old dev",
+      "collaborated_with": [
+        "AbhishekNSanthosh"
+      ]
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1088",
+      "time": "2024-03-28T15:57:18+00:00",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1088",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-03-28T15:53:37+00:00",
+      "title": "gtech-mulearn/mulearn#1087",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1087#pullrequestreview-1966605946",
+      "text": "Feat:New chaptership"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#61",
+      "time": "2023-10-03T01:41:59Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/61",
+      "text": "jenin's profile"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#61",
+      "time": "2023-10-03T03:16:24Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/61",
+      "text": "jenin's profile"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#517",
+      "time": "2023-11-17T11:14:32Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/517",
+      "text": "final"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#517",
+      "time": "2024-02-01T22:01:38Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/517",
+      "text": "final"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#43",
+      "time": "2022-05-13T01:15:02Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/43",
+      "text": "Added new features to the book app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#155",
+      "time": "2022-05-14T16:21:58Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/155",
+      "text": "Created a new book app"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#155",
+      "time": "2022-06-18T20:03:02Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/155",
+      "text": "Created a new book app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#218",
+      "time": "2023-05-14T17:27:56Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/218",
+      "text": "table component done as TableChat"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#218",
+      "time": "2023-05-15T06:28:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/218",
+      "text": "table component done as TableChat"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#220",
+      "time": "2023-05-16T05:56:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/220",
+      "text": "Made Table component reusable with optional header and footer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#220",
+      "time": "2023-05-16T11:55:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/220",
+      "text": "Made Table component reusable with optional header and footer"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#223",
+      "time": "2023-05-16T16:16:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/223",
+      "text": "basic table top bar implemented with seach and filter"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#223",
+      "time": "2023-05-16T17:44:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/223",
+      "text": "basic table top bar implemented with seach and filter"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#226",
+      "time": "2023-05-17T05:41:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/226",
+      "text": "Search bar logic done "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#226",
+      "time": "2023-05-17T06:59:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/226",
+      "text": "Search bar logic done "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#228",
+      "time": "2023-05-17T17:25:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/228",
+      "text": "Table TopBar, Sort, PerPage Components are done "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#228",
+      "time": "2023-05-17T19:58:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/228",
+      "text": "Table TopBar, Sort, PerPage Components are done "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#232",
+      "time": "2023-05-18T16:11:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/232",
+      "text": "Pagination NaN issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#232",
+      "time": "2023-05-18T16:51:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/232",
+      "text": "Pagination NaN issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#234",
+      "time": "2023-05-18T17:33:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/234",
+      "text": "Show Per Page updated and made responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#234",
+      "time": "2023-05-18T20:11:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/234",
+      "text": "Show Per Page updated and made responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#236",
+      "time": "2023-05-19T04:07:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/236",
+      "text": "Serial number & Date format issue fixed in table component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#236",
+      "time": "2023-05-19T06:45:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/236",
+      "text": "Serial number & Date format issue fixed in table component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#237",
+      "time": "2023-05-19T11:58:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/237",
+      "text": "Campus details table search, sort and pagination implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#237",
+      "time": "2023-05-19T12:07:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/237",
+      "text": "Campus details table search, sort and pagination implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#240",
+      "time": "2023-05-19T14:43:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/240",
+      "text": "Display username in igTable instead of id & igMember count shown"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#240",
+      "time": "2023-05-19T17:51:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/240",
+      "text": "Display username in igTable instead of id & igMember count shown"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#243",
+      "time": "2023-05-20T05:33:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/243",
+      "text": "Interest Group create page basic version done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#243",
+      "time": "2023-05-20T13:35:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/243",
+      "text": "Interest Group create page basic version done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#245",
+      "time": "2023-05-20T17:30:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/245",
+      "text": "PerPage bug fix for Interest groups and Campus details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#245",
+      "time": "2023-05-20T19:09:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/245",
+      "text": "PerPage bug fix for Interest groups and Campus details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#247",
+      "time": "2023-05-21T06:35:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/247",
+      "text": "New and Improved Table Component as per mentor's suggestion"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#247",
+      "time": "2023-05-21T09:13:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/247",
+      "text": "New and Improved Table Component as per mentor's suggestion"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#248",
+      "time": "2023-05-21T09:42:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/248",
+      "text": "New table implemented for organization"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#248",
+      "time": "2023-05-21T15:51:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/248",
+      "text": "New table implemented for organization"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#250",
+      "time": "2023-05-21T17:03:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/250",
+      "text": "CSV download button implemented for IG"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#250",
+      "time": "2023-05-22T02:50:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/250",
+      "text": "CSV download button implemented for IG"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#251",
+      "time": "2023-05-22T08:36:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/251",
+      "text": "Bug fix for CSV download and sort in Interest Group"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#251",
+      "time": "2023-05-22T12:55:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/251",
+      "text": "Bug fix for CSV download and sort in Interest Group"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#253",
+      "time": "2023-05-22T15:16:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/253",
+      "text": "sort button commented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#253",
+      "time": "2023-05-22T15:18:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/253",
+      "text": "sort button commented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#266",
+      "time": "2023-05-24T05:04:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/266",
+      "text": "Fix in CSV api (someone hardcoded the api for manage users page only)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#266",
+      "time": "2023-05-24T07:01:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/266",
+      "text": "Fix in CSV api (someone hardcoded the api for manage users page only)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#271",
+      "time": "2023-05-24T11:02:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/271",
+      "text": "Form component created IG edit feature basic(CSS not done)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#271",
+      "time": "2023-05-24T19:51:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/271",
+      "text": "Form component created IG edit feature basic(CSS not done)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#276",
+      "time": "2023-05-26T09:41:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/276",
+      "text": "feat(#260): Form component created"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#276",
+      "time": "2023-05-26T09:57:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/276",
+      "text": "feat(#260): Form component created"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#277",
+      "time": "2023-05-26T18:06:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/277",
+      "text": "feat(#260): IG edit page complete with prefilled data and dropdown added to form component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#277",
+      "time": "2023-05-26T19:18:42Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/277",
+      "text": "feat(#260): IG edit page complete with prefilled data and dropdown added to form component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#280",
+      "time": "2023-05-27T06:28:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/280",
+      "text": "feat(): IG delete feature done.  fix(): IG edit redirect and table css"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#280",
+      "time": "2023-05-27T19:23:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/280",
+      "text": "feat(): IG delete feature done.  fix(): IG edit redirect and table css"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#285",
+      "time": "2023-05-29T11:58:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/285",
+      "text": "feat(#260): TaskList edit and create page basic version. Toast added to IG delete."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#285",
+      "time": "2023-05-29T15:09:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/285",
+      "text": "feat(#260): TaskList edit and create page basic version. Toast added to IG delete."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#288",
+      "time": "2023-05-29T19:14:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/288",
+      "text": "feat(none): new Formik components to replace Form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#288",
+      "time": "2023-05-29T20:34:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/288",
+      "text": "feat(none): new Formik components to replace Form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#291",
+      "time": "2023-05-30T09:48:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/291",
+      "text": "fix(#260): IG edit page converted to Formik and TaskList create page implemeted using formik. feat(): TaskList delete page implemented."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#291",
+      "time": "2023-05-30T18:43:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/291",
+      "text": "fix(#260): IG edit page converted to Formik and TaskList create page implemeted using formik. feat(): TaskList delete page implemented."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#300",
+      "time": "2023-06-03T00:37:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/300",
+      "text": "fix(#301): Table column, Thead & isSortable coverted to json for IG"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#300",
+      "time": "2023-06-03T02:51:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/300",
+      "text": "fix(#301): Table column, Thead & isSortable coverted to json for IG"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#304",
+      "time": "2023-06-06T10:58:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/304",
+      "text": "feat(): bulk import UI"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#304",
+      "time": "2023-06-07T13:32:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/304",
+      "text": "feat(): bulk import UI"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#321",
+      "time": "2023-06-13T15:02:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/321",
+      "text": "feat(): HackAdmin landing page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#342",
+      "time": "2023-06-21T01:25:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/342",
+      "text": "feat(): Formik Implemented for hackathon"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#342",
+      "time": "2023-06-21T12:55:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/342",
+      "text": "feat(): Formik Implemented for hackathon"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#345",
+      "time": "2023-06-22T00:13:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/345",
+      "text": "feat(): Conditional rendering of action and verify"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#345",
+      "time": "2023-06-22T09:43:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/345",
+      "text": "feat(): Conditional rendering of action and verify"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#346",
+      "time": "2023-06-22T15:00:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/346",
+      "text": "feat(): added blur effect on modal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#346",
+      "time": "2023-06-23T13:22:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/346",
+      "text": "feat(): added blur effect on modal"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#359",
+      "time": "2023-06-26T00:58:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/359",
+      "text": "feat(): Hackathon create page completed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#359",
+      "time": "2023-06-26T10:39:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/359",
+      "text": "feat(): Hackathon create page completed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#366",
+      "time": "2023-06-28T06:51:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/366",
+      "text": "fix(): CSS variables corrected for table and pagination components."
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#366",
+      "time": "2023-06-28T08:35:08Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/366",
+      "text": "fix(): CSS variables corrected for table and pagination components."
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#369",
+      "time": "2023-06-29T04:58:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/369",
+      "text": "fix(): hackathon made responsive and minor refactoring of code"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#369",
+      "time": "2023-06-29T12:05:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/369",
+      "text": "fix(): hackathon made responsive and minor refactoring of code"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#375",
+      "time": "2023-06-29T16:17:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/375",
+      "text": "feat(): hackathon list page basic version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#375",
+      "time": "2023-06-30T04:12:07Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/375",
+      "text": "feat(): hackathon list page basic version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#382",
+      "time": "2023-07-01T02:08:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/382",
+      "text": "feat(): Hackathon list page "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#382",
+      "time": "2023-07-01T04:52:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/382",
+      "text": "feat(): Hackathon list page "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#384",
+      "time": "2023-07-01T11:27:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/384",
+      "text": "feat(): join date added for campus details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#384",
+      "time": "2023-07-01T13:38:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/384",
+      "text": "feat(): join date added for campus details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#398",
+      "time": "2023-07-03T13:34:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/398",
+      "text": "feat(): search button added to table component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#398",
+      "time": "2023-07-04T02:51:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/398",
+      "text": "feat(): search button added to table component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#402",
+      "time": "2023-07-04T16:10:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/402",
+      "text": "feat(): Hackathon create page (image upload)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#402",
+      "time": "2023-07-06T01:54:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/402",
+      "text": "feat(): Hackathon create page (image upload)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#411",
+      "time": "2023-07-06T16:43:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/411",
+      "text": "feat(): Modal component for delete in table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#411",
+      "time": "2023-07-06T17:15:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/411",
+      "text": "feat(): Modal component for delete in table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#416",
+      "time": "2023-07-07T08:28:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/416",
+      "text": "fix(): Delete modal api issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#416",
+      "time": "2023-07-07T08:49:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/416",
+      "text": "fix(): Delete modal api issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#417",
+      "time": "2023-07-07T09:45:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/417",
+      "text": "feat(): Search clear button for table top added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#417",
+      "time": "2023-07-07T09:48:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/417",
+      "text": "feat(): Search clear button for table top added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#428",
+      "time": "2023-07-13T13:17:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/428",
+      "text": "chore: Bulk import found and displayed, Hackathon code refactoring"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#428",
+      "time": "2023-07-14T10:51:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/428",
+      "text": "chore: Bulk import found and displayed, Hackathon code refactoring"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#430",
+      "time": "2023-07-14T15:11:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/430",
+      "text": "feat: New table component implemented (table top, table body, table head and pagination)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#430",
+      "time": "2023-07-14T15:18:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/430",
+      "text": "feat: New table component implemented (table top, table body, table head and pagination)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#435",
+      "time": "2023-07-15T05:28:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/435",
+      "text": "fix(): Table delete modal issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#435",
+      "time": "2023-07-15T07:09:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/435",
+      "text": "fix(): Table delete modal issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#437",
+      "time": "2023-07-15T12:05:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/437",
+      "text": "fix: delete modal build issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#437",
+      "time": "2023-07-15T14:59:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/437",
+      "text": "fix: delete modal build issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#446",
+      "time": "2023-07-16T14:46:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/446",
+      "text": "feat(hackathon & component): organizer add form created & powerfull button component created"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#446",
+      "time": "2023-07-17T05:07:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/446",
+      "text": "feat(hackathon & component): organizer add form created & powerfull button component created"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#450",
+      "time": "2023-07-17T07:00:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/450",
+      "text": "fix(app.tsx): website not rendering fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#450",
+      "time": "2023-07-17T07:13:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/450",
+      "text": "fix(app.tsx): website not rendering fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#455",
+      "time": "2023-07-18T04:26:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/455",
+      "text": "feat(hackathon): delete implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#455",
+      "time": "2023-07-18T04:28:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/455",
+      "text": "feat(hackathon): delete implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#457",
+      "time": "2023-07-18T07:16:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/457",
+      "text": "test(): hackathon delete data loading issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#457",
+      "time": "2023-07-18T07:31:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/457",
+      "text": "test(): hackathon delete data loading issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#466",
+      "time": "2023-07-19T13:15:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/466",
+      "text": "fix(): Conflicts and error fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#466",
+      "time": "2023-07-19T16:58:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/466",
+      "text": "fix(): Conflicts and error fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#474",
+      "time": "2023-07-20T14:34:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/474",
+      "text": "feat(hackathon): various functionalities added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#474",
+      "time": "2023-07-20T14:43:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/474",
+      "text": "feat(hackathon): various functionalities added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#493",
+      "time": "2023-07-22T07:25:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/493",
+      "text": "feat(Hackathon): More features added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#493",
+      "time": "2023-07-22T08:53:49Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/493",
+      "text": "feat(Hackathon): More features added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#497",
+      "time": "2023-07-22T10:02:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/497",
+      "text": "feat(lc): LC join page functionality basic version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#497",
+      "time": "2023-07-22T10:11:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/497",
+      "text": "feat(lc): LC join page functionality basic version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#499",
+      "time": "2023-07-22T13:39:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/499",
+      "text": "fix(lc): create circle id issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#499",
+      "time": "2023-07-22T13:39:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/499",
+      "text": "fix(lc): create circle id issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#504",
+      "time": "2023-07-22T17:45:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/504",
+      "text": "feat(lc): Details page basic version done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#504",
+      "time": "2023-07-22T17:53:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/504",
+      "text": "feat(lc): Details page basic version done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#512",
+      "time": "2023-07-24T12:05:29Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/512",
+      "text": "refactor(Hackathon): File Structure changed and removed duplicate files"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#512",
+      "time": "2023-07-24T12:15:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/512",
+      "text": "refactor(Hackathon): File Structure changed and removed duplicate files"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#516",
+      "time": "2023-07-25T03:48:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/516",
+      "text": "feat(hackathon): new listing and application form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#516",
+      "time": "2023-07-25T10:02:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/516",
+      "text": "feat(hackathon): new listing and application form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#517",
+      "time": "2023-07-25T11:02:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/517",
+      "text": "feat(hackathon): application api and conflict fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#517",
+      "time": "2023-07-26T13:19:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/517",
+      "text": "feat(hackathon): application api and conflict fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#523",
+      "time": "2023-07-26T13:54:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/523",
+      "text": "feat(hackathon): Organizer listing implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#523",
+      "time": "2023-07-26T14:00:19Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/523",
+      "text": "feat(hackathon): Organizer listing implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#548",
+      "time": "2023-07-29T12:35:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/548",
+      "text": "feat(lc): learning circle join"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#548",
+      "time": "2023-07-29T14:02:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/548",
+      "text": "feat(lc): learning circle join"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#555",
+      "time": "2023-07-30T04:51:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/555",
+      "text": "feat(ig): Create form modal to new page"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#555",
+      "time": "2023-07-30T05:21:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/555",
+      "text": "feat(ig): Create form modal to new page"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#564",
+      "time": "2023-07-30T12:46:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/564",
+      "text": "feat(lc): set meet time, date, day and note"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#564",
+      "time": "2023-07-30T12:47:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/564",
+      "text": "feat(lc): set meet time, date, day and note"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#580",
+      "time": "2023-08-03T18:47:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/580",
+      "text": "feat(lc): public page listing done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#580",
+      "time": "2023-08-03T18:49:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/580",
+      "text": "feat(lc): public page listing done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#583",
+      "time": "2023-08-04T12:22:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/583",
+      "text": "fix(LC): public page react select selected value clear issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#583",
+      "time": "2023-08-04T14:23:13Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/583",
+      "text": "fix(LC): public page react select selected value clear issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#593",
+      "time": "2023-08-05T12:10:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/593",
+      "text": "fix(lc): user circle listing serial number & Ig fetch api update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#593",
+      "time": "2023-08-05T13:22:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/593",
+      "text": "fix(lc): user circle listing serial number & Ig fetch api update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#610",
+      "time": "2023-08-07T15:18:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/610",
+      "text": "feat(lc): LC frontend completed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#610",
+      "time": "2023-08-07T15:26:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/610",
+      "text": "feat(lc): LC frontend completed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#612",
+      "time": "2023-08-07T17:29:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/612",
+      "text": "fix(LC): lc approve and reject issue fixed and toast issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#612",
+      "time": "2023-08-07T17:33:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/612",
+      "text": "fix(LC): lc approve and reject issue fixed and toast issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#614",
+      "time": "2023-08-07T18:14:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/614",
+      "text": "fix(LC): profile picture issue and multiple api call issue fixed added perms for student role"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#614",
+      "time": "2023-08-08T03:18:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/614",
+      "text": "fix(LC): profile picture issue and multiple api call issue fixed added perms for student role"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#617",
+      "time": "2023-08-08T04:00:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/617",
+      "text": "feat(LC): added back btn with tooltip and sidebar perms for students"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#617",
+      "time": "2023-08-08T04:02:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/617",
+      "text": "feat(LC): added back btn with tooltip and sidebar perms for students"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#618",
+      "time": "2023-08-08T04:29:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/618",
+      "text": "fix(LC): non admin get ig api implemented for lc create"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#618",
+      "time": "2023-08-08T04:30:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/618",
+      "text": "fix(LC): non admin get ig api implemented for lc create"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#622",
+      "time": "2023-08-08T13:40:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/622",
+      "text": "fix(LC): UX issues fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#622",
+      "time": "2023-08-08T16:31:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/622",
+      "text": "fix(LC): UX issues fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#634",
+      "time": "2023-08-12T13:56:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/634",
+      "text": "feat(Hackathon): list applicants page done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#634",
+      "time": "2023-08-12T15:49:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/634",
+      "text": "feat(Hackathon): list applicants page done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#650",
+      "time": "2023-08-17T14:32:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/650",
+      "text": "fix(LC): minor changes in LC "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#650",
+      "time": "2023-08-17T16:05:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/650",
+      "text": "fix(LC): minor changes in LC "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#662",
+      "time": "2023-08-20T03:11:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/662",
+      "text": "feat(LC): LC Leave done with Modal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#662",
+      "time": "2023-08-20T06:24:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/662",
+      "text": "feat(LC): LC Leave done with Modal"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#663",
+      "time": "2023-08-20T10:52:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/663",
+      "text": "feat(LC): added new lazy load module"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#663",
+      "time": "2023-08-21T23:24:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/663",
+      "text": "feat(LC): added new lazy load module"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#680",
+      "time": "2023-08-26T07:41:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/680",
+      "text": "fix(Hackathon): Application form now wont ask for system fields"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#680",
+      "time": "2023-08-26T07:47:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/680",
+      "text": "fix(Hackathon): Application form now wont ask for system fields"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#694",
+      "time": "2023-08-30T06:55:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/694",
+      "text": "fix(Hackathon): Hackathon cards button issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#694",
+      "time": "2023-08-30T09:48:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/694",
+      "text": "fix(Hackathon): Hackathon cards button issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#715",
+      "time": "2023-09-01T14:52:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/715",
+      "text": "fix(LC): error handling in LC join"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#715",
+      "time": "2023-09-02T06:14:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/715",
+      "text": "fix(LC): error handling in LC join"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#728",
+      "time": "2023-09-03T12:08:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/728",
+      "text": "fix(Hackathon): Publish temp fix "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#728",
+      "time": "2023-09-03T12:56:46Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/728",
+      "text": "fix(Hackathon): Publish temp fix "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#737",
+      "time": "2023-09-04T14:54:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/737",
+      "text": "fix(LC): remove self issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#737",
+      "time": "2023-09-04T14:55:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/737",
+      "text": "fix(LC): remove self issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#741",
+      "time": "2023-09-04T16:49:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/741",
+      "text": "feat(LC): dynamic LC insights"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#741",
+      "time": "2023-09-04T17:05:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/741",
+      "text": "feat(LC): dynamic LC insights"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#748",
+      "time": "2023-09-05T13:45:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/748",
+      "text": "feat(LC): user prompted to select district and campus"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#748",
+      "time": "2023-09-05T18:10:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/748",
+      "text": "feat(LC): user prompted to select district and campus"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#757",
+      "time": "2023-09-06T14:21:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/757",
+      "text": "feat(LC): unauthorized toast"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#757",
+      "time": "2023-09-06T15:31:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/757",
+      "text": "feat(LC): unauthorized toast"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#762",
+      "time": "2023-09-07T00:30:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/762",
+      "text": "fix(LC): public page counter issue solved"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#762",
+      "time": "2023-09-07T03:44:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/762",
+      "text": "fix(LC): public page counter issue solved"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#766",
+      "time": "2023-09-08T01:04:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/766",
+      "text": "feat(Hackathon): Publish 2nd iteration done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#766",
+      "time": "2023-09-08T10:22:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/766",
+      "text": "feat(Hackathon): Publish 2nd iteration done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#770",
+      "time": "2023-09-08T16:29:23Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/770",
+      "text": "feat(onboarding): components made reusable and file structure change"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#770",
+      "time": "2023-09-09T10:16:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/770",
+      "text": "feat(onboarding): components made reusable and file structure change"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#773",
+      "time": "2023-09-09T11:21:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/773",
+      "text": "feat(PowerfulButton): fixed sidebar issue and loader"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#788",
+      "time": "2023-09-13T14:09:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/788",
+      "text": "feat(powerfulButton): fixed conflict"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#788",
+      "time": "2023-09-13T14:12:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/788",
+      "text": "feat(powerfulButton): fixed conflict"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#820",
+      "time": "2023-09-21T15:13:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/820",
+      "text": "fix(Tasks): Edit Page title change"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#843",
+      "time": "2023-09-29T15:01:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/843",
+      "text": "feat(): route added for marketplace"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#843",
+      "time": "2023-09-29T16:03:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/843",
+      "text": "feat(): route added for marketplace"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#878",
+      "time": "2023-10-18T16:55:48Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/878",
+      "text": "fix(Onboarding): Made dept and graduation year not required and added type for formik values. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#878",
+      "time": "2023-10-18T16:58:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/878",
+      "text": "fix(Onboarding): Made dept and graduation year not required and added type for formik values. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#885",
+      "time": "2023-10-21T05:27:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/885",
+      "text": "feat(LC): new file for v3 of LC"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#890",
+      "time": "2023-10-21T16:09:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/890",
+      "text": "feat(): new organisation flow added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#890",
+      "time": "2023-10-21T16:14:32Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/890",
+      "text": "feat(): new organisation flow added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#893",
+      "time": "2023-10-22T06:35:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/893",
+      "text": "feat(CascadingSelects): new component for Selects in sequence"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#893",
+      "time": "2023-10-22T12:43:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/893",
+      "text": "feat(CascadingSelects): new component for Selects in sequence"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#896",
+      "time": "2023-10-22T14:17:26Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/896",
+      "text": "feat(): New Modal component and Org create functionality with CSS"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#896",
+      "time": "2023-10-22T14:18:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/896",
+      "text": "feat(): New Modal component and Org create functionality with CSS"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#899",
+      "time": "2023-10-23T03:59:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/899",
+      "text": "feat(Org): College new edit feature done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#899",
+      "time": "2023-10-23T07:01:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/899",
+      "text": "feat(Org): College new edit feature done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#901",
+      "time": "2023-10-23T11:47:22Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/901",
+      "text": "feat(Org): create and edit for company and community done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#901",
+      "time": "2023-10-23T13:11:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/901",
+      "text": "feat(Org): create and edit for company and community done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#902",
+      "time": "2023-10-23T14:37:53Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/902",
+      "text": "feat(org): new modal for delete org"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#902",
+      "time": "2023-10-23T17:42:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/902",
+      "text": "feat(org): new modal for delete org"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#905",
+      "time": "2023-10-24T03:20:11Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/905",
+      "text": "fix(org): csv download fix and code refactor (removed unwanted files)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#905",
+      "time": "2023-10-24T03:24:30Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/905",
+      "text": "fix(org): csv download fix and code refactor (removed unwanted files)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#906",
+      "time": "2023-10-24T08:23:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/906",
+      "text": "fix(Org): made location not required for != college"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#906",
+      "time": "2023-10-24T08:42:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/906",
+      "text": "fix(Org): made location not required for != college"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#931",
+      "time": "2023-10-31T01:44:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/931",
+      "text": "feat(LC): new lc modules"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#931",
+      "time": "2023-10-31T13:39:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/931",
+      "text": "feat(LC): new lc modules"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#937",
+      "time": "2023-11-01T13:41:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/937",
+      "text": "feat(ManageUsers):Replace modal using Mumodal"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#937",
+      "time": "2023-11-01T15:02:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/937",
+      "text": "feat(ManageUsers):Replace modal using Mumodal"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#945",
+      "time": "2023-11-02T15:11:14Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/945",
+      "text": "feat(LC): meet schedule"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#945",
+      "time": "2023-11-03T15:56:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/945",
+      "text": "feat(LC): meet schedule"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#967",
+      "time": "2023-11-13T15:55:44Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/967",
+      "text": "feat(LC): LC note coverted to checklist"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#967",
+      "time": "2023-11-14T07:22:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/967",
+      "text": "feat(LC): LC note coverted to checklist"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#979",
+      "time": "2023-11-24T16:40:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/979",
+      "text": "feat(lc): LC Meet Report done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#979",
+      "time": "2023-11-25T13:45:51Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/979",
+      "text": "feat(lc): LC Meet Report done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#982",
+      "time": "2023-11-26T16:00:00Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/982",
+      "text": "feat(LC): Learning circle new UI and features (LC report page, meet listing, report details page(almost done))"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#982",
+      "time": "2023-11-26T16:05:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/982",
+      "text": "feat(LC): Learning circle new UI and features (LC report page, meet listing, report details page(almost done))"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#985",
+      "time": "2023-11-27T13:49:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/985",
+      "text": "feat(lc): LC history page mapping function"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#985",
+      "time": "2023-11-29T00:12:38Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/985",
+      "text": "feat(lc): LC history page mapping function"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#992",
+      "time": "2023-11-29T09:08:52Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/992",
+      "text": "fix(lc): past meeting mapping issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#992",
+      "time": "2023-11-29T12:55:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/992",
+      "text": "fix(lc): past meeting mapping issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#994",
+      "time": "2023-11-29T14:06:03Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/994",
+      "text": "feat(lc): Learning circle new version"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#994",
+      "time": "2023-11-29T14:08:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/994",
+      "text": "feat(lc): Learning circle new version"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1002",
+      "time": "2023-11-30T14:35:20Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1002",
+      "text": "refactor(lc): lc urls changed from backend"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1002",
+      "time": "2023-11-30T14:37:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1002",
+      "text": "refactor(lc): lc urls changed from backend"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1003",
+      "time": "2023-11-30T16:04:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1003",
+      "text": "feat(utils): Global function for displaying user level badge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1003",
+      "time": "2023-11-30T16:05:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1003",
+      "text": "feat(utils): Global function for displaying user level badge"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1015",
+      "time": "2023-12-02T16:38:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1015",
+      "text": "feat(lc): Custom hook for finding outside click and option component for lc members(UI)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1015",
+      "time": "2023-12-02T16:48:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1015",
+      "text": "feat(lc): Custom hook for finding outside click and option component for lc members(UI)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1016",
+      "time": "2023-12-02T17:39:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1016",
+      "text": "feat(LC): lead transfer and ig name display"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1016",
+      "time": "2023-12-02T17:45:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1016",
+      "text": "feat(LC): lead transfer and ig name display"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1017",
+      "time": "2023-12-03T00:54:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1017",
+      "text": "fix(lc): remove member api route changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1017",
+      "time": "2023-12-03T04:45:58Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1017",
+      "text": "fix(lc): remove member api route changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1018",
+      "time": "2023-12-03T05:00:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1018",
+      "text": "feat(LC): dynamic routes implemented for lc api endpoints"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1018",
+      "time": "2023-12-03T20:16:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1018",
+      "text": "feat(LC): dynamic routes implemented for lc api endpoints"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1030",
+      "time": "2023-12-07T13:27:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1030",
+      "text": "feat(LC): Learning circle meeting report image upload and display done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1030",
+      "time": "2023-12-07T15:33:31Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1030",
+      "text": "feat(LC): Learning circle meeting report image upload and display done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1069",
+      "time": "2024-02-18T15:51:39Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1069",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1069",
+      "time": "2024-02-18T15:51:45Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1069",
+      "text": "Dev server"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearn#1086",
+      "time": "2024-03-03T13:07:21Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1086",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearn#1086",
+      "time": "2024-03-03T13:10:04Z",
+      "link": "https://github.com/gtech-mulearn/mulearn/pull/1086",
+      "text": "Old dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/bring-every-business-online#27",
+      "time": "2023-06-11T07:29:25Z",
+      "link": "https://github.com/gtech-mulearn/bring-every-business-online/pull/27",
+      "text": "Website for Fit N Life gym in Kakkanad"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#1",
+      "time": "2023-12-29T09:23:22Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/1",
+      "text": "initial commit"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#1",
+      "time": "2023-12-29T09:23:31Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/1",
+      "text": "initial commit"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#2",
+      "time": "2023-12-29T11:31:35Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/2",
+      "text": "initial setup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#2",
+      "time": "2023-12-29T11:31:42Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/2",
+      "text": "initial setup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#4",
+      "time": "2023-12-29T13:07:23Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/4",
+      "text": "sidenavbar and dashboard page "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#4",
+      "time": "2023-12-29T13:07:33Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/4",
+      "text": "sidenavbar and dashboard page "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#5",
+      "time": "2023-12-29T14:00:45Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/5",
+      "text": "dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#5",
+      "time": "2023-12-29T14:00:52Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/5",
+      "text": "dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#6",
+      "time": "2023-12-29T16:19:39Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/6",
+      "text": "dashboard styling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#6",
+      "time": "2023-12-29T16:19:47Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/6",
+      "text": "dashboard styling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#9",
+      "time": "2023-12-30T11:23:19Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/9",
+      "text": "API setup and styling"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#9",
+      "time": "2023-12-30T11:23:27Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/9",
+      "text": "API setup and styling"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#10",
+      "time": "2023-12-30T13:39:54Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/10",
+      "text": "Login implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#10",
+      "time": "2023-12-30T13:40:04Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/10",
+      "text": "Login implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#11",
+      "time": "2023-12-30T18:19:39Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/11",
+      "text": "dashboard"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#11",
+      "time": "2023-12-30T18:19:46Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/11",
+      "text": "dashboard"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#12",
+      "time": "2023-12-31T06:48:46Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/12",
+      "text": "dashboard done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#12",
+      "time": "2023-12-31T06:48:56Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/12",
+      "text": "dashboard done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#13",
+      "time": "2023-12-31T06:57:37Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/13",
+      "text": "fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#13",
+      "time": "2023-12-31T06:57:45Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/13",
+      "text": "fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#14",
+      "time": "2023-12-31T13:06:26Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/14",
+      "text": "intern management fetch api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#14",
+      "time": "2023-12-31T13:06:33Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/14",
+      "text": "intern management fetch api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#16",
+      "time": "2024-01-01T03:44:56Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/16",
+      "text": "table component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#16",
+      "time": "2024-01-01T03:45:02Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/16",
+      "text": "table component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#17",
+      "time": "2024-01-01T07:18:53Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/17",
+      "text": "table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#17",
+      "time": "2024-01-01T07:19:01Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/17",
+      "text": "table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#19",
+      "time": "2024-01-01T07:49:51Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/19",
+      "text": "table style"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#19",
+      "time": "2024-01-01T07:49:57Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/19",
+      "text": "table style"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#20",
+      "time": "2024-01-01T09:42:56Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/20",
+      "text": "ITI listing added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#20",
+      "time": "2024-01-01T09:43:03Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/20",
+      "text": "ITI listing added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#22",
+      "time": "2024-01-01T14:00:03Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/22",
+      "text": "build issue fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#22",
+      "time": "2024-01-01T14:00:11Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/22",
+      "text": "build issue fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#23",
+      "time": "2024-01-01T14:27:24Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/23",
+      "text": "fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#23",
+      "time": "2024-01-01T14:27:32Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/23",
+      "text": "fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#24",
+      "time": "2024-01-01T15:11:32Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/24",
+      "text": "iti spelling issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#24",
+      "time": "2024-01-01T15:11:48Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/24",
+      "text": "iti spelling issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#25",
+      "time": "2024-01-01T15:26:37Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/25",
+      "text": "dropdown issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#25",
+      "time": "2024-01-01T15:26:44Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/25",
+      "text": "dropdown issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#26",
+      "time": "2024-01-01T15:27:43Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/26",
+      "text": "dropdown issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#26",
+      "time": "2024-01-01T15:27:52Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/26",
+      "text": "dropdown issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#27",
+      "time": "2024-01-01T15:28:26Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/27",
+      "text": "Production"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#27",
+      "time": "2024-01-01T15:28:33Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/27",
+      "text": "Production"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#29",
+      "time": "2024-01-01T16:37:44Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/29",
+      "text": "intern listing fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#29",
+      "time": "2024-01-01T16:37:51Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/29",
+      "text": "intern listing fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#30",
+      "time": "2024-01-01T16:38:29Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/30",
+      "text": "interns listing"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#30",
+      "time": "2024-01-01T16:38:40Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/30",
+      "text": "interns listing"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#31",
+      "time": "2024-01-01T16:46:47Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/31",
+      "text": "build issue fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#31",
+      "time": "2024-01-01T16:46:55Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/31",
+      "text": "build issue fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#32",
+      "time": "2024-01-01T16:47:18Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/32",
+      "text": "build fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#32",
+      "time": "2024-01-01T16:47:46Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/32",
+      "text": "build fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#33",
+      "time": "2024-01-01T17:30:25Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/33",
+      "text": "interns details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#33",
+      "time": "2024-01-01T17:30:32Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/33",
+      "text": "interns details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#34",
+      "time": "2024-01-01T17:30:58Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/34",
+      "text": "interns detail view"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#34",
+      "time": "2024-01-01T17:31:06Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/34",
+      "text": "interns detail view"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#35",
+      "time": "2024-01-01T18:01:09Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/35",
+      "text": "edit profile fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#35",
+      "time": "2024-01-01T18:01:15Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/35",
+      "text": "edit profile fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#36",
+      "time": "2024-01-01T18:01:35Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/36",
+      "text": "edit profile fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#36",
+      "time": "2024-01-01T18:01:44Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/36",
+      "text": "edit profile fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#37",
+      "time": "2024-01-02T02:55:58Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/37",
+      "text": "mobile responsive"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#37",
+      "time": "2024-01-02T02:56:05Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/37",
+      "text": "mobile responsive"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#38",
+      "time": "2024-01-02T02:57:01Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/38",
+      "text": "mobile responsiveness done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#38",
+      "time": "2024-01-02T02:57:07Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/38",
+      "text": "mobile responsiveness done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#39",
+      "time": "2024-01-02T11:44:00Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/39",
+      "text": "reset password"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#39",
+      "time": "2024-01-02T11:44:07Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/39",
+      "text": "reset password"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#40",
+      "time": "2024-01-02T11:45:22Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/40",
+      "text": "reset password"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#40",
+      "time": "2024-01-02T11:45:30Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/40",
+      "text": "reset password"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#41",
+      "time": "2024-01-02T15:21:23Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/41",
+      "text": "role checker and loader implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#41",
+      "time": "2024-01-02T15:21:31Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/41",
+      "text": "role checker and loader implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#42",
+      "time": "2024-01-02T15:22:04Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/42",
+      "text": "role checker and loader implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#42",
+      "time": "2024-01-02T15:22:11Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/42",
+      "text": "role checker and loader implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#43",
+      "time": "2024-01-02T15:33:36Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/43",
+      "text": "icon and styling changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#43",
+      "time": "2024-01-02T15:33:42Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/43",
+      "text": "icon and styling changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#44",
+      "time": "2024-01-02T17:03:33Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/44",
+      "text": "actions added to table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#44",
+      "time": "2024-01-02T17:03:40Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/44",
+      "text": "actions added to table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#45",
+      "time": "2024-01-02T17:04:28Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/45",
+      "text": "action  added to table"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#45",
+      "time": "2024-01-02T17:04:59Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/45",
+      "text": "action  added to table"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#46",
+      "time": "2024-01-09T17:32:02Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/46",
+      "text": "Idea View"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#46",
+      "time": "2024-01-09T17:32:11Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/46",
+      "text": "Idea View"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#47",
+      "time": "2024-01-09T17:32:40Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/47",
+      "text": "Idea View"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#47",
+      "time": "2024-01-09T17:32:46Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/47",
+      "text": "Idea View"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#48",
+      "time": "2024-01-13T05:31:50Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/48",
+      "text": "idea page done and new table component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#48",
+      "time": "2024-01-13T05:31:58Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/48",
+      "text": "idea page done and new table component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#49",
+      "time": "2024-01-13T05:32:25Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/49",
+      "text": "idea page done and new table component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#49",
+      "time": "2024-01-13T05:32:33Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/49",
+      "text": "idea page done and new table component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#50",
+      "time": "2024-01-13T08:33:21Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/50",
+      "text": "csv upload implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#50",
+      "time": "2024-01-13T08:33:28Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/50",
+      "text": "csv upload implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#51",
+      "time": "2024-01-13T08:33:48Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/51",
+      "text": "csv upload implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#51",
+      "time": "2024-01-13T08:33:55Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/51",
+      "text": "csv upload implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#52",
+      "time": "2024-01-13T12:55:09Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/52",
+      "text": "csv template downloaded added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#52",
+      "time": "2024-01-13T12:55:34Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/52",
+      "text": "csv template downloaded added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#53",
+      "time": "2024-01-21T05:01:01Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/53",
+      "text": "delete user assignements done"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#53",
+      "time": "2024-01-21T05:01:08Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/53",
+      "text": "delete user assignements done"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#54",
+      "time": "2024-01-22T01:07:48Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/54",
+      "text": "idea view made public"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#54",
+      "time": "2024-01-22T01:08:18Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/54",
+      "text": "idea view made public"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#55",
+      "time": "2024-01-22T15:01:27Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/55",
+      "text": "confirmation for delete and un assign implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#55",
+      "time": "2024-01-22T15:01:35Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/55",
+      "text": "confirmation for delete and un assign implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#56",
+      "time": "2024-01-22T16:22:13Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/56",
+      "text": "csv download implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#56",
+      "time": "2024-01-22T16:22:20Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/56",
+      "text": "csv download implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#57",
+      "time": "2024-01-23T01:25:54Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/57",
+      "text": "profile update null issue fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#57",
+      "time": "2024-01-23T01:26:01Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/57",
+      "text": "profile update null issue fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#58",
+      "time": "2024-01-23T01:43:11Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/58",
+      "text": "sort functionality fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#58",
+      "time": "2024-01-23T01:43:30Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/58",
+      "text": "sort functionality fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#59",
+      "time": "2024-01-25T07:10:48Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/59",
+      "text": "Production"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#59",
+      "time": "2024-01-25T07:10:55Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/59",
+      "text": "Production"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#60",
+      "time": "2024-01-25T07:11:41Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/60",
+      "text": "Merge pull request #59 from gtech-mulearn/production"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#60",
+      "time": "2024-01-25T07:11:48Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/60",
+      "text": "Merge pull request #59 from gtech-mulearn/production"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#61",
+      "time": "2024-01-25T08:08:42Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/61",
+      "text": "feat(Table component): new role checker component added for actions column, made delete intern availiable only for admins"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#61",
+      "time": "2024-01-25T08:08:58Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/61",
+      "text": "feat(Table component): new role checker component added for actions column, made delete intern availiable only for admins"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#62",
+      "time": "2024-01-26T12:57:38Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/62",
+      "text": "merge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#62",
+      "time": "2024-01-26T12:57:46Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/62",
+      "text": "merge"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#63",
+      "time": "2024-01-26T12:58:23Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/63",
+      "text": "merge"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#63",
+      "time": "2024-01-26T13:00:13Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/63",
+      "text": "merge"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#64",
+      "time": "2024-01-31T15:48:31Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/64",
+      "text": "role enum changed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#64",
+      "time": "2024-01-31T15:48:38Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/64",
+      "text": "role enum changed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#65",
+      "time": "2024-02-20T16:22:25Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/65",
+      "text": "college filter fixed and ITI removed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#65",
+      "time": "2024-02-20T16:22:32Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/65",
+      "text": "college filter fixed and ITI removed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yiptracking#66",
+      "time": "2024-02-20T16:23:28Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/66",
+      "text": "merge to production from main"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yiptracking#66",
+      "time": "2024-02-20T16:25:08Z",
+      "link": "https://github.com/gtech-mulearn/yiptracking/pull/66",
+      "text": "merge to production from main"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#115",
+      "time": "2023-05-13T11:56:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/115",
+      "text": "Interest Group GET, POST, PUT, DELETE features implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#115",
+      "time": "2023-05-13T15:38:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/115",
+      "text": "Interest Group GET, POST, PUT, DELETE features implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#122",
+      "time": "2023-05-17T02:42:28Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/122",
+      "text": "Interest group count will be send through the GET api request (for calculating no. of pages)"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#122",
+      "time": "2023-05-17T18:08:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/122",
+      "text": "Interest group count will be send through the GET api request (for calculating no. of pages)"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#127",
+      "time": "2023-05-17T23:48:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/127",
+      "text": "Interest Groups Count api request fixed"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#127",
+      "time": "2023-05-18T09:00:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/127",
+      "text": "Interest Groups Count api request fixed"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#147",
+      "time": "2023-05-19T13:20:54Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/147",
+      "text": "Interest group created and updated user name sent instead of id and ig members count implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#147",
+      "time": "2023-05-19T13:38:18Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/147",
+      "text": "Interest group created and updated user name sent instead of id and ig members count implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#150",
+      "time": "2023-05-21T09:55:41Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/150",
+      "text": "fix to implement sort in Interest group"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#150",
+      "time": "2023-05-21T10:16:37Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/150",
+      "text": "fix to implement sort in Interest group"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#154",
+      "time": "2023-05-21T17:05:01Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/154",
+      "text": "CSV implemented for ig"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#154",
+      "time": "2023-05-21T17:57:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/154",
+      "text": "CSV implemented for ig"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#157",
+      "time": "2023-05-22T09:33:24Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/157",
+      "text": "CSV download implemented for Campus details"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#157",
+      "time": "2023-05-22T14:40:47Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/157",
+      "text": "CSV download implemented for Campus details"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#162",
+      "time": "2023-05-22T16:58:35Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/162",
+      "text": "Discord webhook link for interest group"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#169",
+      "time": "2023-05-23T07:12:43Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/169",
+      "text": "Discord webhook link for interest group"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#169",
+      "time": "2023-05-23T10:43:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/169",
+      "text": "Discord webhook link for interest group"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#171",
+      "time": "2023-05-23T11:49:09Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/171",
+      "text": "Discord webhook updated"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#171",
+      "time": "2023-05-23T13:33:50Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/171",
+      "text": "Discord webhook updated"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#174",
+      "time": "2023-05-23T16:59:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/174",
+      "text": "Discord webhook update and tasks db update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#174",
+      "time": "2023-05-23T17:42:17Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/174",
+      "text": "Discord webhook update and tasks db update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#192",
+      "time": "2023-05-24T04:22:33Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/192",
+      "text": "Error in task.py Issue fixed (duplicate InterestGroup model, no related name for created_by and updated_by in Level, comma missing in ig field of TaskList))"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#192",
+      "time": "2023-05-24T10:59:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/192",
+      "text": "Error in task.py Issue fixed (duplicate InterestGroup model, no related name for created_by and updated_by in Level, comma missing in ig field of TaskList))"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#204",
+      "time": "2023-05-26T14:54:06Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/204",
+      "text": "feat(api): Api to prefill data for IG edit form"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#204",
+      "time": "2023-05-26T17:26:02Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/204",
+      "text": "feat(api): Api to prefill data for IG edit form"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#210",
+      "time": "2023-05-28T02:01:55Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/210",
+      "text": "Merge pull request #5 from d34d-5h07/dev"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#210",
+      "time": "2023-05-28T16:52:34Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/210",
+      "text": "Merge pull request #5 from d34d-5h07/dev"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#212",
+      "time": "2023-05-29T09:21:12Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/212",
+      "text": "fix(none): Minor fix in IG and TaskList api"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#212",
+      "time": "2023-05-30T06:38:40Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/212",
+      "text": "fix(none): Minor fix in IG and TaskList api"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#216",
+      "time": "2023-05-30T09:41:27Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/216",
+      "text": "feat(none): New api for prefilling tasklist data. "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#216",
+      "time": "2023-05-30T12:06:10Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/216",
+      "text": "feat(none): New api for prefilling tasklist data. "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#585",
+      "time": "2023-07-29T21:12:05Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/585",
+      "text": "feat(ig): create ig update"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#585",
+      "time": "2023-07-29T21:26:57Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/585",
+      "text": "feat(ig): create ig update"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#629",
+      "time": "2023-08-05T04:50:25Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/629",
+      "text": "fix(LearningCircle): filtering bug fix"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#629",
+      "time": "2023-08-05T07:50:15Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/629",
+      "text": "fix(LearningCircle): filtering bug fix"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/mulearnbackend#686",
+      "time": "2023-08-13T11:16:36Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/686",
+      "text": "fix(lc): update in LC"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/mulearnbackend#686",
+      "time": "2023-08-13T11:22:59Z",
+      "link": "https://github.com/gtech-mulearn/mulearnbackend/pull/686",
+      "text": "fix(lc): update in LC"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top100-Beckn-Challenge#1",
+      "time": "2023-11-18T07:17:50Z",
+      "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/1",
+      "text": "contributions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top100-Beckn-Challenge#2",
+      "time": "2023-11-18T07:40:42Z",
+      "link": "https://github.com/gtech-mulearn/Top100-Beckn-Challenge/pull/2",
+      "text": "contributions"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/gtahackathon#43",
+      "time": "2023-10-24T09:35:21Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/43",
+      "text": "fix(leaderboard): new api endpoint implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/gtahackathon#43",
+      "time": "2023-10-24T12:35:58Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/43",
+      "text": "fix(leaderboard): new api endpoint implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/gtahackathon#44",
+      "time": "2023-10-24T16:02:28Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/44",
+      "text": "feat(regex): backend pani edukku please"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/gtahackathon#44",
+      "time": "2023-10-24T16:10:42Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/44",
+      "text": "feat(regex): backend pani edukku please"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/gtahackathon#48",
+      "time": "2023-10-25T12:40:22Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/48",
+      "text": "feat(): problem statements added for phase one"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/gtahackathon#48",
+      "time": "2023-10-25T12:46:05Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/48",
+      "text": "feat(): problem statements added for phase one"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/gtahackathon#50",
+      "time": "2023-10-29T06:02:15Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/50",
+      "text": "feat(registration): closed registration"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/gtahackathon#50",
+      "time": "2023-10-29T06:07:58Z",
+      "link": "https://github.com/gtech-mulearn/gtahackathon/pull/50",
+      "text": "feat(registration): closed registration"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#52",
+      "time": "2023-06-04T20:51:02Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/52",
+      "text": "fix():formic implementation"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#52",
+      "time": "2023-06-04T20:52:27Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/52",
+      "text": "fix():formic implementation"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#53",
+      "time": "2023-06-04T21:16:35Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/53",
+      "text": "hotfix(): css update and renaming"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#53",
+      "time": "2023-06-04T22:10:14Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/53",
+      "text": "hotfix(): css update and renaming"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#56",
+      "time": "2023-06-04T23:24:20Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/56",
+      "text": "feat(): Toastify implemented"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#56",
+      "time": "2023-06-04T23:32:36Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/56",
+      "text": "feat(): Toastify implemented"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#57",
+      "time": "2023-06-04T23:42:25Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/57",
+      "text": "hotfix(): Validation in YIP club create"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#57",
+      "time": "2023-06-04T23:57:50Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/57",
+      "text": "hotfix(): Validation in YIP club create"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#59",
+      "time": "2023-06-05T01:24:43Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/59",
+      "text": "feat(bulk-upload):bulk-upload-added-with-toastify"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#59",
+      "time": "2023-06-05T01:27:16Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/59",
+      "text": "feat(bulk-upload):bulk-upload-added-with-toastify"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#60",
+      "time": "2023-06-05T02:14:48Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/60",
+      "text": "fix(upload):role-restriction-added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#60",
+      "time": "2023-06-05T02:16:08Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/60",
+      "text": "fix(upload):role-restriction-added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#61",
+      "time": "2023-06-05T02:23:07Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/61",
+      "text": "fix(login-page):redirection-issue"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#61",
+      "time": "2023-06-05T02:25:36Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/61",
+      "text": "fix(login-page):redirection-issue"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#62",
+      "time": "2023-06-05T05:54:31Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/62",
+      "text": "hotfix(): icon added for navbar & toast added"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#62",
+      "time": "2023-06-05T06:23:52Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/62",
+      "text": "hotfix(): icon added for navbar & toast added"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#66",
+      "time": "2023-06-05T09:08:08Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/66",
+      "text": "hotfix(): toastify commom component"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#66",
+      "time": "2023-06-05T09:08:45Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/66",
+      "text": "hotfix(): toastify commom component"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#67",
+      "time": "2023-06-05T09:56:28Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/67",
+      "text": "fix(): toastify for user setup"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#67",
+      "time": "2023-06-05T10:02:56Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/67",
+      "text": "fix(): toastify for user setup"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#70",
+      "time": "2023-06-05T12:46:00Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/70",
+      "text": "feat(): backend date convert to proper"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#70",
+      "time": "2023-06-05T12:46:51Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/70",
+      "text": "feat(): backend date convert to proper"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#73",
+      "time": "2023-06-05T13:39:33Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/73",
+      "text": "hotfix(): execomModel toatify"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#73",
+      "time": "2023-06-05T13:41:40Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/73",
+      "text": "hotfix(): execomModel toatify"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#78",
+      "time": "2023-06-06T07:23:21Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/78",
+      "text": "hotfix(): YIP club create"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#78",
+      "time": "2023-06-06T07:28:06Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/78",
+      "text": "hotfix(): YIP club create"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/yipfrontend#80",
+      "time": "2023-06-06T07:47:28Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/80",
+      "text": "hotfix(): Filter btn cursor pointer"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/yipfrontend#80",
+      "time": "2023-06-06T07:53:25Z",
+      "link": "https://github.com/gtech-mulearn/yipfrontend/pull/80",
+      "text": "hotfix(): Filter btn cursor pointer"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

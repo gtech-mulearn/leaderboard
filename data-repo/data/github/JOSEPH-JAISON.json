@@ -1,0 +1,42 @@
+{
+  "last_updated": "2023-10-15T14:59:55Z",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Top-100-Coders#212",
+      "time": "2023-10-15T14:59:55Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/212",
+      "text": "add josephjaison@mulearn.md "
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Top-100-Coders#212",
+      "time": "2023-10-15T15:12:50Z",
+      "link": "https://github.com/gtech-mulearn/Top-100-Coders/pull/212",
+      "text": "add josephjaison@mulearn.md "
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#224",
+      "time": "2022-05-15T14:54:26Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/224",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#228",
+      "time": "2022-05-15T15:11:26Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/228",
+      "text": "Develop"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/Github-Enablment-Task#228",
+      "time": "2022-06-19T05:12:34Z",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/228",
+      "text": "Develop"
+    }
+  ],
+  "open_prs": [],
+  "authored_issue_and_pr": []
+}

@@ -1,0 +1,104 @@
+{
+  "last_updated": "2024-06-24T16:43:19+00:00",
+  "activity": [
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#632",
+      "time": "2024-06-24T16:43:19+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/632",
+      "text": "Update riyasabu-1@mulearn.md",
+      "turnaround_time": 14622
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#634",
+      "time": "2024-06-24T12:48:46+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/634",
+      "text": "Update riyasabu-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#633",
+      "time": "2024-06-24T12:45:32+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/633",
+      "text": "Update riyasabu-1@mulearn.md"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#632",
+      "time": "2024-06-24T12:39:37+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/632",
+      "text": "Update riyasabu-1@mulearn.md"
+    },
+    {
+      "type": "pr_merged",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#612",
+      "time": "2024-06-24T12:22:53+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/612",
+      "text": "Create riyasabu-1@mulearn.md",
+      "turnaround_time": 20756
+    },
+    {
+      "type": "pr_reviewed",
+      "time": "2024-06-23T07:08:22+00:00",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#612",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/612#pullrequestreview-2134145065",
+      "text": "Create riyasabu-1@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#612",
+      "time": "2024-06-23T07:05:02+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/612#issuecomment-2184726781",
+      "text": "e"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#612",
+      "time": "2024-06-23T07:04:51+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/612#issuecomment-2184726427",
+      "text": "jj"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#612",
+      "time": "2024-06-23T06:36:58+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/612",
+      "text": "Create riyasabu-1@mulearn.md"
+    },
+    {
+      "type": "comment_created",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#611",
+      "time": "2024-06-23T05:38:10+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/611#issuecomment-2184602070",
+      "text": "j"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/IEEE-LAUNCHPAD#611",
+      "time": "2024-06-23T05:37:47+00:00",
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/611",
+      "text": "Create riyasabu-1@mulearn.md"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/633",
+      "title": "Update riyasabu-1@mulearn.md",
+      "stale_for": 0,
+      "labels": [
+        "documentation",
+        "Changes Requested"
+      ]
+    },
+    {
+      "link": "https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/pull/611",
+      "title": "Create riyasabu-1@mulearn.md",
+      "stale_for": 0,
+      "labels": [
+        "Changes Requested"
+      ]
+    }
+  ],
+  "authored_issue_and_pr": []
+}

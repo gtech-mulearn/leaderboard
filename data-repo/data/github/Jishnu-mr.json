@@ -1,0 +1,28 @@
+{
+  "last_updated": "2024-04-15T10:05:50+00:00",
+  "activity": [
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#577",
+      "time": "2024-04-15T10:05:50+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/577",
+      "text": "Create Jishnu_mr_book_app"
+    },
+    {
+      "type": "pr_opened",
+      "title": "gtech-mulearn/Github-Enablment-Task#576",
+      "time": "2024-04-14T14:34:32+00:00",
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/576",
+      "text": "Create jishnu_files"
+    }
+  ],
+  "open_prs": [
+    {
+      "link": "https://github.com/gtech-mulearn/Github-Enablment-Task/pull/577",
+      "title": "Create Jishnu_mr_book_app",
+      "stale_for": 0,
+      "labels": []
+    }
+  ],
+  "authored_issue_and_pr": []
+}
